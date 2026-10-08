@@ -1,0 +1,26 @@
+# One representative Vietnamese page per kind of scan, for comparing engines
+# before running whole books: `python -m vsc_ocr samples`.
+# Page numbers are pages of the book's source PDF (see data/books/<id>/structure.yaml).
+# To measure accuracy, type the exact page text into
+# data/groundtruth/<book>/pNNNN.txt and run `python -m vsc_ocr evaluate <book>`.
+- book: truyen-co-dan-gian-cham
+  pages: "428"
+  why: 200 dpi 1-bit, plain prose (Cậu Gạo)
+- book: huyen-thoai-va-truyen-thuyet-cham
+  pages: "145"
+  why: 200 dpi, decorative running header, [tr.194] source references (Po Ali)
+- book: ariya-truong-ca-cham
+  pages: "316"
+  why: 150 dpi (lowest), numbered verse, footnote calls (Glong Anak, dịch nghĩa)
+- book: truong-ca-ho-bia-ta-lui-kalipu
+  pages: "50"
+  why: 370 dpi verse, Cham names in Vietnamese text, bold speaker labels
+- book: muon-bua-cua-than-set-tap-truyen-co-dan-gian-viet-nam
+  pages: "10"
+  why: 1975 print, faded colour scan, old typesetting, illustrations
+- book: dam-noi-chang-noi-su-thi-ba-na-ban-ke-rut-gon
+  pages: "80"
+  why: Ba Na epic translation, running header with page number
+- book: su-thi-raglai-quyen-4
+  pages: "258"
+  why: Raglai epic translation, verse with Raglai names

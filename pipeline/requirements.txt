@@ -1,0 +1,6 @@
+pypdf>=4.0
+pypdfium2>=4.0
+Pillow>=10.0
+PyYAML>=6.0
+# optional: faster edit distance for `evaluate`
+# rapidfuzz>=3.0
