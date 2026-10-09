@@ -283,7 +283,7 @@ def _evidence(stream: Stream, block: dict, cands: list[dict]) -> list[dict]:
     out = []
     for note in block["notes"]:
         k = note["number"]
-        hits, how = [], None
+        hits, kind = [], None
         m = _headword.match(note["text"])
         if m and 1 <= len(m.group("w").split()) <= 3:
             key = norm(m.group("w"))
@@ -294,17 +294,16 @@ def _evidence(stream: Stream, block: dict, cands: list[dict]) -> list[dict]:
                 before = norm(text[max(0, c["start"] - len(m.group("w")) - 2):c["start"]])
                 if before.endswith(key) or (len(key) >= 5 and _ratio(before[-len(key):], key) >= 0.8):
                     hits.append(c)
-            how = f"the note explains '{m.group('w')}'; the only junk mark after that word"
+            kind = "headword"
         v = _verse_ref.match(note["text"])
         if not hits and v:
             a, b = int(v.group("a")), int(v.group("b") or v.group("a"))
             couplets = _couplet_ranges(stream)
             spots = [p for p, num in couplets.items() if a <= num <= b]
             hits = [c for c in cands if c["kind"] == "junk" and c["pos"] in spots]
-            how = f"the note is about verse {a}{'-' + str(b) if b != a else ''}; the only junk mark in it"
+            kind = "verse"
         if len(hits) == 1:
-            out.append(dict(hits[0], kind="verse" if not m or not how.startswith("the note explains") else "headword",
-                            number=k, how=how + f": '{hits[0]['raw'].strip()}'"))
+            out.append(dict(hits[0], kind=kind, number=k))
     return out
 
 
@@ -404,35 +403,15 @@ def resolve(book: Book, stream: Stream, root: dict, cfg: dict, rerender: bool = 
                 text = stream.segments(c["pos"][0])[c["pos"][1]]["text"]
                 if c["kind"] in ("headword", "verse"):
                     status = "recovered"
-                    how = c["how"]
-                elif status == "resolved":
-                    how = {"clean": "full size", "glued": "superscript, read by OCR",
-                           "secondary": "superscript, read by the other engine / an alternative reading"}[c["kind"]]
-                else:
-                    a, b = c["gap"]
-                    what = f"OCR junk '{c['raw'].strip()}' at" if c["raw"].strip() else "nothing in the OCR text, but"
-                    how = (f"sequence gap between calls {a or 'start'} and {b if b <= total else 'end'}: "
-                           f"{what} a raised mark on the scan")
                 entry["call"] = dict(pdf_page=c["pos"][0], sentence=_sentence(text, c["start"], c["end"]),
-                                     ocr_raw=(_word_before(text, c["start"]) + c["raw"]).strip(), how=how)
+                                     ocr_raw=(_word_before(text, c["start"]) + c["raw"]).strip())
                 calls.setdefault(c["pos"], []).append((c["start"], c["end"], nid))
             else:
                 status = "unresolved"
                 entry["call"] = None
-                prev = max((x for x in placed if x < k), default=None)
-                nxt = min((x for x in placed if x > k), default=None)
-                entry["call_between"] = dict(
-                    after_call=prev, before_call=nxt,
-                    pdf_pages=_pages_between(placed.get(prev), placed.get(nxt), body, block))
             entry["status"] = status
             notes_out.append(entry)
     return notes_out, calls, blocks
-
-
-def _pages_between(a, b, body, block) -> list[int]:
-    lo = a[0]["pos"] if a else body[0] if body else block["start"]
-    hi = b[0]["pos"] if b else block["start"]
-    return sorted({n for n, _ in body if lo[0] <= n <= hi[0]})
 
 
 def _in_other_block(blocks, block, pos) -> bool:
