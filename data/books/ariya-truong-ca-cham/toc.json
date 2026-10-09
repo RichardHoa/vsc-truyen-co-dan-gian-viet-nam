@@ -1,0 +1,910 @@
+{
+ "book": "ariya-truong-ca-cham",
+ "toc": {
+  "id": "ariya-cam-truong-ca-cham",
+  "title": "ARIYA CAM – TRƯỜNG CA CHĂM",
+  "level": 0,
+  "printed_page": null,
+  "pdf_start": 2,
+  "pdf_end": 518,
+  "parse": true,
+  "children": [
+   {
+    "id": "loi-mo",
+    "title": "Lời mở",
+    "level": 1,
+    "printed_page": 5,
+    "pdf_start": 4,
+    "pdf_end": 6,
+    "parse": true,
+    "located": "heading on its printed page"
+   },
+   {
+    "id": "phan-dan-nhap",
+    "title": "A. Phần dẫn nhập",
+    "level": 1,
+    "printed_page": null,
+    "pdf_start": 7,
+    "pdf_end": 29,
+    "parse": true,
+    "located": "heading in the body",
+    "children": [
+     {
+      "id": "phan-dan-nhap-ngon-ngu-va-tinh-trang-van-ban",
+      "title": "I. Ngôn ngữ và tình trạng văn bản",
+      "level": 2,
+      "printed_page": 9,
+      "pdf_start": 7,
+      "pdf_end": 16,
+      "parse": true,
+      "ocr_title": "Ï. Ngôn ngữ và tình trạng văn bản",
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-dan-nhap-ngon-ngu-va-tinh-trang-van-ban-ngon-ngu",
+        "title": "1. Ngôn ngữ",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 7,
+        "pdf_end": 8,
+        "parse": true,
+        "ocr_title": "I. Ngôn ngữ",
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-dan-nhap-ngon-ngu-va-tinh-trang-van-ban-tinh-trang-van-ban-cham",
+        "title": "2. Tỉnh trạng văn bản Chăm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 8,
+        "pdf_end": 11,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-dan-nhap-ngon-ngu-va-tinh-trang-van-ban-tinh-hinh-suu-tam-va-cong-bo-van-ban-cham",
+        "title": "3. Tình hình sưu tầm và công bố văn bản Chăm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 11,
+        "pdf_end": 15,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-dan-nhap-ngon-ngu-va-tinh-trang-van-ban-nhan-dinh-so-bo",
+        "title": "4. Nhận định sơ bộ",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 15,
+        "pdf_end": 16,
+        "parse": true,
+        "located": "heading in the body"
+       }
+      ]
+     },
+     {
+      "id": "phan-dan-nhap-van-chuong-cham",
+      "title": "II. Văn chương Chăm",
+      "level": 2,
+      "printed_page": 19,
+      "pdf_start": 17,
+      "pdf_end": 25,
+      "parse": true,
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-dan-nhap-van-chuong-cham-xac-dinh-van-ban-van-chuong-va-cac-the-loai-van-chuong",
+        "title": "Xác định văn bản văn chương và các thể loại văn chương",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 17,
+        "pdf_end": 18,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-dan-nhap-van-chuong-cham-ve-the-tho-ariya-cham",
+        "title": "2. Về thể thơ ariya Chăm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 18,
+        "pdf_end": 25,
+        "parse": true,
+        "located": "heading in the body"
+       }
+      ]
+     },
+     {
+      "id": "phan-dan-nhap-vi-tri-cua-4-ariya-trong-van-chuong-cham",
+      "title": "III. Vị trí của 4 Ariya trong văn chương Chăm",
+      "level": 2,
+      "printed_page": 28,
+      "pdf_start": 26,
+      "pdf_end": 29,
+      "parse": true,
+      "ocr_title": "II. Vị trí của 4 Ariya trong văn chương Chăm",
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-dan-nhap-vi-tri-cua-4-ariya-trong-van-chuong-cham-ban-do-hanh-trinh-cua-xah-pakei-muh-rat",
+        "title": "- Bản đồ hành trình của Xah Pakei - Mưh Rat",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 31,
+        "pdf_end": 31,
+        "parse": true,
+        "located": "image page"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "phan-phan-tich-tac-pham",
+    "title": "B. Phần phân tích tác phẩm",
+    "level": 1,
+    "printed_page": null,
+    "pdf_start": 30,
+    "pdf_end": 86,
+    "parse": true,
+    "located": "heading in the body",
+    "children": [
+     {
+      "id": "phan-phan-tich-tac-pham-ariya-xah-pakei",
+      "title": "ARIYA XAH PAKEI",
+      "level": 2,
+      "printed_page": 32,
+      "pdf_start": 30,
+      "pdf_end": 45,
+      "parse": true,
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-ten-goi-tac-pham",
+        "title": "1. Tên gọi tác phẩm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 30,
+        "pdf_end": 30,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-lich-su-ra-doi",
+        "title": "2. Lịch sử ra đời",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 30,
+        "pdf_end": 35,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-nhan-vat",
+        "title": "3. Nhân vật",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 35,
+        "pdf_end": 36,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-cot-truyen-hay-nhung-buoc-lang-thang-cua-cuoc-tinh-mot-chieu",
+        "title": "4. Cốt truyện hay những bước lang thang của cuộc tình một chiều",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 36,
+        "pdf_end": 38,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-y-nghia-cua-tac-pham",
+        "title": "5. Ý nghĩa của tác phẩm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 38,
+        "pdf_end": 41,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-tu-vung",
+        "title": "6. Từ vựng",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 41,
+        "pdf_end": 42,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-xah-pakei-gia-tri-nghe-thuat",
+        "title": "7. Giá trị nghệ thuật",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 42,
+        "pdf_end": 45,
+        "parse": true,
+        "located": "heading in the body"
+       }
+      ]
+     },
+     {
+      "id": "phan-phan-tich-tac-pham-ariya-cam-bini",
+      "title": "ARIYA CAM-BINI",
+      "level": 2,
+      "printed_page": 47,
+      "pdf_start": 46,
+      "pdf_end": 57,
+      "parse": true,
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-cam-bini-vai-net-ve-lich-su",
+        "title": "1. Vài nét về lịch sử",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 46,
+        "pdf_end": 50,
+        "parse": true,
+        "located": "heading in the body",
+        "children": [
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-vai-net-ve-lich-su-cam",
+          "title": "a. Cam",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 46,
+          "pdf_end": 47,
+          "parse": true,
+          "located": "heading in the body"
+         },
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-vai-net-ve-lich-su-bimni",
+          "title": "b. Bimni",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 47,
+          "pdf_end": 50,
+          "parse": true,
+          "located": "marker only (title unreadable)"
+         }
+        ]
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-cam-bini-xung-dot-cam-bini-trong-van-chuong-va-xa-hoi",
+        "title": "2. Xung đột Cam-Bini trong văn chương và xã hội",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 50,
+        "pdf_end": 52,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham",
+        "title": "3. Phân tích tác phẩm",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 52,
+        "pdf_end": 57,
+        "parse": true,
+        "located": "heading in the body",
+        "children": [
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham-hoan-canh-ra-doi-va-nhan-vat",
+          "title": "a. Hoàn cảnh ra đời và nhân vật",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 52,
+          "pdf_end": 53,
+          "parse": true,
+          "located": "heading in the body"
+         },
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham-dien-bien-cau-chuyen",
+          "title": "b. Diễn biến câu chuyện",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 53,
+          "pdf_end": 53,
+          "parse": true,
+          "located": "heading in the body"
+         },
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham-cac-cuc-hinh-va-du-luan-xa-hoi-ve-moi-iinh-cam-bini",
+          "title": "c. Các cực hình và dư luận xã hội về mối iình Cam-Bini",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 54,
+          "pdf_end": 54,
+          "parse": true,
+          "located": "heading in the body"
+         },
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham-mot-cuoc-tinh-thuy-chung-dang-kinh-phuc",
+          "title": "d. Một cuộc tình thủy chung đáng kính phục",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 54,
+          "pdf_end": 55,
+          "parse": true,
+          "ocr_title": "đ. Một cuộc tình thủy chung đáng kính phục",
+          "located": "heading in the body"
+         },
+         {
+          "id": "phan-phan-tich-tac-pham-ariya-cam-bini-phan-tich-tac-pham-gia-tri-nghe-thuat",
+          "title": "e. Giá trị nghệ thuật",
+          "level": 4,
+          "printed_page": null,
+          "pdf_start": 55,
+          "pdf_end": 57,
+          "parse": true,
+          "located": "heading in the body"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "phan-phan-tich-tac-pham-ariya-glong-anak",
+      "title": "ARIYA GLƠNG ANAK",
+      "level": 2,
+      "printed_page": 59,
+      "pdf_start": 58,
+      "pdf_end": 69,
+      "parse": true,
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-ten-goi",
+        "title": "1. Tên gọi",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 58,
+        "pdf_end": 59,
+        "parse": true,
+        "ocr_title": "l. Tên gọi",
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-boi-canh-lich-su",
+        "title": "2. Bối cảnh lịch sử",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 59,
+        "pdf_end": 60,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-nam-ra-doi-va-boi-canh-xa-hoi-trong-ariya-glong-anak",
+        "title": "3. Năm ra đời và bối cảnh xã hội trong Ariya Glơng Anak",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 61,
+        "pdf_end": 63,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-ong-glong-anak-viet-ariya-o-dau-trong-tam-trang-nao",
+        "title": "4. Ông Glơng Anak viết Ariya ở đâu? Trong tâm trạng nào?",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 63,
+        "pdf_end": 64,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-luan-li-va-triet-li-trong-ariya-glong-anak",
+        "title": "5. Luân lí và triết lí trong Ariya Glơng Anak",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 64,
+        "pdf_end": 67,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-glong-anak-nghe-thuat-cua-ariya-glong-anak",
+        "title": "6. Nghệ thuật của Ariya Glơng Anak",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 67,
+        "pdf_end": 69,
+        "parse": true,
+        "located": "heading in the body"
+       }
+      ]
+     },
+     {
+      "id": "phan-phan-tich-tac-pham-ariya-ppo-parong",
+      "title": "ARIYA PPO PARƠNG",
+      "level": 2,
+      "printed_page": 71,
+      "pdf_start": 70,
+      "pdf_end": 86,
+      "parse": true,
+      "located": "heading on its printed page",
+      "children": [
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-vai-ghi-nhan-ve-boi-canh-lich-su",
+        "title": "1. Vài ghi nhận về bối cảnh lịch sử",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 70,
+        "pdf_end": 70,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-ten-tac-pham-va-tac-gia",
+        "title": "2. Tên tác phẩm và tác giả",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 71,
+        "pdf_end": 72,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-muc-dich-chuyen-di-va-cuoc-hanh-trinh",
+        "title": "3. Mục đích chuyến đi và cuộc hành trình",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 72,
+        "pdf_end": 73,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-tam-trang-nguoi-trong-cuoc",
+        "title": "4. Tâm trạng người trong cuộc",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 73,
+        "pdf_end": 75,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-canh-quan-va-con-nguoi-nhung-thu-hoach-tu-chuyen-di",
+        "title": "5. Cảnh quan và con người: những thu hoạch từ chuyến đi",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 75,
+        "pdf_end": 77,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-tam-su-cua-tac-gia",
+        "title": "6. Tâm sự của tác giả",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 77,
+        "pdf_end": 79,
+        "parse": true,
+        "located": "heading in the body"
+       },
+       {
+        "id": "phan-phan-tich-tac-pham-ariya-ppo-parong-nghe-thuat-quan-sat-cua-hop-ai",
+        "title": "7. Nghệ thuật quan sát của Hợp Ai",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 80,
+        "pdf_end": 86,
+        "parse": true,
+        "located": "heading in the body"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "phan-van-ban",
+    "title": "C. Phần văn bản",
+    "level": 1,
+    "printed_page": null,
+    "pdf_start": 87,
+    "pdf_end": 507,
+    "parse": true,
+    "located": "first child",
+    "children": [
+     {
+      "id": "phan-van-ban-ariya-cam-bini",
+      "title": "ARIYA CAM - BINI",
+      "level": 2,
+      "printed_page": 88,
+      "pdf_start": 87,
+      "pdf_end": 190,
+      "parse": true,
+      "work": "truong-ca-cham-ba-ni-ariya-cam-bini",
+      "located": "printed page",
+      "children": [
+       {
+        "id": "phan-van-ban-ariya-cam-bini-bang-akhar-thrah-chuyen-tu-latinh",
+        "title": "- Bằng Akhar thrah - Chuyển tự Latinh",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 87,
+        "pdf_end": 116,
+        "parse": false,
+        "kinds": [
+         "original-script",
+         "transcription"
+        ],
+        "located": "not found"
+       },
+       {
+        "id": "phan-van-ban-ariya-cam-bini-doi-chieu-di-ban",
+        "title": "- Đối chiếu đị bản",
+        "level": 3,
+        "printed_page": 118,
+        "pdf_start": 117,
+        "pdf_end": 124,
+        "parse": true,
+        "kinds": [
+         "variant-comparison"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-cam-bini-dich-nghia",
+        "title": "- Dịch nghĩa",
+        "level": 3,
+        "printed_page": 126,
+        "pdf_start": 125,
+        "pdf_end": 136,
+        "parse": true,
+        "kinds": [
+         "literal-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-cam-bini-dich-tho",
+        "title": "- Dịch thơ",
+        "level": 3,
+        "printed_page": 138,
+        "pdf_start": 137,
+        "pdf_end": 141,
+        "parse": true,
+        "kinds": [
+         "verse-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-cam-bini-index",
+        "title": "- Index",
+        "level": 3,
+        "printed_page": 143,
+        "pdf_start": 142,
+        "pdf_end": 158,
+        "parse": false,
+        "kinds": [
+         "glossary"
+        ],
+        "located": "printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-cam-bini-phu-ban-ban-chep-tay-ariya",
+        "title": "- Phụ bản: Bản chép tay Ariya",
+        "level": 3,
+        "printed_page": 160,
+        "pdf_start": 159,
+        "pdf_end": 190,
+        "parse": false,
+        "kinds": [
+         "manuscript"
+        ],
+        "located": "printed page"
+       }
+      ]
+     },
+     {
+      "id": "phan-van-ban-ariya-xah-pakei",
+      "title": "ARIYA XAH PAKEI",
+      "level": 2,
+      "printed_page": 192,
+      "pdf_start": 191,
+      "pdf_end": 275,
+      "parse": true,
+      "work": "truong-ca-xah-pakei-ariya-xah-pakei",
+      "located": "printed page",
+      "children": [
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-bang-akhar-thrah-chuyen-tu-latinh",
+        "title": "- Bằng Akhar thrah - Chuyển tự Latinh",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 191,
+        "pdf_end": 207,
+        "parse": false,
+        "kinds": [
+         "original-script",
+         "transcription"
+        ],
+        "located": "not found"
+       },
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-doi-chieu-di-ban",
+        "title": "- Đối chiếu đị bản",
+        "level": 3,
+        "printed_page": 209,
+        "pdf_start": 208,
+        "pdf_end": 213,
+        "parse": true,
+        "kinds": [
+         "variant-comparison"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-dich-nghia",
+        "title": "- Dịch nghĩa",
+        "level": 3,
+        "printed_page": 215,
+        "pdf_start": 214,
+        "pdf_end": 229,
+        "parse": true,
+        "kinds": [
+         "literal-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-dich-tho",
+        "title": "- Dịch thơ",
+        "level": 3,
+        "printed_page": 231,
+        "pdf_start": 230,
+        "pdf_end": 239,
+        "parse": true,
+        "kinds": [
+         "verse-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-index",
+        "title": "- Index",
+        "level": 3,
+        "printed_page": 241,
+        "pdf_start": 240,
+        "pdf_end": 257,
+        "parse": false,
+        "kinds": [
+         "glossary"
+        ],
+        "located": "printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-xah-pakei-phu-ban-ban-chep-tay-ariya",
+        "title": "- Phụ bản: Bản chép tay Ariya",
+        "level": 3,
+        "printed_page": 259,
+        "pdf_start": 258,
+        "pdf_end": 275,
+        "parse": false,
+        "kinds": [
+         "manuscript"
+        ],
+        "located": "printed page"
+       }
+      ]
+     },
+     {
+      "id": "phan-van-ban-ariya-gluong-anak",
+      "title": "ARIYA GLUƠNG ANAK",
+      "level": 2,
+      "printed_page": 277,
+      "pdf_start": 276,
+      "pdf_end": 402,
+      "parse": true,
+      "work": "truong-ca-glong-anak-ariya-glong-anak",
+      "located": "printed page",
+      "children": [
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-bang-akhar-thrah-chuyen-tu-latinh",
+        "title": "- Bằng Akhar thrah - Chuyển tự Latinh",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 276,
+        "pdf_end": 306,
+        "parse": false,
+        "kinds": [
+         "original-script",
+         "transcription"
+        ],
+        "located": "not found"
+       },
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-doi-chieu-di-ban",
+        "title": "- Đối chiếu dị bản",
+        "level": 3,
+        "printed_page": 308,
+        "pdf_start": 307,
+        "pdf_end": 312,
+        "parse": true,
+        "kinds": [
+         "variant-comparison"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-dich-nghia",
+        "title": "- Dịch nghĩa",
+        "level": 3,
+        "printed_page": 314,
+        "pdf_start": 313,
+        "pdf_end": 326,
+        "parse": true,
+        "kinds": [
+         "literal-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-dich-tho",
+        "title": "- Dịch thơ",
+        "level": 3,
+        "printed_page": 328,
+        "pdf_start": 327,
+        "pdf_end": 338,
+        "parse": true,
+        "kinds": [
+         "verse-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-index",
+        "title": "- Index",
+        "level": 3,
+        "printed_page": 340,
+        "pdf_start": 339,
+        "pdf_end": 361,
+        "parse": false,
+        "kinds": [
+         "glossary"
+        ],
+        "located": "printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-gluong-anak-phu-ban-ban-chep-tay-ariya",
+        "title": "- Phụ bản: Bản chép tay Ariya",
+        "level": 3,
+        "printed_page": 363,
+        "pdf_start": 362,
+        "pdf_end": 402,
+        "parse": false,
+        "kinds": [
+         "manuscript"
+        ],
+        "located": "printed page"
+       }
+      ]
+     },
+     {
+      "id": "phan-van-ban-ariya-ppo-parong",
+      "title": "ARIYA PPO PARƠNG",
+      "level": 2,
+      "printed_page": 404,
+      "pdf_start": 403,
+      "pdf_end": 507,
+      "parse": true,
+      "work": "truong-ca-ppo-parong-ariya-ppo-parong",
+      "located": "printed page",
+      "children": [
+       {
+        "id": "phan-van-ban-ariya-ppo-parong-bang-akhar-thrah-chuyen-tu-latinh",
+        "title": "- Bằng Akhar thrah - Chuyển tự Latinh",
+        "level": 3,
+        "printed_page": null,
+        "pdf_start": 403,
+        "pdf_end": 424,
+        "parse": false,
+        "kinds": [
+         "original-script",
+         "transcription"
+        ],
+        "located": "not found"
+       },
+       {
+        "id": "phan-van-ban-ariya-ppo-parong-doi-chieu-di-ban",
+        "title": "- Đối chiếu đị bản",
+        "level": 3,
+        "printed_page": 426,
+        "pdf_start": 425,
+        "pdf_end": 428,
+        "parse": true,
+        "kinds": [
+         "variant-comparison"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-ppo-parong-dich-nghia",
+        "title": "- Dịch nghĩa",
+        "level": 3,
+        "printed_page": 430,
+        "pdf_start": 429,
+        "pdf_end": 449,
+        "parse": true,
+        "kinds": [
+         "literal-translation"
+        ],
+        "located": "heading on its printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-ppo-parong-index",
+        "title": "- Index",
+        "level": 3,
+        "printed_page": 451,
+        "pdf_start": 450,
+        "pdf_end": 481,
+        "parse": false,
+        "kinds": [
+         "glossary"
+        ],
+        "located": "printed page"
+       },
+       {
+        "id": "phan-van-ban-ariya-ppo-parong-phu-ban-ban-chep-tay-ariya",
+        "title": "- Phụ bản: Bản chép tay Ariya",
+        "level": 3,
+        "printed_page": 483,
+        "pdf_start": 482,
+        "pdf_end": 507,
+        "parse": false,
+        "kinds": [
+         "manuscript"
+        ],
+        "located": "printed page"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "he-thong-chuyen-tu-latin-duoc-dung-trong-cong-trinh-nay",
+    "title": "* Hệ thống chuyển tự Latin được dùng trong công trình này",
+    "level": 1,
+    "printed_page": 509,
+    "pdf_start": 508,
+    "pdf_end": 513,
+    "parse": true,
+    "located": "printed page"
+   },
+   {
+    "id": "thu-muc-tham-khao",
+    "title": "* Thư mục tham khảo",
+    "level": 1,
+    "printed_page": 515,
+    "pdf_start": 514,
+    "pdf_end": 518,
+    "parse": true,
+    "located": "heading on its printed page"
+   }
+  ]
+ },
+ "disagreements": [
+  "ARIYA CAM - BINI / - Phụ bản: Bản chép tay Ariya: mục lục gives pdf 159-190, structure.yaml manuscript 159-168",
+  "ARIYA XAH PAKEI / - Bằng Akhar thrah - Chuyển tự Latinh: mục lục gives pdf 191-207, structure.yaml original-script+transcription 169-207",
+  "ARIYA XAH PAKEI: mục lục page 192 is pdf 191, but structure.yaml starts the work on pdf 169",
+  "ARIYA GLUƠNG ANAK / - Phụ bản: Bản chép tay Ariya: mục lục gives pdf 362-402, structure.yaml manuscript 362-372",
+  "ARIYA PPO PARƠNG / - Bằng Akhar thrah - Chuyển tự Latinh: mục lục gives pdf 403-424, structure.yaml original-script+transcription 373-424",
+  "ARIYA PPO PARƠNG: mục lục page 404 is pdf 403, but structure.yaml starts the work on pdf 373",
+  "- Bằng Akhar thrah - Chuyển tự Latinh: heading not found in the body; pdf_start copied from the entry before",
+  "- Bằng Akhar thrah - Chuyển tự Latinh: heading not found in the body; pdf_start copied from the entry before",
+  "- Bằng Akhar thrah - Chuyển tự Latinh: heading not found in the body; pdf_start copied from the entry before",
+  "- Bằng Akhar thrah - Chuyển tự Latinh: heading not found in the body; pdf_start copied from the entry before"
+ ]
+}

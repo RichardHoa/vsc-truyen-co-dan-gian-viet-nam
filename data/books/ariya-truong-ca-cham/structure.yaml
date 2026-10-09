@@ -24,8 +24,11 @@ sources:
   pages: 530
 unassigned_pages: 1-86,508-530
 ocr:
-  include: ''
+  # Đối chiếu dị bản (variant-comparison): Vietnamese prose quoting Cham, parsed into book.md
+  include: 117-124,208-213,307-312,425-428
   exclude: ''
+# the mục lục: its continuation pages are mostly rows without page numbers
+toc_pages: 519-521
 works:
 - id: truong-ca-cham-ba-ni-ariya-cam-bini
   title: Trường ca Chăm - Bà ni (Ariya Cam - Bini)
