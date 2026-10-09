@@ -1,0 +1,19 @@
+# Rules for `python -m vsc_ocr assemble truyen-co-dan-gian-cham`. Page numbers
+# are PDF pages.
+
+title: TRUYỆN CỔ DÂN GIAN CHĂM
+# The line under the book title in book.md, from the title page (pdf 4).
+front: "pdf 4 · Trương Hiến Mai, Nguyễn Thị Bạch Cúc, Sử Văn Ngọc, Trương Tôn — dịch, biên soạn, tuyển chọn · NXB Văn hóa Dân tộc, Hà Nội 2000"
+
+# The Lời giới thiệu: its own section, before the stories. PDF 9 is blank.
+intro:
+  id: loi-gioi-thieu
+  title: Lời giới thiệu
+  pages: 6-8
+skip_pages: 9
+# Last page of book text; the mục lục follows on 553-556, the colophon on 557.
+end_page: 552
+toc_pages: 553-556
+# Mục lục rows with a stray printing mark in the title ("Chàng Jkhổ",
+# "(tức thằng Jkhổ)"), by row number.
+toc_stray_marks: [23, 50]

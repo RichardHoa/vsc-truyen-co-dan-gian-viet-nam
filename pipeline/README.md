@@ -69,3 +69,26 @@ python -m vsc_ocr assemble ariya-truong-ca-cham          # book.md, toc.json, no
 `data/ocr/` isn't committed, so on a new machine `run` has to come first. The
 committed outputs come from a Tesseract-only run; a run with Vision changes the
 text in all three files.
+
+## Truyện cổ Dân gian Chăm
+
+Its own code is in `vsc_ocr/books/truyen_co_dan_gian_cham/` and its rules
+(intro pages, skipped pages, mục lục pages) in
+`data/books/truyen-co-dan-gian-cham/assemble.yaml`. The same two commands, from
+`pipeline/`:
+
+```sh
+python -m vsc_ocr run truyen-co-dan-gian-cham --workers 4   # render, OCR, compare, clean, mục lục
+python -m vsc_ocr assemble truyen-co-dan-gian-cham          # book.md, toc.json, notes.json
+```
+
+- `run` works as for Ariya (`--engines tesseract` on Linux). Its clean step also
+  reads the drop caps again (crops in `data/ocr/truyen-co-dan-gian-cham/dropcaps/`),
+  finds the footnotes under the rule and the `* * *` scene breaks.
+- `assemble` writes `book.md`, `toc.json` and `notes.json` in
+  `data/books/truyen-co-dan-gian-cham/`; `--no-rerender` skips the 600 dpi pass.
+  Drop caps whose letter isn't clear start with `⚠ dropcap?`, and every
+  disagreement between the mục lục, the headings and `structure.yaml` is listed
+  in `toc.json`.
+
+No outputs of this book are committed: run both commands to make them.

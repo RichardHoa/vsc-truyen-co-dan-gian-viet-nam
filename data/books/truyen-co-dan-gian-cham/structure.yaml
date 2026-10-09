@@ -5,17 +5,31 @@
 # ocr.include / ocr.exclude: page ranges to add to / remove from OCR.
 id: truyen-co-dan-gian-cham
 title: Truyện cổ Dân gian Chăm
+# metadata: from the title page (pdf 4) and the colophon (pdf 557), names as printed
 metadata:
   subtitle: null
-  editors: []
+  editors:
+  - Chịu trách nhiệm xuất bản: PGS. PTS Hoàng Nam, Trương Hiến Mai
+  - Biên tập: Hoàng Tuấn Cư
+  - Sửa bản in: Tuấn Dũng
+  - Trình bày: Thái Hoàng
+  - Bìa: Hoàng Lê
   authors: []
-  translators: []
-  publisher: null
-  year: null
-  place: null
+  # credited "Dịch, biên soạn, tuyển chọn" (translated, compiled and selected)
+  translators:
+  - Trương Hiến Mai
+  - Nguyễn Thị Bạch Cúc
+  - Sử Văn Ngọc
+  - Trương Tôn
+  credit: Dịch, biên soạn, tuyển chọn
+  institution: Trung tâm Nghiên cứu Văn hoá Chăm - Ninh Thuận
+  publisher: Nhà xuất bản Văn hoá Dân tộc (19 Nguyễn Bỉnh Khiêm, Hà Nội)
+  year: 2000
+  place: Hà Nội
   isbn: null
   series: null
   rights: null
+  printing: In 700 cuốn, khuôn khổ 13x19cm. Giấy phép xuất bản số 56-161/XB-QLXB. In xong và nộp lưu chiếu tháng 4 năm 2000.
 ethnic_groups:
 - cham
 page_count: 557
