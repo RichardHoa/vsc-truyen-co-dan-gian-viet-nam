@@ -35,6 +35,9 @@ def main(argv=None) -> None:
 
     book_cmd("clean", "drop headers/footers, build paragraphs/verse, detect page numbers and language")
     book_cmd("toc", "find and parse the mục lục; write data/books/<book>/toc.generated.yaml")
+    s = book_cmd("assemble", "write data/books/<book>/book.md, toc.json and notes.json (books with code in vsc_ocr/books/)")
+    s.add_argument("--no-rerender", action="store_true",
+                   help="don't re-render pages at high DPI to look for lost note calls")
 
     s = book_cmd("run", "render + ocr + compare + clean + toc")
     s.add_argument("--engines", default="vision,tesseract")
@@ -75,23 +78,37 @@ def main(argv=None) -> None:
             from . import compare
             compare.compare_pages(book, pages, primary=a.primary)
         elif a.cmd == "clean":
-            from . import clean
-            clean.clean_book(book, pages)
+            _step(book, "clean", "clean_book")(book, pages)
         elif a.cmd == "toc":
-            from . import toc
-            toc.build_toc(book)
+            _step(book, "toc", "build_toc")(book)
+        elif a.cmd == "assemble":
+            from .books import module_for
+            mod = module_for(book)
+            if mod is None or not hasattr(mod, "assemble"):
+                raise SystemExit(f"{book.id} has no code of its own yet (vsc_ocr/books/{book.id.replace('-', '_')}/)")
+            mod.assemble(book, rerender=not a.no_rerender)
         elif a.cmd == "evaluate":
             from . import evaluate
             evaluate.evaluate_book(book, pages if a.pages else None)
         elif a.cmd == "run":
-            from . import clean, compare, render, toc
+            from . import compare, render
             engines = [e.strip() for e in a.engines.split(",") if e.strip()]
             render.render_pages(book, pages, dpi=a.dpi)
             for e in engines:
                 _ocr(book, pages, e, a.workers, False, True)
             compare.compare_pages(book, pages, primary=a.primary or engines[0])
-            clean.clean_book(book, pages)
-            toc.build_toc(book)
+            _step(book, "clean", "clean_book")(book, pages)
+            _step(book, "toc", "build_toc")(book)
+
+
+def _step(book, module: str, func: str):
+    """A book's own version of a step (vsc_ocr/books/<book>/), else the shared one."""
+    import importlib
+    from .books import module_for
+    mod = module_for(book)
+    if mod is not None and hasattr(mod, func):
+        return getattr(mod, func)
+    return getattr(importlib.import_module(f".{module}", __package__), func)
 
 
 def _samples(engines_arg: str) -> None:

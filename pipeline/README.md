@@ -16,6 +16,7 @@ Everything runs locally. No external API is called at any step.
 | 5. Cross-check | `compare` | | `data/ocr/<book>/merged/pNNNN.json` |
 | 6. Clean & structure | `clean` | | `data/ocr/<book>/pages/pNNNN.json`, `preview.md` |
 | 7. Mục lục | `toc` | Tesseract table mode | `data/books/<book>/toc.generated.yaml` |
+| 8. Assemble | `assemble` | book-specific code | `data/books/<book>/book.md`, `toc.json`, `notes.json` |
 
 ## Setup (macOS, Apple Silicon)
 
@@ -144,6 +145,21 @@ in `structure.yaml`. On *Truyện cổ dân gian Chăm* this found 58 entries an
 matched 55 of them; the rest had OCR noise in the item number. For a book
 without per-story splits, `toc.generated.yaml` is the starting point for its
 list of works.
+
+### 8. Assemble (book-specific code)
+
+Every book is laid out differently, so the final parse is code per book:
+`vsc_ocr/books/<book_id_with_underscores>/`. A book package can also replace
+the shared `clean` and `toc` steps with its own (`clean_book`, `build_toc`);
+`clean`, `toc`, `run` and `assemble` use the book's version when there is
+one. Code for one book never changes another book's output.
+
+`python -m vsc_ocr assemble <book>` writes `data/books/<book>/book.md`,
+`toc.json` (the mục lục nested and located in the body) and `notes.json`
+(every Chú thích note and its call). So far: `ariya_truong_ca_cham/` (Ariya,
+Trường ca Chăm), with its rules in `data/books/ariya-truong-ca-cham/assemble.yaml`;
+its package docstring lists what each module does. `--no-rerender` skips the
+600 dpi pass it uses to find lost note calls.
 
 ## Measuring accuracy
 

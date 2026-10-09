@@ -1,0 +1,47 @@
+# Rules for `python -m vsc_ocr assemble ariya-truong-ca-cham`: which parts of
+# this book go into book.md / toc.json / notes.json. Page numbers are PDF pages.
+
+# Pages before the first mục lục entry that are still printed text (title page).
+front_matter: 2-3
+# Pages left out entirely: the cover image, and a second scan of PDF page 516
+# (same text, same printed number 517).
+skip_pages: 1,518
+# Last page of book text; after it come the mục lục (519-521), the English
+# table of contents, the author bio and the series list.
+end_page: 518
+
+# The first rows of the mục lục without a page number are the book's title.
+toc_title_rows: 2
+
+# Mục lục rows under each epic in "C. Phần văn bản" name a version of the
+# work; these are the structure.yaml `kind`s each one stands for.
+# Keys are compared without diacritics or case, as a prefix of the row title.
+version_rows:
+  bang akhar thrah: [original-script, transcription]
+  doi chieu di ban: [variant-comparison]
+  dich nghia: [literal-translation]
+  dich tho: [verse-translation]
+  index: [glossary]
+  phu ban: [manuscript]
+# Version kinds whose text goes into book.md.
+parse_kinds: [variant-comparison, literal-translation, verse-translation]
+
+# Pages that are a picture, not text.
+images:
+  31: Bản đồ hành trình của Xah Pakei - Mưh Rat
+
+# Ruled tables: re-read cell by cell. drop_columns are 1-based; column 2 is
+# the Cham script ("Tiếng Cham").
+tables:
+  - pages: 508-513
+    drop_columns: [2]
+
+# Chú thích blocks: each block numbers its notes from (1). A scope is the
+# block plus the body text whose calls point into it. Blocks found outside
+# these ranges get a scope named after their section.
+notes:
+  scopes:
+    - id: gioi-thieu
+      pages: 4-86
+    - id: glong-anak-dich-nghia
+      pages: 313-326
