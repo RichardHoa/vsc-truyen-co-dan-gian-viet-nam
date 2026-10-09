@@ -11,3 +11,4 @@ data/ocr/
 **/notes.json
 **/toc.generated.yaml
 **/toc.json
+**/book.raw.md

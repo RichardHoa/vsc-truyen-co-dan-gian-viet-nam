@@ -2,11 +2,16 @@
 
 For each page: group both engines' lines into visual rows, pair rows by
 position, and diff their text. A row is flagged when
-  - the engines disagree on any word        -> "disagree"
+  - the engines disagree beyond accents,    -> "disagree"
+    and the row (accents ignored) is under
+    DISAGREE_BELOW alike
   - the primary engine's confidence is low  -> "low_conf"
   - only one engine saw text there          -> "missing_in_secondary" / row added
                                                with "only_in_secondary"
-Reviewers then only read flagged rows instead of proofreading every page.
+Tesseract misreads Vietnamese accents all the time, so a difference only in
+accents, or a word or two in an otherwise matching row, is kept in "diff" but
+not flagged. Reviewers then only read flagged rows instead of proofreading
+every page.
 
 Writes data/ocr/<book>/merged/pNNNN.json.
 """
@@ -14,12 +19,14 @@ Writes data/ocr/<book>/merged/pNNNN.json.
 from __future__ import annotations
 
 import difflib
+import unicodedata
 
 from .common import Book, read_json, write_json
 from .layout import group_rows, norm_space, v_overlap
 
 LOW_CONF = {"vision": 0.5, "tesseract": 0.75}
 PUNCT = ".,;:!?…\"'“”‘’()[]-–—«»"
+DISAGREE_BELOW = 0.9
 
 
 def _words(s: str) -> list[str]:
@@ -29,6 +36,18 @@ def _words(s: str) -> list[str]:
 def _same_ignoring_punct(a: list[str], b: list[str]) -> bool:
     strip = lambda ws: [w.strip(PUNCT) for w in ws if w.strip(PUNCT)]
     return strip(a) == strip(b)
+
+
+def _fold(s: str) -> str:
+    """Lower case, without accents or vowel marks: "Điển" -> "dien"."""
+    d = unicodedata.normalize("NFD", norm_space(s).casefold())
+    return "".join(c for c in d if not unicodedata.combining(c)).replace("đ", "d")
+
+
+def _disagree(a: str, b: str, diff: list[list[str]]) -> bool:
+    if all(_fold(x) == _fold(y) for x, y in diff):
+        return False
+    return difflib.SequenceMatcher(None, _fold(a), _fold(b), autojunk=False).ratio() < DISAGREE_BELOW
 
 
 def word_diff(a: str, b: str) -> list[list[str]]:
@@ -71,7 +90,8 @@ def compare_page(primary: dict, secondary: dict | None, primary_name: str) -> di
                 diff = word_diff(r["text"], other)
                 if diff:
                     entry["diff"] = diff
-                    flags.append("disagree")
+                    if _disagree(r["text"], other, diff):
+                        flags.append("disagree")
             else:
                 flags.append("missing_in_secondary")
         entry["flags"] = flags

@@ -44,7 +44,9 @@ python -m vsc_ocr status
 ```
 
 Then read `data/ocr/truyen-co-dan-gian-cham/preview.md`. **⚠** marks text the
-two engines disagree on, or text with low confidence.
+two engines really disagree on (not just on accents, which Tesseract often
+misreads, or on a word in an otherwise matching line), text only one engine saw,
+or text with low confidence.
 
 ## Ariya (Trường ca Chăm)
 
@@ -92,3 +94,29 @@ python -m vsc_ocr assemble truyen-co-dan-gian-cham          # book.md, toc.json,
   in `toc.json`.
 
 No outputs of this book are committed: run both commands to make them.
+
+## Reviewing a book
+
+```sh
+python -m vsc_ocr review truyen-co-dan-gian-cham     # opens http://127.0.0.1:8765/
+```
+
+A local page with `book.md` on the left, one section at a time, and the scan
+on the right; clicking a paragraph shows its page with the OCR lines it came
+from boxed. A box that misses some of the text can be dragged to move it, or
+by an edge or corner to resize it; that's only on screen, nothing is saved.
+Any book with a `book.md` works (`--port`, `--no-browser`).
+
+- Edit the paragraph and save (⌘↵). A blank line splits it, emptying it
+  deletes it; **Merge with next** joins a paragraph a page break cut in two;
+  **Clear ⚠** removes the flags once you've checked it. ⌥↓/⌥↑ go to the
+  next/previous paragraph, ⌥⇧↓ (**Next ⚠**) to the next flagged one.
+- `book.md` is the only file you edit: notes are edited as their
+  `[^id]: ...` lines, and `notes.json` follows.
+- The first save keeps the pipeline's output as `book.raw.md`, so
+  `diff book.raw.md book.md` is everything you corrected. Each save is also
+  appended to `corrections.jsonl` (section, pdf pages, before, after): that
+  file is what to hand over when improving the pipeline.
+- `assemble` on a reviewed book first moves `book.md`, `book.raw.md` and
+  `notes.json` to `review-history/<time>/`, so a re-run never loses
+  corrections. `corrections.jsonl` stays and keeps growing.

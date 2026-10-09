@@ -45,6 +45,11 @@ def main(argv=None) -> None:
     s.add_argument("--workers", type=int, default=1)
     s.add_argument("--dpi", type=int, default=300)
 
+    s = sub.add_parser("review", help="review book.md next to the scans in a local web page")
+    s.add_argument("book", help="book id (or a unique part of it)")
+    s.add_argument("--port", type=int, default=8765)
+    s.add_argument("--no-browser", action="store_true", help="don't open the page in a browser")
+
     sub.add_parser("status", help="progress per book")
 
     s = sub.add_parser("samples", help="run the pipeline on the sample pages in config/samples.yaml")
@@ -63,6 +68,14 @@ def main(argv=None) -> None:
         return
     if a.cmd == "samples":
         _samples(a.engines)
+        return
+    if a.cmd == "review":
+        from .common import resolve_books
+        from .review import serve
+        books = resolve_books(a.book)
+        if len(books) != 1:
+            raise SystemExit("review one book at a time")
+        serve(books[0], port=a.port, open_browser=not a.no_browser)
         return
 
     from .common import resolve_books, select_pages
@@ -86,6 +99,7 @@ def main(argv=None) -> None:
             mod = module_for(book)
             if mod is None or not hasattr(mod, "assemble"):
                 raise SystemExit(f"{book.id} has no code of its own yet (vsc_ocr/books/{book.id.replace('-', '_')}/)")
+            _keep_reviewed(book)
             mod.assemble(book, rerender=not a.no_rerender)
         elif a.cmd == "evaluate":
             from . import evaluate
@@ -99,6 +113,22 @@ def main(argv=None) -> None:
             compare.compare_pages(book, pages, primary=a.primary or engines[0])
             _step(book, "clean", "clean_book")(book, pages)
             _step(book, "toc", "build_toc")(book)
+
+
+def _keep_reviewed(book) -> None:
+    """Before assemble overwrites book.md: if it was corrected in `review`, move
+    it and its book.raw.md to review-history/<time>/ so the work isn't lost.
+    corrections.jsonl stays where it is and keeps growing."""
+    raw = book.dir / "book.raw.md"
+    if not raw.exists():
+        return
+    from datetime import datetime
+    dest = book.dir / "review-history" / datetime.now().strftime("%Y%m%d-%H%M%S")
+    dest.mkdir(parents=True)
+    for name in ("book.raw.md", "book.md", "notes.json"):
+        if (book.dir / name).exists():
+            (book.dir / name).replace(dest / name)
+    print(f"  reviewed book.md moved to {dest.relative_to(book.dir.parent.parent.parent)}/")
 
 
 def _step(book, module: str, func: str):
