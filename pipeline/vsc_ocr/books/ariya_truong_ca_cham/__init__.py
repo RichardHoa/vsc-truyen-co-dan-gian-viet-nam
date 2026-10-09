@@ -5,8 +5,8 @@ are in data/books/ariya-truong-ca-cham/assemble.yaml.
   clean.py        shared clean + verse turnover lines, forced page modes
   toc.py          shared toc + this book's mục lục layout (rows without numbers)
   booktoc.py      the mục lục nested and located in the body -> toc.json
-  notes.py        Chú thích blocks and their calls -> notes.json
-  superscript.py  raised note calls found on a 600 dpi render
+  notes.py        Chú thích blocks and their calls -> notes.json (raised marks:
+                  the shared superscript.py)
   tables.py       the ruled transliteration tables, read cell by cell
   assemble.py     book.md
 """

@@ -7,15 +7,19 @@ more strokes ("(", digits, ")"). This module finds such clusters in a row.
 Superscript digits are too small at these scan resolutions to be read
 reliably, so their number comes from the call sequence, not from here.
 
-Used by `notes` on the stretch of text where the call sequence has a gap.
+Used to find note calls on the stretch of text where the call sequence has
+a gap. Moved here from Ariya so every book can use it.
 """
 
 from __future__ import annotations
 
 from PIL import Image, ImageOps
 
+from .common import Book
+
 INK = 140             # grey level below which a pixel is ink
 TOP_BAND = 0.6        # a superscript lies in the top 60 % of the row
+RERENDER_DPI = 600
 
 
 def _column_ink(img: Image.Image) -> list[int]:
@@ -76,3 +80,25 @@ def raised_marks(page_img: Image.Image, bbox) -> list[float]:
     row = page_img.crop((x0, y0, min(W, x1 + int(0.02 * W)), y1))
     return [(a + b) / 2 / (x1 - x0) for a, b in clusters(row)
             if a >= 0.05 * row.width]  # at the very start: a verse number, not a call
+
+
+class Marks:
+    """Raised marks per row, from the page re-rendered at RERENDER_DPI."""
+
+    def __init__(self, book: Book, dpi: int = RERENDER_DPI):
+        self.book, self.dpi, self.pages, self.rows_seen = book, dpi, {}, 0
+
+    def image(self, n: int):
+        if n not in self.pages:
+            import pypdfium2 as pdfium
+            pdf, idx = self.book.source_of(n)
+            doc = pdfium.PdfDocument(str(pdf))
+            try:
+                self.pages = {n: doc[idx].render(scale=self.dpi / 72, grayscale=True).to_pil()}
+            finally:
+                doc.close()
+        return self.pages[n]
+
+    def __call__(self, n: int, row: dict) -> list[float]:
+        self.rows_seen += 1
+        return raised_marks(self.image(n), row["bbox"])
