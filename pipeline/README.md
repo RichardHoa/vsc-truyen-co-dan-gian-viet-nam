@@ -120,3 +120,21 @@ Any book with a `book.md` works (`--port`, `--no-browser`).
 - `assemble` on a reviewed book first moves `book.md`, `book.raw.md` and
   `notes.json` to `review-history/<time>/`, so a re-run never loses
   corrections. `corrections.jsonl` stays and keeps growing.
+
+
+sometimes one section has 2 boxes, add the ability to remove box
+
+## AI proofreading
+
+```sh
+python -m vsc_ocr export-pages truyen-co-dan-gian-cham   # data/books/<book>/pages.jsonl
+```
+
+`export-pages` writes, for each page, the blocks of `book.raw.md` that start
+on it and the pages each one runs over. With `book.raw.md` and the PDF it is
+the input of the AI Proofreading Pass in the resume-scanning repo
+(`scripts/submit_correction.sh`), which sends a model each page's scan and
+text and writes AI Proposals, never Corrections: `book.ai.md` and
+`ai_corrections.jsonl` in its own run folder. Re-export after every
+`assemble`: the pass refuses a `pages.jsonl` made from another `book.raw.md`.
+
