@@ -60,6 +60,7 @@ textarea:focus { outline: 2px solid var(--accent-soft); border-color: var(--acce
 .box { position: absolute; background: var(--box); outline: 2px solid var(--box-edge); border-radius: 2px;
        cursor: move; touch-action: none; }
 .box.dragging { outline-style: dashed; }
+.box.approx { outline-style: dotted; }
 .empty { color: var(--muted); padding: 40px; text-align: center; }
 kbd { font: 11px ui-monospace, Menlo, monospace; border: 1px solid var(--line); border-radius: 3px; padding: 0 3px; }
 @media (max-width: 800px) {
@@ -104,15 +105,16 @@ async function api(path, body) {
   const r = await fetch(path, body ? { method: "POST", headers: { "Content-Type": "application/json" },
                                       body: JSON.stringify(body) } : {});
   const j = await r.json();
-  if (r.status === 409) { status("book.md changed on disk, reloaded", true); await loadBook(); throw new Error("conflict"); }
+  if (r.status === 409) { status(`${state.book.file} changed on disk, reloaded`, true); await loadBook(); throw new Error("conflict"); }
   if (!r.ok) { status(j.error || r.statusText, true); throw new Error(j.error); }
   return j;
 }
 
 async function loadBook(keepSection) {
   state.book = await api("/api/book");
-  $("#title").textContent = state.book.title;
-  document.title = state.book.title + " · review";
+  const ai = state.book.file !== "book.md" ? ` · ${state.book.file}` : "";
+  $("#title").textContent = state.book.title + ai;
+  document.title = state.book.title + ai + " · review";
   const sel = $("#sections");
   sel.innerHTML = "";
   state.book.sections.forEach((s, k) => {
@@ -297,7 +299,7 @@ function showPage(n, boxes, tabs) {
     const mine = state.boxes.filter(x => x.page === n);
     for (const x of mine) {
       const d = document.createElement("div");
-      d.className = "box";
+      d.className = "box" + (x.approx ? " approx" : "");
       d.title = "Drag to move, drag an edge or corner to resize";
       place(d, x.bbox);
       draggable(d, x);

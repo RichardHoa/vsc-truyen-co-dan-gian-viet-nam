@@ -49,9 +49,11 @@ def main(argv=None) -> None:
     s.add_argument("book", help="book id (or a unique part of it)")
     s.add_argument("--port", type=int, default=8765)
     s.add_argument("--no-browser", action="store_true", help="don't open the page in a browser")
+    s.add_argument("--ai", action="store_true", help="review data/books/<book>/ai/book.ai.md, the AI Proofreading Pass's output")
 
-    s = sub.add_parser("export-pages", help="write data/books/<book>/pages.jsonl: the page each block of book.raw.md is on")
+    s = sub.add_parser("prepare-ai", help="write data-for-ai/<book>/: what the AI Proofreading Pass needs on the cluster")
     s.add_argument("book", help="book id (or a unique part of it)")
+    s.add_argument("--dpi", type=int, default=200, help="resolution of the page images (default 200)")
 
     sub.add_parser("status", help="progress per book")
 
@@ -69,11 +71,11 @@ def main(argv=None) -> None:
         from . import status
         status.show()
         return
-    if a.cmd == "export-pages":
+    if a.cmd == "prepare-ai":
+        from . import prepare_ai
         from .common import resolve_books
-        from .review import pages
         for book in resolve_books(a.book):
-            pages.export(book)
+            prepare_ai.prepare(book, dpi=a.dpi)
         return
     if a.cmd == "samples":
         _samples(a.engines)
@@ -84,7 +86,7 @@ def main(argv=None) -> None:
         books = resolve_books(a.book)
         if len(books) != 1:
             raise SystemExit("review one book at a time")
-        serve(books[0], port=a.port, open_browser=not a.no_browser)
+        serve(books[0], port=a.port, open_browser=not a.no_browser, ai=a.ai)
         return
 
     from .common import resolve_books, select_pages

@@ -11,6 +11,15 @@
 Every POST carries the version (a hash of book.md) it was made against; if
 book.md changed since (a save from another tab, a new `assemble`), it is
 refused and the page reloads.
+
+With `ai=True` the same page reviews the AI Proofreading Pass's output instead,
+all inside data/books/<book>/ai/: book.ai.md is the text you edit,
+book.ai.raw.md keeps it untouched once, and your edits go to corrections.jsonl
+there (the model's own log, ai_corrections.jsonl, is left as it is). The book's
+book.md, corrections.jsonl and notes.json are not touched. A block's boxes come
+from the pass's boxes.jsonl while the block's text is still the one the pass
+wrote (its sha1 matches); a block edited since, or with no entry, is found on
+the scans as for book.md.
 """
 
 from __future__ import annotations
@@ -37,13 +46,22 @@ class Conflict(Exception):
 
 
 class Review:
-    def __init__(self, book: Book):
+    def __init__(self, book: Book, ai: bool = False):
         self.book = book
-        self.path = book.dir / "book.md"
-        self.raw_path = book.dir / "book.raw.md"
-        if not self.path.exists():
-            raise SystemExit(f"{self.path} doesn't exist: run `python -m vsc_ocr assemble {book.id}` first.")
+        if ai:
+            self.dir = book.dir / "ai"
+            self.path = self.dir / "book.ai.md"
+            self.raw_path = self.dir / "book.ai.raw.md"
+            if not self.path.exists():
+                raise SystemExit(f"{self.path} doesn't exist: copy the AI Proofreading Pass's book.ai.md there first.")
+        else:
+            self.dir = book.dir
+            self.path = book.dir / "book.md"
+            self.raw_path = book.dir / "book.raw.md"
+            if not self.path.exists():
+                raise SystemExit(f"{self.path} doesn't exist: run `python -m vsc_ocr assemble {book.id}` first.")
         self.scans = mdbook.Scans(book)
+        self.boxes_path = self.dir / "boxes.jsonl" if ai else None
         self.lock = threading.Lock()
         self.render_lock = threading.Lock()
         self._text = None
@@ -56,6 +74,16 @@ class Review:
             self.blocks = mdbook.split(text)
             self.secs = mdbook.sections(self.blocks)
             self.version = hashlib.sha1(text.encode()).hexdigest()[:12]
+            self.known = _known_boxes(self.boxes_path)
+
+    def _boxes(self, start: int, blocks: list[str], pdf) -> list[list[dict]]:
+        """Each block's boxes: the pass's, while the block is as the pass wrote it, else found on the scans."""
+        out = self.scans.locate(blocks, pdf)
+        for j, b in enumerate(blocks):
+            entries = self.known.get(hashlib.sha1(b.encode()).hexdigest())
+            if entries:     # the same text may be in several blocks: take the entry nearest this one
+                out[j] = min(entries, key=lambda e: abs(e[0] - (start + j)))[1]
+        return out
 
     # -- reads
     def overview(self) -> dict:
@@ -63,7 +91,7 @@ class Review:
             self._load()
             title = next((s["title"] for s in self.secs if s["level"] == 1), self.book.id)
             secs = [{k: s[k] for k in ("title", "level", "start", "pdf", "flags")} for s in self.secs]
-            return dict(book=self.book.id, title=title, version=self.version, sections=secs)
+            return dict(book=self.book.id, title=title, file=self.path.name, version=self.version, sections=secs)
 
     def section(self, k: int) -> dict:
         with self.lock:
@@ -71,7 +99,7 @@ class Review:
             k = max(0, min(k, len(self.secs) - 1))
             s = self.secs[k]
             blocks = self.blocks[s["start"]:s["end"]]
-            boxes = self.scans.locate(blocks, s["pdf"])
+            boxes = self._boxes(s["start"], blocks, s["pdf"])
             return dict(version=self.version, index=k, pdf=s["pdf"],
                         blocks=[dict(i=s["start"] + j, text=b, kind=mdbook.kind(b), boxes=bx)
                                 for j, (b, bx) in enumerate(zip(blocks, boxes))])
@@ -102,30 +130,44 @@ class Review:
         with self.lock:
             self._load()
             if version != self.version:
-                raise Conflict("book.md changed since this page loaded")
+                raise Conflict(f"{self.path.name} changed since this page loaded")
             old = self.blocks[index:index + count]
             if old == new:
                 return dict(version=self.version, section=mdbook.section_of(self.secs, index))
             if not self.raw_path.exists():
                 self.raw_path.write_text(self._text, encoding="utf-8")
             sec = self.secs[mdbook.section_of(self.secs, index)]
-            pages = sorted({b["page"] for bx in self.scans.locate(old, sec["pdf"]) for b in bx})
+            pages = sorted({b["page"] for bx in self._boxes(index, old, sec["pdf"]) for b in bx})
             blocks = self.blocks[:index] + new + self.blocks[index + count:]
             text = mdbook.join(blocks)
             tmp = self.path.with_suffix(".md.tmp")
             tmp.write_text(text, encoding="utf-8")
             tmp.replace(self.path)
-            with open(self.book.dir / LOG, "a", encoding="utf-8") as f:
+            with open(self.dir / LOG, "a", encoding="utf-8") as f:
                 f.write(json.dumps(dict(time=datetime.now().isoformat(timespec="seconds"), action=action,
                                         section=sec["title"], pdf_pages=pages, before=old, after=new),
                                    ensure_ascii=False) + "\n")
             self._load()
-            notes.sync(self.book.dir / "notes.json",
+            notes.sync(self.dir / "notes.json",
                        mdbook.split(self.raw_path.read_text(encoding="utf-8")), self.blocks)
             return dict(version=self.version, section=mdbook.section_of(self.secs, min(index, len(self.blocks) - 1)))
 
 
 _flag_end = re.compile(r"\s*⚠$")
+
+
+def _known_boxes(path: Path | None) -> dict[str, list[tuple[int, list[dict]]]]:
+    """boxes.jsonl ({i, sha1, boxes} per block of book.ai.md) as {sha1: [(i, boxes)]}."""
+    out: dict = {}
+    if path is None or not path.exists():
+        return out
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            if line.strip():
+                e = json.loads(line)
+                if e["boxes"]:
+                    out.setdefault(e["sha1"], []).append((e["i"], e["boxes"]))
+    return out
 
 
 def _joined(a: str, b: str) -> str:
@@ -189,8 +231,8 @@ def _handler(review: Review):
     return Handler
 
 
-def serve(book: Book, port: int = 8765, open_browser: bool = True) -> None:
-    review = Review(book)
+def serve(book: Book, port: int = 8765, open_browser: bool = True, ai: bool = False) -> None:
+    review = Review(book, ai=ai)
     server = ThreadingHTTPServer(("127.0.0.1", port), _handler(review))
     url = f"http://127.0.0.1:{port}/"
     print(f"  reviewing {review.path}\n  open {url}  (Ctrl+C to stop)")

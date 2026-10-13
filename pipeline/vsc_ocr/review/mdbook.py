@@ -19,7 +19,8 @@ import re
 
 from ..common import read_json
 
-HEADING = re.compile(r"^(#{1,6})\s+(.*)$")
+HEADING = re.compile(r"^(#{1,6})\s+(.*)$", re.S)     # a heading may go on over lines
+_heading_break = re.compile(r"\s*\n#*\s*")
 PDF_RANGE = re.compile(r"^<!--\s*pdf\s+(\d+)(?:-(\d+))?")
 NOTE_DEF = re.compile(r"^\[\^([^\]\s]+)\]:\s?(.*)$", re.S)
 FLAG = "⚠"
@@ -57,7 +58,7 @@ def sections(blocks: list[str]) -> list[dict]:
     for i, b in enumerate(blocks):
         m = HEADING.match(b)
         if m:
-            out.append(dict(title=_ref.sub("", m.group(2)).strip(), level=len(m.group(1)), start=i))
+            out.append(dict(title=_heading_break.sub(" ", _ref.sub("", m.group(2))).strip(), level=len(m.group(1)), start=i))
         elif not out:
             out.append(dict(title="(trước tiêu đề)", level=1, start=0))
     for k, s in enumerate(out):
