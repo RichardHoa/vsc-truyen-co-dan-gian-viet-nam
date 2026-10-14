@@ -9,6 +9,11 @@ followed by a `<!-- pdf a-b -->` comment).
   notes.py    keeps notes.json in step with the notes in book.md
   server.py   the HTTP server and the edit log
   page.html   the page
+  scanview.js the scan with its boxes, shared by both pages
+  spellings.py, diacritic.py, diacritic.html
+              `review <book> --ai --diacritic`: Spelling Rules
+                (data/books/<book>/spellings.yaml) for words the AI and
+                the OCR spell with different marks
 
 book.md is the only file you edit. Each save:
   - keeps the untouched pipeline output once, as book.raw.md

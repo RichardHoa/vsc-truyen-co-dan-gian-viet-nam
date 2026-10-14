@@ -1,0 +1,92 @@
+# Spelling Rules for this book, made in `python -m vsc_ocr review <book> --ai --diacritic`.
+# The AI Proofreading Pass applies them too (prepare-ai copies this file to the cluster).
+words:
+- spelling: Mừnô
+  except: []
+- spelling: TỀWA
+  except: []
+- spelling: Jôt
+  except: []
+- spelling: Parăm
+  except: []
+- spelling: Samưlé
+  except: []
+- spelling: Mưdit
+  except: []
+- spelling: Mưlak
+  except: []
+- spelling: Gìnùng
+  except: []
+- spelling: Jamưtui
+  except: []
+- spelling: Choapơti
+  except: []
+- spelling: Rătna
+  except: []
+- spelling: Ưngcăl
+  except: []
+- spelling: Vănna
+  except: []
+- spelling: Châymakirùm
+  except: []
+- spelling: Găngà
+  except: []
+- spelling: Pôpì
+  except: []
+- spelling: Xoarô
+  except: []
+- spelling: Pìrùng
+  except: []
+- spelling: Richa
+  except: []
+- spelling: Hamưli
+  except: []
+- spelling: Intăn
+  except: []
+- spelling: Jari
+  except: []
+- spelling: Mănna
+  except: []
+- spelling: Mưhêkat
+  except: []
+- spelling: Panđarang
+  except: []
+- spelling: Paramưng
+  except: []
+- spelling: Pòpìnì
+  except: []
+- spelling: Talah
+  except: []
+- spelling: Yangin
+  except: []
+- spelling: Kathăr
+  except: []
+phrases:
+- spelling: lười, chẳng biết
+  except: []
+- spelling: xem xong hình
+  except: []
+- spelling: lại yêu quái
+  except: []
+depends:
+- - để
+  - đề
+  - đè
+  - dê
+  - dé
+  - dể
+  - dế
+  - đẻ
+  - đe
+  - đế
+  - đê
+  - dệ
+  - dễ
+- - cămpuchia
+  - campuchia
+- - chàng
+  - chẳng
+- - hãy
+  - hay
+- - itá
+  - ita

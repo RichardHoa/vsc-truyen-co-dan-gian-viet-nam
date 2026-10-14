@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spelling Review</title>
+<style>
+:root {
+  --bg: #f7f6f3; --panel: #ffffff; --ink: #1f1f1f; --muted: #6b6b6b; --line: #e2e0da;
+  --accent: #2f6fde; --accent-soft: #e6eefc; --flag: #c27c00; --flag-soft: #fff4dc;
+  --box: rgba(47, 111, 222, .22); --box-edge: #2f6fde; --danger: #c0392b; --ok: #2e7d4f; --ok-soft: #e3f3e9;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17181a; --panel: #1f2023; --ink: #e8e6e1; --muted: #9a9892; --line: #34353a;
+    --accent: #6d9cf0; --accent-soft: #233150; --flag: #e3a63a; --flag-soft: #3a2f17;
+    --box: rgba(109, 156, 240, .25); --box-edge: #6d9cf0; --danger: #e5675a; --ok: #6cc596; --ok-soft: #1d3428;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.55 -apple-system, "Segoe UI", system-ui, sans-serif;
+       display: flex; flex-direction: column; }
+header { display: flex; gap: 8px; align-items: center; padding: 8px 12px; border-bottom: 1px solid var(--line);
+         background: var(--panel); flex-wrap: wrap; }
+header h1 { font-size: 14px; margin: 0 8px 0 0; font-weight: 600; white-space: nowrap; }
+input, button { font: inherit; font-size: 13px; color: var(--ink); background: var(--panel);
+                border: 1px solid var(--line); border-radius: 6px; padding: 4px 9px; }
+button { cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button.on { background: var(--accent-soft); border-color: var(--accent); }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+button.danger { color: var(--danger); }
+#tally { font-size: 12px; color: var(--muted); }
+#status { margin-left: auto; font-size: 12px; color: var(--muted); white-space: nowrap; }
+#status.err { color: var(--danger); }
+main { flex: 1; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); min-height: 0; }
+#list { overflow-y: auto; padding: 12px 16px 40vh; border-right: 1px solid var(--line); }
+.pair { border: 1px solid var(--line); border-radius: 6px; background: var(--panel); margin: 0 0 8px; }
+.pair > .head { display: flex; gap: 8px; align-items: baseline; padding: 6px 10px; cursor: pointer; flex-wrap: wrap; }
+.pair > .head .spell { font-weight: 600; }
+.pair > .head .n { margin-left: auto; font-size: 12px; color: var(--muted); }
+.badge { font-size: 11px; border-radius: 4px; padding: 0 5px; border: 1px solid var(--line); color: var(--muted); }
+.badge.heading { color: var(--accent); border-color: var(--accent); }
+.badge.common { color: var(--flag); border-color: var(--flag); }
+.badge.depends { color: var(--ok); border-color: var(--ok); }
+.body { border-top: 1px solid var(--line); padding: 6px 10px 10px; }
+.warn { font-size: 12.5px; background: var(--flag-soft); color: var(--ink); border-radius: 4px; padding: 4px 8px; margin: 4px 0 8px; }
+.occ { padding: 5px 8px; border-left: 3px solid transparent; border-radius: 4px; cursor: pointer; margin: 2px 0; }
+.occ:hover { background: var(--bg); }
+.occ.active { border-left-color: var(--accent); background: var(--bg); }
+.occ .where { font-size: 11px; color: var(--muted); }
+.occ .ctx { font-size: 14px; }
+.occ .ctx b { background: var(--accent-soft); border-radius: 3px; padding: 0 2px; }
+.occ .ruled { font-size: 11px; color: var(--ok); }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; align-items: center; }
+.chip { display: inline-flex; gap: 6px; align-items: baseline; }
+.chip .who { font-size: 11px; color: var(--muted); }
+.chip.now { border-color: var(--ok); background: var(--ok-soft); }
+.actions { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-top: 6px; }
+.actions input { flex: 1; min-width: 12ch; }
+.hint { font-size: 11px; color: var(--muted); }
+#scan { display: flex; flex-direction: column; min-height: 0; }
+#scanbar { display: flex; gap: 6px; align-items: center; padding: 6px 12px; border-bottom: 1px solid var(--line);
+           background: var(--panel); font-size: 13px; flex-wrap: wrap; }
+#scanbar .tab.on { background: var(--accent-soft); border-color: var(--accent); }
+#scanview { flex: 1; overflow: auto; padding: 12px; }
+#sheet { position: relative; margin: 0 auto; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,.15); }
+#sheet img { display: block; width: 100%; }
+.box { position: absolute; background: var(--box); outline: 2px solid var(--box-edge); border-radius: 2px;
+       cursor: move; touch-action: none; }
+.box.dragging { outline-style: dashed; }
+.empty { color: var(--muted); padding: 40px; text-align: center; }
+@media (max-width: 800px) {
+  main { grid-template-columns: 1fr; grid-template-rows: 1fr 1fr; }
+  #list { border-right: 0; border-bottom: 1px solid var(--line); padding: 12px 16px 20vh; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="title">Spellings</h1>
+  <button id="tabOpen" class="on">Open</button>
+  <button id="tabRuled">Ruled</button>
+  <span id="tally"></span>
+  <span id="status">loading…</span>
+</header>
+<main>
+  <section id="list"></section>
+  <section id="scan">
+    <div id="scanbar">
+      <button id="prevPage">‹</button>
+      <span id="pageLabel">–</span>
+      <button id="nextPage">›</button>
+      <span id="tabs"></span>
+      <span style="margin-left:auto"></span>
+      <button data-zoom="1">Fit</button>
+      <button data-zoom="1.5">150%</button>
+      <button data-zoom="2.2">220%</button>
+    </div>
+    <div id="scanview"><div id="sheet"><img id="img" alt=""></div></div>
+  </section>
+</main>
+<script src="/scanview.js"></script>
+<script>
+const $ = s => document.querySelector(s);
+const WHO = { ai: "AI", vision: "Vision", tesseract: "Tesseract" };
+const state = { data: null, tab: "open", open: null, active: null };
+scan.onError = n => status(`no scan for page ${n}`, true);
+
+function status(msg, err) { const s = $("#status"); s.textContent = msg; s.className = err ? "err" : ""; }
+
+async function api(path, body) {
+  const r = await fetch(path, body ? { method: "POST", headers: { "Content-Type": "application/json" },
+                                      body: JSON.stringify(Object.assign({ version: state.data.version }, body)) } : {});
+  const j = await r.json();
+  if (r.status === 409) { status("book.ai.md changed on disk, reloaded", true); await load(); throw new Error("conflict"); }
+  if (!r.ok) { status(j.error || r.statusText, true); throw new Error(j.error); }
+  return j;
+}
+
+// The same folding and casing as spellings.py
+const fold = s => s.toLowerCase().replace(/đ/g, "d").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]/g, "");
+function cased(spelling, like) {
+  const s = [...spelling], l = [...like];
+  if (s.length === l.length) return s.map((c, k) => l[k] !== l[k].toLowerCase() ? c.toUpperCase() : c.toLowerCase()).join("");
+  if (like === like.toUpperCase()) return spelling.toUpperCase();
+  return like[0] !== like[0].toLowerCase() ? spelling[0].toUpperCase() + spelling.slice(1).toLowerCase() : spelling.toLowerCase();
+}
+// Only its first letter may be a capital, as in running text ("Tềwa", "tềwa"; not "TÊWA" or a heading's "TêWa")
+const plain = w => w.slice(1) === w.slice(1).toLowerCase();
+
+// A reading as a rule's spelling: in the case the book prints the word in running text
+function asSpelling(reading, pair) {
+  if (plain(reading)) return reading;
+  const like = pair.occurrences.map(o => o.word).find(plain);
+  return like ? cased(reading, like) : reading[0] + reading.slice(1).toLowerCase();
+}
+
+// The occurrence's neighbours with the pair's word in `spelling`: the phrase a phrase rule starts from
+function phraseFor(o, spelling) {
+  return o.near.replace(/[\p{L}\p{N}]+/gu, w => fold(w) === o.fold ? cased(spelling, w) : w);
+}
+
+async function load() {
+  status("finding pairs…");
+  state.data = await api("/api/pairs");
+  const t = state.data.tally;
+  const pct = n => t.occurrences ? ` ${n}/${t.occurrences}` : "";
+  $("#tally").textContent = t.occurrences
+    ? `who was right (${t.occurrences} ruled words): AI${pct(t.ai)} · Vision${pct(t.vision)} · Tesseract${pct(t.tesseract)}` : "";
+  $("#title").textContent = state.data.book + " · spellings";
+  $("#tabOpen").textContent = `Open (${state.data.open.length})`;
+  $("#tabRuled").textContent = `Ruled (${state.data.ruled.length})`;
+  render();
+  status(`${state.data.open.length} open pairs · ${state.data.ruled.length} rules`);
+}
+
+function readings(o) {
+  // The readings as choices, those that agree as one: [{spelling, who: [...]}]
+  const out = [];
+  for (const k of ["ai", "vision", "tesseract"]) {
+    if (!o[k]) continue;
+    const have = out.find(c => c.spelling.toLowerCase() === o[k].toLowerCase());
+    if (have) have.who.push(WHO[k]); else out.push({ spelling: o[k], who: [WHO[k]] });
+  }
+  return out;
+}
+
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+
+function render() {
+  const list = $("#list");
+  list.innerHTML = "";
+  $("#tabOpen").classList.toggle("on", state.tab === "open");
+  $("#tabRuled").classList.toggle("on", state.tab === "ruled");
+  const items = state.tab === "open" ? state.data.open : state.data.ruled;
+  if (!items.length) list.appendChild(el("div", "empty", state.tab === "open" ? "No open pairs." : "No rules yet."));
+  for (const p of items) list.appendChild(state.tab === "open" ? openPair(p) : ruledPair(p));
+}
+
+function key(p) { return state.tab + ":" + (p.fold || p.spelling); }
+
+function card(p, title, badges, count) {
+  const d = el("div", "pair");
+  const h = el("div", "head");
+  h.appendChild(el("span", "spell", title));
+  for (const [cls, text] of badges) h.appendChild(el("span", "badge " + cls, text));
+  h.appendChild(el("span", "n", count));
+  h.onclick = () => { state.open = state.open === key(p) ? null : key(p); state.active = null; render(); };
+  d.appendChild(h);
+  return d;
+}
+
+function openPair(p) {
+  const common = !p.name;
+  const badges = [];
+  if (p.heading) badges.push(["heading", "heading"]);
+  badges.push(common ? ["common", "common word"] : ["", "name"]);
+  if (p.depends) badges.push(["depends", "depends"]);
+  const d = card(p, p.spellings.join(" / "), badges, `${p.occurrences.length}×`);
+  if (state.open !== key(p)) return d;
+  const body = el("div", "body");
+  if (p.depends) body.appendChild(el("div", "warn", "Depends: no rule. Pick the printed spelling at each occurrence; each is a plain edit."));
+  else if (common) body.appendChild(el("div", "warn",
+    "A common word (the book prints it in lower case too): no word rule. Pick a spelling to start a phrase rule (the word with its neighbours), or answer Depends."));
+  for (const o of p.occurrences) body.appendChild(occurrence(p, o, "open"));
+  const bar = el("div", "actions");
+  if (p.depends) {
+    bar.appendChild(button("Not Depends", () => post("/api/depends", { fold: p.fold, on: false }, "back to undecided")));
+  } else {
+    bar.appendChild(button("Depends", () => post("/api/depends", { fold: p.fold, spellings: p.spellings, on: true }, "marked Depends")));
+  }
+  body.appendChild(bar);
+  d.appendChild(body);
+  return d;
+}
+
+function ruledPair(r) {
+  const badges = [[r.kind === "phrase" ? "common" : "", r.kind]];
+  if (r.except.length) badges.push(["", `except in ${r.except.length} stor${r.except.length > 1 ? "ies" : "y"}`]);
+  const d = card(r, r.spelling, badges, `applied ${r.applied}× · ${r.in_book}× in book`);
+  if (state.open !== key(r)) return d;
+  const body = el("div", "body");
+  if (r.except.length) body.appendChild(el("div", "hint", "Skipped in: " + r.except.join("; ")));
+  const bar = el("div", "actions");
+  bar.appendChild(button("Change…", () => {
+    const s = prompt(`New spelling for the ${r.kind} rule “${r.spelling}” (same letters, other marks):`, r.spelling);
+    if (s && s !== r.spelling) post("/api/rule/change", { kind: r.kind, old: r.spelling, spelling: s }, "rule changed and applied");
+  }));
+  bar.appendChild(button("Delete", () => {
+    if (confirm(`Delete the rule “${r.spelling}”? book.ai.md keeps its text; the pair comes back as Open.`))
+      post("/api/rule/change", { kind: r.kind, old: r.spelling, spelling: null }, "rule deleted");
+  }, "danger"));
+  body.appendChild(bar);
+  if (!r.occurrences.length) body.appendChild(el("div", "hint", "No word left where the AI or the OCR read it otherwise."));
+  for (const o of r.occurrences) body.appendChild(occurrence(r, o, "ruled"));
+  d.appendChild(body);
+  return d;
+}
+
+function button(text, fn, cls) { const b = el("button", cls || "", text); b.onclick = e => { e.stopPropagation(); fn(); }; return b; }
+
+function occurrence(p, o, mode) {
+  const d = el("div", "occ" + (state.active === o.id ? " active" : ""));
+  d.appendChild(el("div", "where", `${o.title}${o.heading ? " · heading" : ""} · p.${o.page ?? "?"}`));
+  const ctx = el("div", "ctx");
+  ctx.append(o.before ? "… " + o.before + " " : "", el("b", "", o.word), o.after ? " " + o.after + " …" : "");
+  d.appendChild(ctx);
+  if (o.rule) d.appendChild(el("div", "ruled", `ruled: ${o.rule}`));
+  else if (mode === "ruled") d.appendChild(el("div", "ruled", "story excepted: decided here"));
+  d.onclick = () => { if (state.active !== o.id) { state.active = o.id; render(); } };
+  if (state.active === o.id) {
+    showPage(o.page ?? o.page_hint ?? 1, o.bbox ? [{ page: o.page, bbox: o.bbox }] : []);
+    d.appendChild(choices(p, o, mode));
+  }
+  return d;
+}
+
+// What a click on a reading does depends on the pair: a rule, a phrase to make, or an edit of this occurrence
+function choices(p, o, mode) {
+  const box = el("div");
+  const chips = el("div", "chips");
+  const opts = readings(o);
+  const perWord = mode === "ruled" || p.depends;
+  const common = mode === "open" && !p.name;
+  let phrase;
+  for (const c of opts) {
+    const b = el("button", "chip" + (c.spelling.toLowerCase() === o.word.toLowerCase() ? " now" : ""));
+    b.append(c.spelling, el("span", "who", c.who.join(" · ")));
+    b.title = c.spelling.toLowerCase() === o.word.toLowerCase() ? "the text has this now" : "";
+    b.onclick = e => { e.stopPropagation(); choose(asSpelling(c.spelling, p)); };
+    chips.appendChild(b);
+  }
+  chips.appendChild(button("Neither…", () => {
+    const s = prompt("The printed spelling:", asSpelling(o.word, p));
+    if (s) choose(s.trim());
+  }));
+  box.appendChild(chips);
+  if (common && !p.depends) {
+    const bar = el("div", "actions");
+    phrase = el("input");
+    phrase.placeholder = "phrase rule: the word with its neighbours, as printed";
+    phrase.value = phraseFor(o, asSpelling(o.word, p));
+    phrase.onclick = e => e.stopPropagation();
+    bar.append(phrase, button("Make phrase rule", () =>
+      post("/api/rule", { kind: "phrase", fold: p.fold, spelling: phrase.value }, "phrase rule made and applied")));
+    box.appendChild(bar);
+  }
+  box.appendChild(el("div", "hint",
+    mode === "ruled" ? (o.rule ? "A spelling other than the rule's makes a story exception: the rule is skipped in this story."
+                               : "This story is excepted: the spelling you pick is a plain edit here.")
+    : p.depends ? "Picks the spelling for this occurrence only."
+    : common ? "A pick fills in the phrase; check it against the scan, then make the rule."
+    : "A pick makes a rule for the whole book and applies it."));
+
+  function choose(s) {
+    if (perWord) {
+      const override = mode === "ruled" && o.rule && s.toLowerCase() !== o.word.toLowerCase() ? o.rule : null;
+      if (override && !confirm(`Skip the rule “${o.rule}” in the story “${o.title}” and write “${s}” here?`)) return;
+      post("/api/word", { block: o.block, start: o.start, end: o.end, spelling: s, override }, override ? "story exception made" : "edited");
+    } else if (common) {
+      phrase.value = phraseFor(o, s);
+      phrase.focus();
+    } else {
+      post("/api/rule", { kind: "word", fold: p.fold, spelling: s }, `rule “${s}” made and applied`);
+    }
+  }
+  return box;
+}
+
+async function post(path, body, done) {
+  status("saving…");
+  try {
+    const r = await api(path, body);
+    await load();
+    status(done + (r.changed != null ? ` · ${r.changed} block(s) changed` : ""));
+  } catch (e) {}
+}
+
+$("#tabOpen").onclick = () => { state.tab = "open"; state.open = state.active = null; render(); };
+$("#tabRuled").onclick = () => { state.tab = "ruled"; state.open = state.active = null; render(); };
+
+load().catch(e => status(String(e.message || e), true));
+</script>
+</body>
+</html>

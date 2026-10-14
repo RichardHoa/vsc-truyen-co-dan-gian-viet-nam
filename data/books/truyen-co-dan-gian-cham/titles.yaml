@@ -1,0 +1,122 @@
+# Story Titles for this book: each story's heading as set, by the first pdf page of its section.
+# Edit a heading in `python -m vsc_ocr review <book>` (or by hand here); the AI Proofreading Pass
+# writes them as they are (prepare-ai copies this file to the cluster).
+titles:
+- pdf: 6
+  title: Lời giới thiệu
+- pdf: 10
+  title: 1. Sự tích gà gáy sáng
+- pdf: 15
+  title: 2. Chàng Cuội cây đa
+- pdf: 19
+  title: 3. Sự tích bò thần Kapin
+- pdf: 25
+  title: 4. Sự tích con bìm bịp
+- pdf: 28
+  title: 5. Prăm Tịch, Prăm Lắc
+- pdf: 32
+  title: 6. Sự tích táo quân
+- pdf: 42
+  title: 7. Sự tích vua TaBài và nàng BìLà
+- pdf: 53
+  title: 8. Sự tích con khỉ
+- pdf: 56
+  title: 9. Sự tích Pô Nai
+- pdf: 60
+  title: 10. Pô Ri Yak (Thần sóng)
+- pdf: 64
+  title: 11. Trời không phụ người nhân đức
+- pdf: 73
+  title: 12. Con gà trắng và chiếc nhẫn đồng
+- pdf: 79
+  title: 13. Cu Cai - Ma Rút
+- pdf: 91
+  title: 14. Bảy chàng trai khoẻ
+- pdf: 104
+  title: 15. Cái Ná chín rãnh
+- pdf: 111
+  title: 16. Nha Rúi và Tầm Dang
+- pdf: 123
+  title: 17. Chàng Rít
+- pdf: 143
+  title: 18. Người tiều phu và ba vật quý
+- pdf: 147
+  title: 19. Nàng út lấy chồng trăn
+- pdf: 154
+  title: 20. Bánh biết nói
+- pdf: 159
+  title: 21. Trạng xử kiện
+- pdf: 170
+  title: 22. Trạng tí hon
+- pdf: 178
+  title: 23. Chàng khổ
+- pdf: 186
+  title: 24. Nai Ka Điêng
+- pdf: 195
+  title: 25. Chàng Răn
+- pdf: 212
+  title: 26. Voi bảy ngà
+- pdf: 232
+  title: 27. Gậy đầu sinh đầu tử
+- pdf: 248
+  title: 28. Kén rể
+- pdf: 252
+  title: 29. Vợ người cắt cỏ
+- pdf: 257
+  title: 30. Ba chị em
+- pdf: 264
+  title: 31. Xin chôn núi vàng
+- pdf: 267
+  title: 32. Kathăr ăn phân chó
+- pdf: 274
+  title: 33. Hoàng tử TềWa MừNô
+- pdf: 316
+  title: 34. Hoàng tử UmRúp và cô gái chăn dê
+- pdf: 410
+  title: 35. Người hoá chì
+- pdf: 417
+  title: 36. Thỏ và ốc sên chạy đua
+- pdf: 420
+  title: 37. Tình ruột thịt
+- pdf: 422
+  title: 38. Con trâu đực đẻ con
+- pdf: 424
+  title: 39. Chú bé thông minh
+- pdf: 427
+  title: 40. Cậu gạo
+- pdf: 432
+  title: 41. Ai mạnh hơn hết
+- pdf: 435
+  title: 42. Đàn trâu hiệp sức đánh nhau với cọp
+- pdf: 438
+  title: 43. Cáo và con gà trống
+- pdf: 440
+  title: 44. Bò và chó sói
+- pdf: 442
+  title: 45. Chuột nhà và chuột đồng
+- pdf: 444
+  title: 46. Trí khôn của con người
+- pdf: 447
+  title: 47. Jôt đi học (Ja Jôt nao mugru)
+- pdf: 453
+  title: 48. Trái sung (Boh Gong)
+- pdf: 455
+  title: 49. Parăm Mưdit, Parăm Mưlak
+- pdf: 465
+  title: 50. Thằng Khổ (Jà ri Băh)
+- pdf: 472
+  title: 51. Ja pa-ok (Cậu Xoài)
+- pdf: 484
+  title: 52. Cọp và thỏ
+- pdf: 489
+  title: 53. Hà Niên lấy người
+- pdf: 501
+  title: 54. Jà Pa Nrang bỏ xứ
+- pdf: 517
+  title: 55. Trai kén vợ, gái kén chồng (Likay Ruah Kamay, Kamy Ruah Li kay)
+- pdf: 526
+  title: 56. Jari Băh (Chàng nghèo)
+- pdf: 540
+  title: 57. Cóc khiêu chiến với Ngọc hoàng
+- pdf: 545
+  title: 58. Con Thỏ đi săn thịt cho Chằng Tinh ăn

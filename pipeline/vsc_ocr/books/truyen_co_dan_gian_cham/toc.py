@@ -3,7 +3,8 @@ book's changes:
   - the pages come from `toc_pages` in assemble.yaml;
   - one entry per printed row: no row carries on the title above it (the
     shared parser joined "55. Trai kén vợ, gái kén chồng" to the next row
-    when OCR read its page number "516" as "S16");
+    when OCR read its page number "516" as "S16"), and a row with neither an
+    item number nor a page number is noise, not a row;
   - the item numbers run 1-58 after the "• Lời giới thiệu" row, so they come
     from the row order; the number as read is kept in `ocr_item` when it
     differs ("đ1." for 31, "S1." for 51), with any noise before it
@@ -51,6 +52,11 @@ def parse_row(text: str) -> dict | None:
         if _item.match(t):
             item = t.rstrip(".,:")
     title = " ".join(tokens).strip(" .…·_-–—=~|")
+    # every printed row has an item number or a page number; a row with
+    # neither is OCR noise ('"mẽ ¬_' above row 34 on pdf 555), and counting
+    # it would shift every later row's item by one
+    if item is None and page is None:
+        return None
     return dict(title=title, page=int(page) if page and page.isdigit() else None, ocr_item=item)
 
 

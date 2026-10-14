@@ -10,7 +10,7 @@ def show() -> None:
     if not ids:
         print("No books yet. Run `python -m vsc_ocr inventory`.")
         return
-    cols = ("ocr pages", "rendered", "vision", "tesseract", "merged", "cleaned")
+    cols = ("ocr pages", "rendered", "vision", "tesseract", "merged", "cleaned", "final")
     print(f"{'book':48} " + " ".join(f"{c:>9}" for c in cols))
     for i in ids:
         b = Book(i)
@@ -22,5 +22,6 @@ def show() -> None:
             sum(b.ocr_path("tesseract", n).exists() for n in pages),
             sum(b.merged_path(n).exists() for n in pages),
             sum(b.page_path(n).exists() for n in pages),
+            "yes" if (b.dir / "final" / "book-final.md").exists() else "-",
         )
         print(f"{i[:48]:48} " + " ".join(f"{c:>9}" for c in counts))

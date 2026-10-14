@@ -1,34 +1,18 @@
 # TRUYỆN CỔ DÂN GIAN CHĂM
 
-<!-- pdf 4 -->
-
-TRUNG TÂM NGHIÊN CỨU VĂN HÓA CHĂM - NINH THUẬN
-
-TRUYỆN CỔ DÂN GIAN  
-CHĂM
-
-★
-
-TRƯƠNG HIẾN MAI - NGUYỄN THỊ BẠCH CÚC  
-SỬ VĂN NGỌC - TRƯƠNG TÔN  
-Dịch, biên soạn, tuyển chọn
-
-⚠ ai-missed? Š/о1/2оє1
-
-NHÀ XUẤT BẢN VĂN HÓA DÂN TỘC  
-Hà Nội - 2000
+<!-- pdf 4 · Trương Hiến Mai, Nguyễn Thị Bạch Cúc, Sử Văn Ngọc, Trương Tôn — dịch, biên soạn, tuyển chọn · NXB Văn hóa Dân tộc, Hà Nội 2000 -->
 
 ## Lời giới thiệu
 
 <!-- pdf 6-8 · heading: LỜI GIỚI THIỆU -->
 
-Dân tộc Chăm có một nền văn hoá rất đa dạng đã xuất hiện sớm ở nước ta. Từ thuở xa xưa họ đã sáng tạo nên một kho tàng văn học dân gian vô cùng độc đáo và phong phú.
+Dân tộc Chăm có một nền văn hoá rất đa dạng đa xuất hiện sớm ở nước ta. Từ thuở xa xưa họ đã sáng tạo nên một kho tàng văn học dân gian vô cùng độc đáo và phong phú.
 
 Quá trình sưu tầm sao chụp bảo tồn thư tịch cổ Chăm chúng tôi đã phân loại chọn lọc biên soạn dịch 32 truyện cổ dân gian Chăm từ những tư liệu lưu giữ tại Trung tâm, của cụ Thiên Sanh Cảnh, cụ Bố Thuận, ông Lân Quang Ải, Bình Mỹ - Phan Thanh, ông Đàng Lạch Vĩnh Thuận, Phước Dân, Ninh Phước cùng nhiều gia đình khác ở các làng Chăm Ninh Thuận và dần đến Bắc Bình, Bình Thuận. Với 26 truyện do Tuấn Dũng, sưu tầm, tuyển chọn trên sách, tạp chí của địa phương và Trung ương.
 
 Phần lớn nội dung truyện cổ dân gian Chăm đều có tính giáo dục cao, phản ánh sự hoài bão mưu cầu công bằng trong cuộc sống lao động, hạnh phúc trong tình yêu. Từ đó họ hun đúc một tinh thần quyết chí cao, vượt mọi hiểm nguy dùng nghị lực hay dùng trí thông minh đối với cường bạo, thần quyền đang ràng buộc phân hoá xã hội. Kết cục cuộc đấu tranh nào cái ác bao giờ cũng bị trừng trị, ở hiền gặp lành, được truyền tụng đến ngày nay và đến muôn đời sau...
 
-Bởi vậy có nhiều truyền thuyết như: Sự tích Po Nai, Po Ri Yak... được người Chăm tôn vinh đưa vào hệ thống nhân thần, hằng năm đều tổ chức lễ - hội, nhiều truyện thấm sau vào đời sống tinh thần gắn chặt với phong tục tập quán như : Nàng Út lấy chồng Trăn, Người hoá chì, Hà Niên lấy người, Pa răm - Mư Dit - Pa răm MuLak, Ja Pa Ok... Cũng có nhiều cốt truyện giống cốt truyện của các dân tộc anh em khác trong đại gia đình dân tộc Việt Nam. Nhưng đến nay cũng chưa đâu khẳng định được nguồn gốc nên vẫn còn trong lĩnh vực nghiên cứu.
+Bởi vậy có nhiều truyền thuyết như: Sự tích Po Nai, Po Ri Yak... được người Chăm tôn vinh đưa vào hệ thống nhân thần, hằng năm đều tổ chức lễ - hội, nhiều truyện thấm sau vào đời sống tinh thần gắn chặt với phong tục tập quán như : Nàng Út lấy chồng Trăn, Người hoá chì, Hà Niên lấy người, Pa răm - Mư Dit - Pa răm MưLak, Ja Pa Ok... Cũng có nhiều cốt truyện giống cốt truyện của các dân tộc anh em khác trong đại gia đình dân tộc Việt Nam. Nhưng đến nay cũng chưa đâu khẳng định được nguồn gốc nên vẫn còn trong lĩnh vực nghiên cứu.
 
 Chúng tôi cũng xin chân thành cảm tạ sự quan tâm giúp đỡ của Sở Văn hóa - Thông tin Ninh Thuận; các gia đình còn bảo lưu thư tịch cổ đã vui lòng cung cấp cho nhiều tư liệu quý báu, nhiều lời chỉ dẫn tận tình, nhờ vậy mà chúng tôi đã sớm hoàn thành công trình khảo cứu này. Kính mong quý vị nhận nơi đây lòng biết ơn của chúng tôi.
 
@@ -47,27 +31,23 @@ Cứ theo truyền thuyết ngày xưa, At Mưhêkat kể lại, từ thuở m�
 
 Pô Kuk prahimưk là vị thánh chúa tể ở thượng giới có nhiều phép màu biến hoá ra muôn loài. Pô Kuk cho thánh Jibrahimưk và các vị thánh khác giáng trần vào ngày thứ sáu, mùng một để lo xếp đặt và cai quản mọi vật trên trần gian. Mỗi vị thánh hạ giới đều phải vào thánh đường học kinh kệ, luyện tập.
 
-Tại một thánh đường nọ, sau khi cầu kinh, tụng kinh, phần vì mệt mỏi, phần vì quá chén, tất cả các vị thánh đều ngủ say. Lợi dụng cơ hội đó, vị chúa của quỷ Sa tăng là Munumas Sibai Kayông, với tham ý muốn làm đảo lộn thế gian đã lẻn vào thánh đường dùng phép thần thông hoá thành bốn tên quỷ Sa tăng rồi ra lệnh cho bọn này nhổ hết mấy cây cột chính của ngôi thánh đường đem vứt xuống biển sâu. Còn Munumas Sibai Kayông thì lấy trộm cái nỏ thần và tên vàng trên ngực vị thánh Pô Kuk bắn tan hết mười một mặt trời và mười một mặt trăng. May sao có một mặt trăng và một mặt trời chạy thoát được.
+Tại một thánh đường nọ, sau khi cầu kinh, tụng kinh, phần vì mệt mỏi, phần vì quá chén, tất cả các vị thánh đều ngủ say. Lợi dụng cơ hội đó, vị chúa của quỷ Sa tăng là Mưnưmas Sibai Kayông, với tham ý muốn làm đảo lộn thế gian đã lẻn vào thánh đường dùng phép thần thông hoá thành bốn tên quỷ Sa tăng rồi ra lệnh cho bọn này nhổ hết mấy cây cột chính của ngôi thánh đường đem vứt xuống biển sâu. Còn Mưnưmas Sibai Kayông thì lấy trộm cái nỏ thần và tên vàng trên ngực vị thánh Pô Kuk bắn tan hết mười một mặt trời và mười một mặt trăng. May sao có một mặt trăng và một mặt trời chạy thoát được.
 
 Mặt trời và mặt trăng còn lại đã hoảng sợ chạy trốn nên vũ trụ lúc bấy giờ trở nên tối tăm, mù mịt, lạnh lẽo. Hơi lạnh thấm buốt các vị thánh đang ngủ say, làm cho các vị thức giấc. Khi tỉnh dậy các vị thánh vô cùng bàng hoàng ngơ ngác, chỉ thấy tối mù mịt, toàn một màu đen u ám. Mọi vật vô cùng hỗn loạn, loài người và vật kêu la thảm thiết. Còn bọn ma quỷ thì mặc sức hoành hành, phá phách.
 
-Pô Kuk sau một lúc bàng hoàng, liền hoá phép nhỏ ba giọt nước mắt lên bàn tay, rồi ngài lại nhổ thêm lông mày để vào giữa. Sau đó Pô Kuk niệm thần chú hoá thành cây nến, rồi hoá
-
-⚠ ai-missed? N nnn nh Tàn n
-
-lửa đốt để thắp sáng. (Ngày nay người Chăm cúng tế thần thường thắp nến bằng sáp ong là do tích này). Nhờ ánh sáng của cây nến, ngài thấy mấy cây cột chính của thánh đường bị nhổ mất, cái nỏ thần và tên vàng của ngài cũng không còn nữa. Xung quanh ngài chỉ còn là một sự mù mịt và vô cùng hỗn loạn.
+Pô Kuk sau một lúc bàng hoàng, liền hoá phép nhỏ ba giọt nước mắt lên bàn tay, rồi ngài lại nhổ thêm lòng mày để vào giữa. Sau đó Pô Kuk niệm thần chú hoa thành cây nến, rồi hoá lửa đốt để thắp sáng. (Ngày nay người Chăm cúng tế thần thường thắp nến bằng sáp ong là do tích này). Nhờ ánh sáng của cây nến, ngài thấy mấy cây cột chính của thánh đường bị nhổ mất, cái nỏ thần và tên vàng của ngài cũng không còn nữa. Xung quanh ngài chỉ còn là một sự mù mịt và vô cùng hỗn loạn.
 
 Lúc còn mặt trăng, mặt trời, ánh sáng gay gắt, làm cho người, vật khó chịu. Đến khi mặt trăng, mặt trời mất đi, ánh sáng mới trở nên cần thiết và đáng quý xiết bao.
 
-Để tìm căn nguyên xảy ra, thánh Brahimuk ngửa bàn tay bấm độn, gieo quẻ bói. Và được biết rằng Munumas Sibai Kayông cùng loài quỷ Sa·tăng đã gây ra cảnh tối tăm, hỗn loạn này.
+Để tìm căn nguyên xảy ra, thánh Brahimưk ngửa bàn tay bấm độn, gieo quẻ bói. Và được biết rằng Mưnưmas Sibai Kayông cùng loài quỷ Sa·tăng đã gây ra cảnh tối tăm, hỗn loạn này.
 
 Pô Kuk truyền tho thánh JIbrael gọi tất cả thú vật, chim muông, và cả loài người lại để nghị bàn. Khi mọi loài đã tề tựu đầy đủ, Pô Kuk hỏi:
 
-\- Hỡi con người và muôn loài, ai có thể giúp Pô Kuk vượt biển cả sang xứ Mukah để tìm lại mặt trăng, mặt trời, đem ánh sáng về cho trần gian, loại trừ ma quỷ ?
+\- Hỡi con người và muôn loài, ai có thể giúp Pô Kuk vượt biển cả sang xứ Mưkah để tìm lại mặt trăng, mặt trời, đem ánh sáng về cho trần gian, loại trừ ma quỷ ?
 
-Tất cả mọi loài đều lắc đầu bất lực, duy chỉ có vợ chồng vịt là tình nguyện giúp Pô Kuk đi tìm mặt trời, nhưng vợ chồng vịt lại kêu là đang bận ấp trứng nên chưa có thể đi ngay được. Còn vợ chồng gà thì cũng muốn đi, vì cho rằng trong muôn loài chỉ mình mới có giọng hay nhất, nhưng lại không bơi được trên mặt nước như vịt. Thánh Brahimuk liền truyền cho gà mái ở nhà ấp trứng, và ấp luôn trứng cho vợ chồng vịt. Còn gà trống nhờ được trời phú cho giọng gáy to và hay nên vui lòng nhận việc đi gọi mặt trời.
+Tất cả mọi loài đều lắc đầu bất lực, duy chỉ có vợ chồng vịt là tình nguyện giúp Pô Kuk đi tìm mặt trời, nhưng vợ chồng vịt lại kêu là đang bận ấp trứng nên chưa có thể đi ngay được. Còn vợ chồng gà thì cũng muốn đi, vì cho rằng trong muôn loài chỉ mình mới có giọng hay nhất, nhưng lại không bơi được trên mặt nước như vịt. Thánh Brahimưk liền truyền cho gà mái ở nhà ấp trứng, và ấp luôn trứng cho vợ chồng vịt. Còn gà trống nhờ được trời phú cho giọng gáy to và hay nên vui lòng nhận việc đi gọi mặt trời.
 
-Gà trống trèo lên lưng vịt, vịt bơi nhanh ra đại dương. Khi đến địa phận xứ Mukah, Pô Kuk thấy mặt trời và mặt trăng đang trốn trong con ngươi của thần Rătnôlăk, Pô Kuk liền hoá phép cho mặt trăng và mặt trời ra khỏi con ngươi thần Rătnôlăk. Nghe tiếng gọi tha thiết của gà trống hết lần này đến lần khác, mặt trăng và mặt trời thuận lòng đem ánh sáng trở lại cho trái đất và muôn loài.
+Gà trống trèo lên lưng vịt, vịt bơi nhanh ra đại dương. Khi đến địa phận xứ Mưkah, Pô Kuk thấy mặt trời và mặt trăng đang trốn trong con ngươi của thần Rătnôlăk, Pô Kuk liền hoá phép cho mặt trăng và mặt trời ra khỏi con ngươi thần Rătnôlăk. Nghe tiếng gọi tha thiết của gà trống hết lần này đến lần khác, mặt trăng và mặt trời thuận lòng đem ánh sáng trở lại cho trái đất và muôn loài.
 
 Từ đó, trái đất lại được mặt trăng, mặt trời chiếu sáng. Nhưng không còn gay gắt như lúc trước nữa, mà hoà dịu, mát mẻ có bốn mùa : xuân, hạ, thu, đông như ngày nay.
 
@@ -149,11 +129,11 @@ Tiếc cho phận mình sắp thành chính quả, nghe theo lời ông già, nh
 
 Người ta cho rằng sở dĩ chim bìm bịp cứ hay chúi rúc hết bụi cây này sang bụi cây khác là để đi tìm lại quả tim nọ.
 
-## 5. Prăm Tịch, Prăm Lắc (!)[^pram-tich-pram-lac-p28-1]
+## 5. Prăm Tịch, Prăm Lắc[^pram-tich-pram-lac-p28-1]
 
-<!-- pdf 28-31 · heading: PRĂM TỊCH, PRĂM LẮC -->
+<!-- pdf 28-31 · heading: PRĂM TỊCH, PRĂM LẮC (1) -->
 
-Ngày xưa, có hai chàng trai, một người tên là Prăm Tịch, một người tên là Prăm Lắc. Họ rủ nhau cùng đi tìm thầy học võ nghệ. Hai chàng trai đi tới nhà tổ sư nghề võ tên là Kay-Tài Mư-ra-xi xin làm học trò. Thầy dạy võ có cô con gái là Pia-Chà-Tà, tuổi chạc mười tám, đôi mươi, tính tình dịu hiền, phúc hậu, mặt mày sáng sủa, đẹp đẽ. ⚠
+Ngày xưa, có hai chàng trai, một người tên là Prăm Tịch, một người tên là Prăm Lắc. Họ rủ nhau cùng đi tìm thầy học võ nghệ. Hai chàng trai đi tới nhà tổ sư nghề võ tên là Kay-Tài Mư-ra-xi xin làm học trò. Thầy dạy võ có cô con gái là Pia-Chà-Tà, tuổi chạc mười tám, đôi mươi, tính tình dịu hiền, phúc hậu, mặt mày sáng sủa, đẹp đẽ.
 
 Cả hai chàng trai đều ngỏ ý muốn cưới cô gái làm vợ. Ông thầy thấy khó xử quá, bèn ra điều kiện, trước sân nhà có sáu cây bông - bông[^pram-tich-pram-lac-p28-2] hễ ai bắn một mũi tên mà xuyên qua cả sáu cây thì người ấy được cùng cô gái kết nghĩa trăm năm. Hai chàng trai cùng mang cung ra ngoài sân, nhưng hễ họ giương cung lên ngắm bắn thì cả sáu cây bồng - bồng tự nhiên chuyển động. Họ đoán biết dưới đất có con rồng đang cựa mình, bèn lấy ngón chân cái vẽ bùa bấm vào đuôi rồng. Con rồng đành phải nằm im. Hai chàng trai cùng giương cung bắn, cả hai mũi tên cùng xuyên qua sáu cây bồng - bồng. Ông thầy lại nghĩ cách khác, ông đưa con gái lên ẩn trên một quả núi xa, trong một hang sâu, rồi lấp cửa hang bằng một hòn đá lớn. Sau đó ông trở về nói với hai chàng trai nọ, ai tìm thấy cô gái trước thì người đó là chồng cô gái. Hai chàng chia nhau đi tìm.
 
@@ -268,11 +248,11 @@ Thế rồi các cụ già từ đời này sang đời khác, thường kể ch
 
 [^su-tich-tao-quan-p35-2]: Bầu linh dược : bầu thuốc cải tử hoàn sinh. <!-- note pdf 35 -->
 
-## 7. Sự tích vua TaBài và nàng BìLà (")[^su-tich-vua-tabai-va-nang-bila-p42-1]
+## 7. Sự tích vua TaBài và nàng BìLà[^su-tich-vua-tabai-va-nang-bila-p42-1]
 
 <!-- pdf 42-52 · heading: SỰ TÍCH VUA TABÀI VÀ NÀNG BÌLÀ -->
 
-Rua có một hoàng tử người Chăm tên là TaBài đang hành hương tại Do Thái thì được tin tại xứ Chăm không có Vua, Hoàng tử có ý định về làm Vua. Khi về xứ Chăm, Hoàng tử kết bạn cùng Hoàng tử YangĪn. Hoàng tử TaBài rèn vũ khí để săn bắn gồm Khăl, Hanrak, đầu, Katuang...
+Xưa có một hoàng tử người Chăm tên là TaBài đang hành hương tại Do Thái thì được tin tại xứ Chăm không có Vua, Hoàng tử có ý định về làm Vua. Khi về xứ Chăm, Hoàng tử kết bạn cùng Hoàng tử YangIn. Hoàng tử TaBài rèn vũ khí để săn bắn gồm Khăl, Hanrak, đau, Katuang...
 
 Một hôm hai người rủ nhau vào rừng săn bắn, mỗi người đi một nẻo. Hoàng tử TaBài đi theo đường ao Ngà. (Gốc Ngà này xứ Ả Rập. Vua Tanắc đưa sang để làm Vua. Tanắc không chịu về nên bị giết chết tại chỗ. Ngà ấy hờn giận chìm xuống đất sâu, sau này hoá thành ao, gọi là ao Ngà). Đoàn chó săn của Hoàng tử TaBài không chịu đi cứ nhìn xuống ao sủa, Hoàng tử gọi mãi bầy chó cũng không đi, lấy làm lạ. Hoàng tử ra lệnh cho quần thần xuống mò và tìm thấy một khúc Ngà. Quần thần tầu lại với Hoàng tử trong ao có Ngà. Hoàng tử truyền vớt Ngà ấy lên, nhưng lạ thay cả đoàn đi săn xuống đưa lên cũng không nổi, Hoàng tử TaBài thấy vậy bèn xuống ao xem thử. Ngài vừa đưa tay vào nhấc lên thấy nhẹ bỗng.
 
@@ -306,7 +286,7 @@ Nàng tiên vẽ xong thì vị hung thần từ giã.
 
 Nàng tiên mang hình vẽ để dưới nệm giường ngủ của vợ chồng, bỗng chốc Hoàng tử TaBài về, nàng quên lấy hình cho Hoàng tử xem dáng vóc. Cơm nước xong, Hoàng tử vào phòng nằm ngủ trước, ngài vừa đặt mình xuống thì bị gai đâm nhức nhối không ngủ được, bèn dỡ nệm lên thì thấy hình của hung thần Bil Thôr. Ngài mang ra hỏi nàng tiên nhưng nàng quá sợ không dám nói gì, dù có nói thật chăng nữa, chồng vẫn không tin. Hoàng tử giận bèn đuổi nàng ra khỏi cung.
 
-Nàng tủi nhục phải ra đi, còn Hoàng tử lòng vẫn còn thương tiếc vợ, hối hận vì đã lỡ lời. Chàng muốn đi tìm vợ để xin lỗi, nhưng vì nặng tự ái nên khôgn đi. Hoàng tử bèn giả chết, truyền thần làm đám hoa táng để thử bụng nàng có trọn tình với mình không.
+Nàng tủi nhục phải ra đi, còn Hoàng tử lòng vẫn còn thương tiếc vợ, hối hận vì đã lỡ lời. Chàng muốn đi tìm vợ để xin lỗi, nhưng vì nặng tự ái nên khôgn đi. Hoàng tử bèn giả chết, truyền thần làm đám hoả táng để thử bụng nàng có trọn tình với mình không.
 
 Nàng tiên hay tin Hoàng tử TaBài chết làm đám hoả táng, nàng đến vào trong rạp tang ngồi cạnh thi hài chồng than khóc thảm thiết. Hoàng tử TaBài nghe vợ mình khóc than kể lể sự tình, ngài bèn thò tay ra nắm lấy nàng và xin chịu lỗi với vợ về sự nghi nàng đã phụ bạc chàng, xin nàng hãy về lại hoàng cung để vợ chồng cùng chung sống như cũ. Nàng tiên trả lời với Hoàng tử rằng:
 
@@ -380,18 +360,16 @@ Kay Kamao ra sức thực hiện ngày đêm chẳng bao lâu đã hoàn thành 
 
 Lễ cưới được tiến hành, riêng Pô Nai bất mãn, mày hoa ủ rũ vì không thương Kay Kamao nhưng bị cha mẹ cưỡng ép nàng đành chịu cuộc hôn nhân bất đắc dĩ đó. Vào đêm thứ ba nàng lén bỏ nhà lên núi Chà Bang tu hành. Nhờ sự quyết tâm khổ luyện nàng đã đắc đạo cứu độ chúng sinh, khi đắc đạo Pô Người có tên Nai - Tangya Bia Atapah. Lúc Pô Nai bỏ đi tu Kay Kamao tự ái biết rằng Pô Nai chê mình, nên chàng đã dùng gậy phá bằng con sông rồi hoá đá bàn trấn lại ở cửa sông không cho nước xuống, chàng dùng cung bắn một mũi tên phá ngay tảng đá Pô Nai ngồi thiền, tảng đá nứt làm hai dài khoảng 16m, cao khoảng 18m, có một luồng vừa lọt một người đi, nơi thầy chan đọc kinh khi làm lễ là Pô Nai ngồi tu hành ngày xưa.
 
-* * *
-
 Vì sự tích trên mà vùng núi Chà Bang người Raglai không dám lai văng, dân địa phương không ai dám nói tục, ngài rất thiêng khi ai bị hoạn nạn cầu cứu thì được cứu độ nếu vi phạm các điều kể trên thì bị trừng phạt, như bị ong đốt, rắn cắn; cọp vồ, lạc đường v.v... Do đó đồng bào Chăm rất sùng kính ngài khi lên núi dù mệt cũng nói rằng khoẻ, dù đói cũng bảo rằng no thì cảm thấy dễ chịu ngay.
 
-Đồng bào Chăm không phân biệt đạo Bà la môn hay Bàni đều rất ngưỡng mộ ngài nên đã lập đền thờ, chính giữa có một cái Linga đầu tròn, phần giữa hình bát giác chân đế tứ giác tượng hình Yoni đặt trên bệ xi măng trên đỉnh núi Chà bang, giữa khoảng đất bằng rộng nhiều cây quả trĩu cành. Hằng năm vào hạ tuần tháng một và tháng hai (lịch Chăm) họ đều có tổ chức lễ hội để tưởng nhớ ngài, trong bài hát ông Mudôn có đoạn tả việc tu hành của ngài:
+Đồng bào Chăm không phân biệt đạo Bà la môn hay Bàni đều rất ngưỡng mộ ngài nên đã lập đền thờ, chính giữa có một cái Linga đầu tròn, phần giữa hình bát giác chân đế tứ giác tượng hình Yoni đặt trên bệ xi măng trên đỉnh núi Chà bang, giữa khoảng đất bằng rộng nhiều cây quả trĩu cành. Hằng năm vào hạ tuần tháng một và tháng hai (lịch Chăm) họ đều có tổ chức lễ hội để tưởng nhớ ngài, trong bài hát ông Mưdôn có đoạn tả việc tu hành của ngài:
 
 Nai nao tapah Dirăm Riya  
 Dua dray ula kong nai tapah  
 Nai nao tapak chok glong  
 Dua dray rimon kong nai tapah  
 Nai nao tapah thay thau  
-Băng blang muchau dokhalau glai
+Băng blang mưchau dokhalau glai
 
 Tạm tịch :
 
@@ -403,9 +381,9 @@ Có hai con hổ ra vào thăm nom
 Ngài đi tu ai biết nào  
 Đành cam chịu khổ dựa vào rừng cây
 
-Ông Mudôn hát cùng trống Paramung, kèn Saranai, ông Kaing múa hát chầu hết các vị thần, tất cả đều hoà nhập với cảnh núi rừng như quên hẳn chốn trần tục để hưởng thụ giây phút thần tiên. Họ khấn vái cầu xin Pô Nai các vị thần ban phước mưa thuận gió hoà, mùa màng được bội thu, gia đình hạnh phúc thu đạt được nhiều thành quả trong năm mới.
+Ông Mưdôn hát cùng trống Paramưng, kèn Saranai, ông Kaing múa hát chầu hết các vị thần, tất cả đều hoà nhập với cảnh núi rừng như quên hẳn chốn trần tục để hưởng thụ giây phút thần tiên. Họ khấn vái cầu xin Pô Nai các vị thần ban phước mưa thuận gió hoà, mùa màng được bội thu, gia đình hạnh phúc thu đạt được nhiều thành quả trong năm mới.
 
-## 10. Pô ri yak (Thần sóng)
+## 10. Pô Ri Yak (Thần sóng)
 
 <!-- pdf 60-63 · heading: PÔ RI YAK (Thần sóng) -->
 
@@ -429,13 +407,11 @@ Thầy thức giấc thấy vắng chàng Eh Wa, nhìn trên gác thì thấy m�
 
 Lời nguyền rủa của thầy thật mầu nhiệm. Eh Wa vượt biển gần đến đất liền liền bỗng nhiên trời nổi phong ba bão tố sóng thần nổi lên cuồn cuộn như thác đổ, đánh vỡ tấm bè. Eh Wa bị cá mập nuốt sống, hương hồn của Eh Wa hoà nhập vào cá Voi để cứu độ ngư dân khi bị nạn đắm thuyền bè, Eh Wa chết vì sóng người Chăm gọi là RiYak, nên dân gian truyền tụng gọi là Pô ri Yăk (Thần sóng).
 
-* * *
-
 Mặc dù Eh Wa chưa thực hiện được lý tưởng của mình nhưng tấm lòng cao cả của ông đồng bào Chăm kính phục được ghi vào hệ thống nhân thần (người có công với dân tộc).
 
 Ngày nay hàng năm vào tháng hai, ba (lịch Chăm) ở các làng Chăm Bàlamôn và Bàni tổ chức lễ hội để ghi nhớ công đức và sự hy sinh cứu độ của ông.
 
-Pô ri Yak không những người Chăm thờ mà cả ngư dân vùng biển người Việt cũng lập miếu thờ (gọi là thần Nam Hải) hàng năm thường tổ chức lễ hội để tưởng nhớ công lao cứu mạng của ông.
+Pô ri Yak không những người Chăm thờ mà cả ngư dân vùng biển người Việt cũng lập miếu thờ (gọi là thần Nam Hải) hàng năm thường tổ chức lễ hội để tưởng nhớ công lao cứu mạng của ông. 
 
 ## 11. Trời không phụ người nhân đức
 
@@ -577,7 +553,7 @@ Từ đó hai người sống với nhau hạnh phúc đến đầu bạc răng 
 
 <!-- pdf 79-90 · heading: CU CAI - MA RÚT -->
 
-Ngày xưa ở vùng Choapoti[^cu-cai-ma-rut-p79-1] có hai vợ chồng một nông dân nghèo. Hiếm hoi muộn mằn, đã nhiều tuổi, hai vợ chồng mới sinh được một con trai, đặt tên là Cucai.
+Ngày xưa ở vùng Choapơti[^cu-cai-ma-rut-p79-1] có hai vợ chồng một nông dân nghèo. Hiếm hoi muộn mằn, đã nhiều tuổi, hai vợ chồng mới sinh được một con trai, đặt tên là Cucai.
 
 Bố Cucai chết lúc Cucai mới lên hai tuổi. Từ đó, mẹ Cucai phải nai lưng ra làm việc để nuôi con. Sáng còn tối đất đã thấy bà ngồi bên khung cửi để dệt vải, tối sắp lên đèn, bà vẫn chưa ngừng tay. Đêm đêm, hai mẹ con cùng chung bóng một ngọn đèn hiu hắt. Bao nhiêu tình thương, bà mẹ dành cả cho đứa con độc nhất của mình, lòng ước mong con chóng lớn khôn, ăn học cho thành người.
 
@@ -587,7 +563,7 @@ Bây giờ Cucai đã thành một chàng trai khoẻ mạnh, đẹp đẽ. Thâ
 
 Chàng khoẻ như trâu mộng, nhanh như con cọp xám, và nói đến tài bắn của chàng thì ít người bì kịp. Con chim đang bay chàng bắn cũng rơi, con hươu đang chạy chàng bắn cũng ngã. Mũi tên ở cây ná của chàng phóng đi không hề sai đích bao giờ. Nhưng bản tính hiền lành nên chàng chỉ bắn khi cần phải có thịt ăn hay khi cần phải có thịt đổi gạo nuôi mẹ già, chứ không cậy tài giết hại thú rừng để tiêu khiển.
 
-Tiếng chàng Cucai đẹp trai, khoẻ mạnh, bắn tài lan khắp vùng Choapoti. Các ông già nói đến chàng bên bếp lửa, các chàng trai nói đến chàng trong rừng ngoài rẫy, các cô con gái bên khung cửi cũng bàn tán đến chàng... đến cả con công, con sóc trong rừng cũng xì xào nói đến chàng.
+Tiếng chàng Cucai đẹp trai, khoẻ mạnh, bắn tài lan khắp vùng Choapơti. Các ông già nói đến chàng bên bếp lửa, các chàng trai nói đến chàng trong rừng ngoài rẫy, các cô con gái bên khung cửi cũng bàn tán đến chàng... đến cả con công, con sóc trong rừng cũng xì xào nói đến chàng.
 
 Tên chàng bay đi xa, xa mãi, vào đến tận kinh đô. Tên vua nghe danh chàng liền sai quân về vùng Choapơti đòi chàng phải vào triều. Cucai van xin với tên quan, nói là phải ở nhà trông nom nuôi nấng mẹ già. Nhưng tên quan bất chấp, không đếm xỉa gì đến những lời van xin của Cucai mà cứ một mực bắt chàng phải đi ngay. Hắn còn doạ là nếu chàng không chịu đi, hắn sẽ sai lính giết cả làng. Không làm thế nào được, Cucai đành phải từ biệt mẹ già nhờ cậy dân làng trông nom rồi lên đường.
 
@@ -599,8 +575,10 @@ Biển cả rì rào như đáp lại lời chàng.
 
 Qua cánh rừng quen thuộc Cucai cũng dừng lại than thở từ biệt rừng xanh :
 
-\- Ở rừng xanh ơi, ớ cây lớn ơi, Cucai phải đi xa đây rừng xanh cây lớn đừng quên Cucai nhé!  
-Cây rừng xào xạc như để từ biệt chàng.  
+\- Ở rừng xanh ơi, ớ cây lớn ơi, Cucai phải đi xa đây rừng xanh cây lớn đừng quên Cucai nhé!
+
+Cây rừng xào xạc như để từ biệt chàng.
+
 Từng đàn công, sóc, chim cu, cùng ra tận bìa rừng để tiễn đưa chàng.
 
 Đến triều đình, Cucai vào bái kiến vua. Hắn hỏi Cucai :
@@ -609,21 +587,21 @@ Từng đàn công, sóc, chim cu, cùng ra tận bìa rừng để tiễn đưa
 
 Cucai đáp :
 
-\- Tôi ở vùng Choapoti, gần sông Bơ-rang đến đây.
+\- Tôi ở vùng Choapơti, gần sông Bơ-rang đến đây.
 
 Trước kia tên vua nghe tiếng Cucai đẹp trai, bắn giỏi nên định bắt chàng vào triều làm quan túc vệ, nhưng khi thấy chàng trả lời cộc lốc hắn cho chàng là thiếu lễ độ nên đổi ý kiến, và bắt chàng làm người trông nom vườn ngự uyển.
 
-Khi Cucai đến vườn ngự uyển, một ngọn gió nhẹ nổi lên, cỏ cây hoa lá khe khẽ rì rào :
+Khi Cucai đến vườn ngự uyễn, một ngọn gió nhẹ nổi lên, cỏ cây hoa lá khe khẽ rì rào :
 
 \- Ai đấy ? Ai đấy ?
 
 Mấy ngọn cây cao hình như đã nghe tin gió mách về chàng từ lúc nào liền cúi mình, nghiêng đầu trả lời :
 
-\- Chàng Cucai ở Choapoti đây, chàng là người coi vườn mới đấy !
+\- Chàng Cucai ở Choapơti đây, chàng là người coi vườn mới đấy !
 
 Các cây nhỏ, các hoa lá chụm đầu vào nhau xì xào :
 
-\- Chàng Cucai ở Choapoti đấy, trông chàng đẹp trai quá !
+\- Chàng Cucai ở Choapơti đây, trông chàng đẹp trai quá !
 
 Và cỏ cây hoa lá đều rạp mình xuống chào chàng:
 
@@ -663,9 +641,9 @@ Cuối cùng Marút vào chuồng voi của nhà vua, chọn một con voi già 
 
 Nàng đi từ lúc quả ngọt còn chín đầu cành đến khi lá bàng bắt đầu rơi lá tả ; qua không biết bao nhiêu đồng rộng sông dài, vượt không biết bao nhiêu núi cao rừng rậm mà vẫn chưa thấy chàng. Chiếc khăn phum tươi roi rói đội hôm đi giờ đã bạc mầu mà vẫn chưa thấy tăm hơi Cucai.
 
-Hôm đó nàng đặt chân đến dãy núi chạy dài dọc theo bờ biển cả. Nàng đã đến vùng Choapoti mà không hay biết. Bên đường, hai hòn đá nằm cạnh nhau, trên cành đôi chim tung tăng nhảy, làm nàng chạnh lòng nghĩ đến thân mình cô đơn. Buồn rầu, đau khổ, nàng xuống voi ngồi xệp cạnh đường khóc nức nở. Con voi già khôn ngoan như hiểu cảnh ngộ của chủ cũng rót nước mắt khóc theo.
+Hôm đó nàng đặt chân đến dãy núi chạy dài dọc theo bờ biển cả. Nàng đã đến vùng Choapơti mà không hay biết. Bên đường, hai hòn đá nằm cạnh nhau, trên cành đôi chim tung tăng nhảy, làm nàng chạnh lòng nghĩ đến thân mình cô đơn. Buồn rầu, đau khổ, nàng xuống voi ngồi xệp cạnh đường khóc nức nở. Con voi già khôn ngoan như hiểu cảnh ngộ của chủ cũng rót nước mắt khóc theo.
 
-Từ hôm bị đuổi khỏi kinh thành, Cucai lại quay trở về Choapoti với mẹ già. Nhưng mẹ chàng từ lúc chàng đi vì thương nhớ con nên đã lâm bệnh qua đời trước khi chàng về được ít lâu. Buồn rầu, từ đó chàng chỉ đành làm bạn với núi rừng cây cỏ, với biển xanh cát trắng và ngày ngày chàng vác nỏ vào rừng săn bắn cho khuây khoả nỗi buồn.
+Từ hôm bị đuổi khỏi kinh thành, Cucai lại quay trở về Choapơti với mẹ già. Nhưng mẹ chàng từ lúc chàng đi vì thương nhớ con nên đã lâm bệnh qua đời trước khi chàng về được ít lâu. Buồn rầu, từ đó chàng chỉ đành làm bạn với núi rừng cây cỏ, với biển xanh cát trắng và ngày ngày chàng vác nỏ vào rừng săn bắn cho khuây khoả nỗi buồn.
 
 Hôm đó đang lang thang trong rừng bỗng Cucai nghe thấy tiếng người khóc nức nở. Chàng tìm đến nơi, thì không ngờ đó chính là Marút. Cucai vội chạy lại ôm chầm lấy Marút. Lúc đó mặt nàng còn đầy nước mắt, tóc nàng còn rối bời. Đột ngột và cảm động quá nàng như nửa mê nửa tỉnh. Cucai vội bế Marút ra suối gần đó vốc nước rửa mặt cho nàng, rồi đưa nàng về nhà mình.
 
@@ -673,7 +651,7 @@ Từ hôm đó hai người chung sống với nhau. Ngày ngày Cucai vác nỏ
 
 Từ hôm Marút bỏ ra đi, tên vua rất bực bội, hắn coi Marút như đứa con bỏ đi và không thèm sai người tìm kiếm nữa.
 
-Buồn bực, hắn cùng một số cận thần đi du ngoạn những nơi thắng cảnh trong nước. Một buổi chiều hắn đến vùng Choapoti. Đến bờ biển, hắn trông thấy ở đằng xa có một đôi trai gái đang ngồi cạnh nhau trên bãi cát. Một viên quan cận thần tinh mắt tâu :
+Buồn bực, hắn cùng một số cận thần đi du ngoạn những nơi thắng cảnh trong nước. Một buổi chiều hắn đến vùng Choapơti. Đến bờ biển, hắn trông thấy ở đằng xa có một đôi trai gái đang ngồi cạnh nhau trên bãi cát. Một viên quan cận thần tinh mắt tâu :
 
 \- Tâu đức vua, trông người con gái kia giống công chúa quá.
 
@@ -706,7 +684,7 @@ Thuyền ra khơi, tên vua ra lệnh cho lính khiêng chiếc hòm đựng Cuc
 
 [^cu-cai-ma-rut-p90-1]: Truyện này được kể theo một truyện thơ dài của đồng bào Chăm gọi là Sacucây - marút. <!-- note pdf 90 -->
 
-## 14. Bảy chàng trai khoe[^bay-chang-trai-khoe-p91-1]
+## 14. Bảy chàng trai khoẻ [^bay-chang-trai-khoe-p91-1]
 
 <!-- pdf 91-103 · heading: BẢY CHÀNG TRAI KHOỂ -->
 
@@ -836,7 +814,7 @@ Hai ông bà luống tuổi nhìn quả bí, buồn rầu cho số phận. Quả
 
 \- Của cải của cha mẹ dành dụm ba mươi năm nay, con đã ăn hết rồi. Nay mẹ đã già, cha đã yếu... Con đã lớn, con tự đi tìm lấy mà ăn vậy.
 
-Bí chào cha mẹ, hẹn ngày trở về, rồi đi ngược lên dãy núi xanh. Dãy núi này xưa nay chưa có người đến. Sườn dốc ngược lô nhô những tảng đá đứng chênh vênh gập gềnh. Bí gạt đá ra lấy lối đi. Đá lăn va vào nhau rung chuyển như sấm rền. Trên đỉnh có một phiến đá vuông như chiếc gối xếp, rộng bằng chiếc chiếu. Bí đến lật úp phiến đá này, lấy ra một cái rìu, hai cái đục. Chàng hạ một cây gỗ to, làm một cái ná, cánh dài chín sải, có chín cái rãnh bắn tên. Chàng lại làm chín mũi tên, mỗi mũi to bằng cái chày giã gạo. Chàng bắn thử một phát. Chín mũi tên bay vù như một cơn bão, nhưng bay hết tầm rồi lại trở lại.
+Bí chào cha mẹ, hẹn ngày trở về, rồi đi ngược lên dẫy núi xanh. Dẫy núi này xưa nay chưa có người đến. Sườn dốc ngược lô nhô những tảng đá đứng chênh vênh gập gềnh. Bí gạt đá ra lấy lối đi. Đá lăn va vào nhau rung chuyển như sấm rền. Trên đỉnh có một phiến đá vuông như chiếc gối xếp, rộng bằng chiếc chiếu. Bí đến lật úp phiến đá này, lấy ra một cái rìu, hai cái đục. Chàng hạ một cây gỗ to, làm một cái ná, cánh dài chín sải, có chín cái rãnh bắn tên. Chàng lại làm chín mui tên, mỗi mũi to bằng cái chày giã gạo. Chàng bắn thử một phát. Chín mũi tên bay vù như một cơn bão, nhưng bay hết tầm rồi lại trở lại.
 
 Một hôm Bí gặp một đàn nai chín con đi qua, Bí bắn một phát chết cả chín. Chàng moi lấy chín quả tim, chín lá gan, chín buồng phổi đem nướng ăn. Lại gặp chín con voi đi qua, chàng bắn một phát cả đàn voi chết gục. Bí bẻ chín cái ngà voi đem về đền ơn cha mẹ, rồi lại vác ná vào rừng.
 
@@ -924,7 +902,8 @@ Tầm Dang lấy nắm tóc của Nha Rúi đưa cho cô gái xem. Cô ta bực 
 
 \- Làng này không có gà trắng. Con gà này ở đâu đến ?
 
-Con gà đứng nhận dạng Tầm Dang cho rõ.  
+Con gà đứng nhận dạng Tầm Dang cho rõ.
+
 Tầm Dang bảo :
 
 \- Nếu có quen thì vào đây. Việc gì phải đứng nhìn !
@@ -942,8 +921,6 @@ Tầm Dang bảo :
 Tầm Dang mở cái phái ra, thấy hình mình và nhận ra trầu của Nha Rúi têm. Anh bảo gà:
 
 \- Phải rồi ! Trước đây ta có "ước"[^nha-rui-va-tam-dang-p118-1] với người này. Lâu lắm ta mới lại được thấy trầu của người ấy têm.
-
-* * *
 
 Nha Rúi trèo tới ba ngày, sang ba đêm mới lên được đến ngọn cây bông. Mệt mỏi quá, nàng ngã khuyu xuống đất nhà trời. Lúc tỉnh dậy, thấy lạ xóm, lạ nhà, lạ cả đường đi, nàng liền trèo lên ngọn cây sung bên bờ sông ngồi chờ Tầm Dang và con gà ra đón. Cây sung rậm lá. Nha Rúi ngồi khuất bên trong. Tầm Dang tìm mãi không gặp nàng, lại gặp con gái tên nhà giàu mang một cái bầu và một cái vò ra sông lấy nước. Nó đến đúng chỗ cây sung Nha Rúi đang ngồi. Trông thấy bóng Nha Rúi in xuống nước, nó tưởng mình hôm nay đã đẹp, vội vàng chạy đến khoe với Tầm Dang:
 
@@ -1039,7 +1016,7 @@ Bò vàng vừa chạy đến nhà thì kiệt sức, ngã quỵ xuống. Rít v
 
 Tên lính quát :
 
-\- Gã kia, trả ngay con thịt[^chang-rit-p126-1] cho ta để nộp đực vua.
+\- Gã kia, trả ngay con thịt[^chang-rit-p126-1] cho ta để nộp đức vua.
 
 Rít lễ phép thưa :
 
@@ -1103,7 +1080,7 @@ Hai cô gái đưa mắt nhìn nhau, rồi một cô mạnh bạo cất tiếng 
 
 Thế là họ nên vợ nên chồng từ đó.
 
-Một năm trôi qua. Mùa săn lại đến. Lần này tên lính năm trước không tìm thấy bò ở nhà Rít nữa, nhưng hắn lại thấy ở đây hai cô gái xinh đẹp tuyệt trần, cung nữ trong kinh thành không ai sánh kịp. Lại một dịp tâu vua linh thưởng, hắn bèn quay ngựa phi nhanh.
+Một năm trôi qua. Mùa săn lại đến. Lần này tên lính năm trước không tìm thấy bò ở nhà Rít nữa, nhưng hắn lại thấy ở đây hai cô gái xinh đẹp tuyệt trần, cung nữ trong kinh thành không ai sánh kịp. Lại một dịp tâu vua lĩnh thưởng, hắn bèn quay ngựa phi nhanh.
 
 Tên vua nghe tin, thôi không săn bắn nữa. Hắn theo tên lính đến nhà Rít.
 
@@ -1409,8 +1386,6 @@ Sau đó vọng ra tiếng rên khe khẽ... bà mẹ mỉm cười, bà cũng t
 
 Đến sáng hôm sau, không thấy con gái ra khỏi phòng, bà đẩy cửa vào không thấy con gái cả đâu, chỉ thấy bụng trăn phình to chầm chậm bò ra biến mất, bà mới biết con gái mình đã làm mồi ngon cho Trăn rồi, bà mới nghĩ âu cũng là sự trừng phạt lòng tham của con người.
 
-* * *
-
 Nàng Út lấy chồng trăn để cứu mẹ, lòng hiếu thảo và sự hy sinh vô bờ bến đã khắc sâu vào nền tảng đạo đức của con người đối với cha mẹ, từ đó đã ảnh hưởng lưu truyền trong sinh hoạt tinh thần đi vào phong tục tập quán của người Chăm chẳng những từ thuở xa xưa, mà còn mãi đến ngày hôm nay. Vì vậy người Chăm luôn luôn lấy con gái Út để thừa tự, đồng thời có quyền thừa hưởng gia tài sự nghiệp của cha mẹ để lại.
 
 ## 20. Bánh biết nói
@@ -1623,17 +1598,11 @@ Anh học trò đi tìm người chăn trâu nọ, và mời đến trường. �
 
 \- Tôi không dám, thưa ông, sức học của ông như vậy sao không kiếm trường mà dậy ạ ?
 
-Ông trạng nói rằng mình mới đến không biết tìm đâu ra nơi dạy, đành xin ở chăn trâu kiếm miếng cơm cho qua ngày. Nghe nói vậy, ông giáo kia xin nhường trường này cho anh chăn trâu,  
-dể mình đi kiếm trường khác, gọi là có tí chút  
-tạ ơn tỏ lòng thành kính.
+Ông trạng nói rằng mình mới đến không biết tìm đâu ra nơi dạy, đành xin ở chăn trâu kiếm miếng cơm cho qua ngày. Nghe nói vậy, ông giáo kia xin nhường trường này cho anh chăn trâu, để mình đi kiếm trường khác, gọi là có tí chút tạ ơn tỏ lòng thành kính.
 
-Từ đó ông trạng chuyển sang nghề dạy học.  
-Mỗi tháng mỗi trò nộp cho thầy mười đồng. Một  
-tháng nọ, cả lớp đã nộp gần hết chỉ còn một  
-trò chưa nộp. Thầy hỏi, anh ta bảo :
+Từ đó ông trạng chuyển sang nghề dạy học. Mỗi tháng mỗi trò nộp cho thầy mười đồng. Một tháng nọ, cả lớp đã nộp gần hết chỉ còn một trò chưa nộp. Thầy hỏi, anh ta bảo :
 
-\- Xin thầy cho con nộp sau, con còn phải  
-chờ cha con ngủ dậy mới xin tiền được.
+\- Xin thầy cho con nộp sau, con còn phải chờ cha con ngủ dậy mới xin tiền được.
 
 Thầy hỏi :
 
@@ -1649,8 +1618,7 @@ Thấy lạ, thầy hỏi tiếp :
 
 Trò đáp :
 
-\- Dạ, ít thì ba mươi lăm ngày, nhiều thì năm  
-mươi ngày.
+\- Dạ, ít thì ba mươi lăm ngày, nhiều thì năm mươi ngày.
 
 Thầy hỏi :
 
@@ -1662,7 +1630,7 @@ Trò đáp :
 
 Ngâm nghi một lát thầy bảo :
 
-\- Anh hãy lấy ba nén nhang thắp chỗ đầu cha anh nằm rồi anh ngồi xếp bằng ngay ngắn mà gọi : "Cha ơi, hỡi cha, hồn yêu, hồn ma, hồn người ta làm việc âm phủ" thì cha anh sẽ dậy.
+\- Anh hãy lấy ba nén nhang thắp chỗ đầu cha anh nằm rồi anh ngồi xếp bằng ngay ngắn mà gọi : "Cha ơi, hỗi cha, hồn yêu, hỗn ma, hỗn người ta làm việc âm phủ" thì cha anh sẽ dậy.
 
 Anh học trò làm theo lời, quả thật người cha ngồi dậy, hỏi :
 
@@ -1938,7 +1906,7 @@ Từ đó chàng Khổ trở nên giầu sang, có vợ con, sống cuộc đờ
 
 [^chang-kho-p178-star]: Cốt truyện giống truyện Trời không phụ người nhân đức (trang 69). (B.T.). <!-- note pdf 178 -->
 
-## 24. Nai Ka Điêng [^nai-ka-dieng-p186-1]
+## 24. Nai Ka Điêng[^nai-ka-dieng-p186-1]
 
 <!-- pdf 186-194 · heading: NAI KA ĐIÊNG (1) -->
 
@@ -2042,7 +2010,7 @@ Vào một ngày đẹp trời, ba chị em rủ nhau đi tắm. Trước khi đ
 
 Ba chị em vừa bước ra khỏi cung điện tức thì chị cả vấp và nhắc đến tên vị tướng tả. Đi một đoạn nữa nàng thứ hai lại vấp và nhắc đến tên vị tướng hữu. Ba nàng đi tiếp, đến đầu cầu nàng út vấp và kêu lớn :
 
-\- Chây ula prong. Chây ma ki rum ! [^chang-ran-p195-1]
+\- Chây ula prong. Chây ma ki rum ![^chang-ran-p195-1]
 
 Nghe vậy hai chị em bèn bĩu môi dèm pha nàng út :
 
@@ -2144,9 +2112,9 @@ Bà cụ bảo cô gái :
 
 Từ đấy, cô gái ở với bà cụ, khi nào lạnh nàng lại chui vào trong tà rồng để ẩn náu.
 
-Cô gái bảo bà cụ làm cho mình một khung cửi để dệt vải mang bán lấy tiền nuôi nhau, chứ đừng đi mò cua bắt ốc nữa. Bà cụ nghe lời bèn cho người làm một khung cửi thật tốt, rồi tìm mua tơ sợi về cho cô gái dệt vải. Nàng dệt thật khéo và nhanh vải của nàng dệt ra khác hẳn các loại vải trên thế gian, dệt xong nàng bỏ vào chét[^chang-ran-p204-2] cho bà già đem bán. Bà già đem vải qua các làng Pòtằng, Pòtànà, rồi Pòpinì[^chang-ran-p204-3]... để bán, ai cũng đòi xem vải nhưng mặc, chứ dân thường chẳng ai dám may. Bà già mang vải đi từ sáng đến trưa, từ trưa đến chiều cũng chưa bán được tấm nào. Tối về bà lo lắng kể cho cô gái nghe, cô bảo :
+Cô gái bảo bà cụ làm cho mình một khung cửi để dệt vải mang bán lấy tiền nuôi nhau, chứ đừng đi mò cua bắt ốc nữa. Bà cụ nghe lời bèn cho người làm một khung cửi thật tốt, rồi tìm mua tơ sợi về cho cô gái dệt vải. Nàng dệt thật khéo và nhanh vải của nàng dệt ra khác hẳn các loại vải trên thế gian, dệt xong nàng bỏ vào chét[^chang-ran-p204-2] cho bà già đem bán. Bà già đem vải qua các làng Pòtằng, Pòtànà, rồi Pòpìnì[^chang-ran-p204-3]... để bán, ai cũng đòi xem vải nhưng mặc, chứ dân thường chẳng ai dám may. Bà già mang vải đi từ sáng đến trưa, từ trưa đến chiều cũng chưa bán được tấm nào. Tối về bà lo lắng kể cho cô gái nghe, cô bảo :
 
-\- Ngày mai bà mang vải đến làng Hamuli-mun[^chang-ran-p205-1] rồi hỏi đến nhà Châymakirùm rao bán, nhất định sẽ bán được.
+\- Ngày mai bà mang vải đến làng Hamưli-mưn[^chang-ran-p205-1] rồi hỏi đến nhà Châymakirùm rao bán, nhất định sẽ bán được.
 
 Hôm sau, bà đến làng đó vào đúng nhà Châymakirùm, khi bà mở vải cho chàng xem thì chàng thấy bông hoa dệt trên vải giống hoa vợ mình ngày trước dệt quá, chàng bèn hỏi giá cả. Bà cụ trả lời :
 
@@ -2215,19 +2183,19 @@ Còn hai cô chị, vì xấu hổ với nàng út mà không bao giờ dám nh�
 
 [^chang-ran-p204-2]: Chét : Một loại giỏ đan bằng mây hoặc lạt có nắp và quai để xách. <!-- note pdf 204 -->
 
-[^chang-ran-p204-3]: Pòtằng, Pòtànà, Pòpinì : một số địa danh cũ ở vùng Thuận Hải, ngày nay gọi là : Phú Nhuận, Chất Thường, Hoài Trung. <!-- note pdf 204 -->
+[^chang-ran-p204-3]: Pòtằng, Pòtànà, Pòpìnì : một số địa danh cũ ở vùng Thuận Hải, ngày nay gọi là : Phú Nhuận, Chất Thường, Hoài Trung. <!-- note pdf 204 -->
 
 [^chang-ran-p205-1]: Hamulimun : một địa danh cũ ở vùng Thuận Hải, ngày nay gọi là Phú Nhơn. <!-- note pdf 205 -->
 
-[^chang-ran-p207-1]: Prúc : một thanh gỗ được vót nhằn thành hình con dao để riết cho các sọi chỉ khít vào nhau hơn trong khi dệt vải. <!-- note pdf 207 -->
+[^chang-ran-p207-1]: Prức : một thanh gỗ được vót nhằn thành hình con dao để riết cho các sọi chỉ khít vào nhau hơn trong khi dệt vải. <!-- note pdf 207 -->
 
 ## 26. Voi bảy ngà
 
 <!-- pdf 212-231 · heading: VOI BẢY NGÀ -->
 
-Ngày xưa, tại xứ Pandarang có cậu bé tên là Jamutui mồ côi cha mẹ từ lúc còn nhỏ. Cậu bé được người chú họ đem về nuôi. Jamutui không biết chữ nhưng rất thông minh, vẻ mặt khôi ngô tuấn tú.
+Ngày xưa, tại xứ Panđarang có cậu bé tên là Jamưtui mồ côi cha mẹ từ lúc còn nhỏ. Cậu bé được người chú họ đem về nuôi. Jamưtui không biết chữ nhưng rất thông minh, vẻ mặt khôi ngô tuấn tú.
 
-Hàng ngày Jamutui phải bế em, con của người chú họ đến ngồi chơi dưới bóng cây đại thọ ngoài thành vua. Vì vậy một số quan trong triều đều biết cậu bé, và cũng đem lòng thương yêu, vì thấy Jamutui ngoan ngoãn.
+Hàng ngày Jamưtui phải bế em, con của người chú họ đến ngồi chơi dưới bóng cây đại thọ ngoài thành vua. Vì vậy một số quan trong triều đều biết cậu bé, và cũng đem lòng thương yêu, vì thấy Jamưtui ngoan ngoãn.
 
 Một hôm, nhân lúc thanh vắng cậu ngồi mát dưới bóng cây đại thọ, hý hoáy vẽ hình một con voi bảy ngà. Nhà vua đi qua thấy hình con vật lạ, lấy làm ngạc nhiên, vì xưa nay chưa hề nhìn thấy hình con vật này bao giờ. Nhà vua dừng lại chăm chú nhìn và nghĩ : "Có lẽ người vẽ này đã nhìn thấy có con voi nào như vậy chăng? Hay là có một ẩn ý nào đây". Nghĩ vậy, nên nhà vua trẻ tuổi ấy liền trở lại triều, rồi cho triệu các quan văn võ đến nghị ban.
 
@@ -2257,11 +2225,11 @@ Nghe Jamưtui nhà vua vẫn chưa tin, bèn hỏi lại :
 
 Jamưtui y lệnh, vẽ ngay hình con voi bảy ngà với người con gái đang ngồi dệt lụa trên lưng, có con gà trống đang vỗ cánh gáy trước vòi voi. Nhà vua xem xong hình vẽ lấy làm vui mừng lắm, bèn truyền lệnh ban thưởng, và cho bãi trào.
 
-Từ khi được bức hình voi bảy ngà với cô gái ngồi dệt lụa, nhà vua tự nhiên ngày đêm mơ tưởng làm sao có được một người con gái giống hệt trong tranh, sớm tối kề bên ngai vàng nâng khăn sửa túi. Nhà vua bèn truyền lệnh cho Jamutui phải đi tìm cho được con voi bảy ngà và người con gái đẹp tựa trong tranh đó. Nhà vua giao hẹn trong vòng sáu tháng phải tìm bằng được nếu không sẽ bị xử tội khi quân.
+Từ khi được bức hình voi bảy ngà với cô gái ngồi dệt lụa, nhà vua tự nhiên ngày đêm mơ tưởng làm sao có được một người con gái giống hệt trong tranh, sớm tối kề bên ngai vàng nâng khăn sửa túi. Nhà vua bèn truyền lệnh cho Jamưtui phải đi tìm cho được con voi bảy ngà và người con gái đẹp tựa trong tranh đó. Nhà vua giao hẹn trong vòng sáu tháng phải tìm bằng được nếu không sẽ bị xử tội khi quân.
 
-Ngày hôm sau, Jamutui một mình một bóng, lưng mang túi lương khô, nhằm hướng tây mà đi.
+Ngày hôm sau, Jamưtui một mình một bóng, lưng mang túi lương khô, nhằm hướng tây mà đi.
 
-Thấm thoát một tháng đã trôi qua, nhưng Jamutui vẫn chưa hề gặp một con voi nào như vậy, mặc dù đã chui rúc vào khá nhiều khu rừng có voi lớn voi bé, voi mẹ voi con, từng đàn, từng lũ. Chàng tự trách mình sao quá dại dột lại đi vẽ hình con voi bảy ngà đó. Trong lúc đang lo nghĩ thì Jamutui bị lạc vào một làng nọ. Chàng bị một toán thanh niên vạm vỡ có đủ giáo, ná cung tên vây bắt, rồi dẫn đến một ngôi nhà dựng trên một ngọn đồi cây cối rậm rạp, ra mắt trưởng làng. Đó là một bà lão. Bà nhìn Jamưtui với vẻ hung hãn rồi nói:
+Thấm thoát một tháng đã trôi qua, nhưng Jamưtui vẫn chưa hề gặp một con voi nào như vậy, mặc dù đã chui rúc vào khá nhiều khu rừng có voi lớn voi bé, voi mẹ voi con, từng đàn, từng lũ. Chàng tự trách mình sao quá dại dột lại đi vẽ hình con voi bảy ngà đó. Trong lúc đang lo nghĩ thì Jamưtui bị lạc vào một làng nọ. Chàng bị một toán thanh niên vạm vỡ có đủ giáo, ná cung tên vây bắt, rồi dẫn đến một ngôi nhà dựng trên một ngọn đồi cây cối rậm rạp, ra mắt trưởng làng. Đó là một bà lão. Bà nhìn Jamưtui với vẻ hung hãn rồi nói:
 
 \- Mi từ đâu đến, có việc gì ? Hãy nói ngay. Nếu cái mồm mi không biết nói điều thật thì đầu sẽ lìa khỏi cổ.
 
@@ -2275,21 +2243,21 @@ Chàng Jamưtui lúc bấy giờ mới hết vã mồ hôi, thưa :
 
 Bà lão nghe Jamưtui nói vậy lấy làm thương hại. Còn cô thiếu nữ chốc chốc lại lên nhìn chàng trai khôi ngô tuấn tú. Suy nghĩ một lát, bà bảo người con gái dẫn chàng Jamưtui vào khu rừng voi của mình để xem có con nào vừa ý thì chọn.
 
-Nàng Bila Lak, tên người con gái, vâng lời mẹ dẫn đường cho chàng trai vào khu rừng voi. Đến một khu rừng rậm rạp, nàng bảo chàng Jamutui dừng lại, rồi lấy chiếc tù và ra thổi ba tiếng dài, âm thanh vang khắp núi rừng. Chẳng bao lâu đàn voi kéo đến tụ tập quanh nàng. Chàng Jamutui tìm mãi chỉ thấy có độc mỗi con có ba ngà, chứ không con nào được bảy ngà như ý chàng đang tìm. Tuy không tìm được con voi bảy ngà, nhưng lòng chàng cũng phần nào khuây khoả. Tối hôm đó chàng Jamutui được làm khách quý nhà bà lão và được nàng Bila Lak chăm sóc chu đáo.
+Nàng Bila Lak, tên người con gái, vâng lời mẹ dẫn đường cho chàng trai vào khu rừng voi. Đến một khu rừng rậm rạp, nàng bảo chàng Jamưtui dừng lại, rồi lấy chiếc tù và ra thổi ba tiếng dài, âm thanh vang khắp núi rừng. Chẳng bao lâu đàn voi kéo đến tụ tập quanh nàng. Chàng Jamưtui tìm mãi chỉ thấy có độc mỗi con có ba ngà, chứ không con nào được bảy ngà như ý chàng đang tìm. Tuy không tìm được con voi bảy ngà, nhưng lòng chàng cũng phần nào khuây khoả. Tối hôm đó chàng Jamưtui được làm khách quý nhà bà lão và được nàng Bila Lak chăm sóc chu đáo.
 
-Sáng hôm sau chàng Jamutui được nàng Bila Lak tiễn chân tận đầu làng. Trước khi chia tay, nàng Bila Lak trao cho chàng Jamutui một cây gậy và nói :
+Sáng hôm sau chàng Jamưtui được nàng Bila Lak tiễn chân tận đầu làng. Trước khi chia tay, nàng Bila Lak trao cho chàng Jamưtui một cây gậy và nói :
 
 \- Đây là cây gậy thần ông bà thiếp để lại, nó sẽ giúp chàng trong mọi cơn nguy hiểm. Cảm lòng chàng thiếp xin biếu làm quà. Nếu gặp cơn nguy chàng hãy gõ nhẹ gậy thần này xuống đất ba lần thì mọi hiểm nguy sẽ tiêu tan. Xin chúc chàng lên đường mọi sự tốt lành. Dù tìm được hay không tìm được voi bảy ngà với người thiếu nữ xinh đẹp cho vua, hết hạn chàng hãy nhớ đến em.
 
-Sau vài phút biệt ly lưu luyến chàng Jamutui nhận gậy thần, rồi từ giã nàng Bila Lak.
+Sau vài phút biệt ly lưu luyến chàng Jamưtui nhận gậy thần, rồi từ giã nàng Bila Lak.
 
-Chàng Jamutui lại nhằm hướng tây mà đi. Hết leo đèo lại lội suối, đường nhiều thú dữ chàng không hề biết sợ. Một hôm đang đi giữa quãng rừng sâu âm u, chàng gặp hai con hổ khổng lồ đang lao tới. Trong lúc bối rối chàng nhớ đến cây gậy thần. Chàng gõ nhẹ cây gậy thân xuống đất ba lần, quả nhiên hai con hổ liền quay đầu nhảy vào rừng. Chàng thầm cám ơn nàng Bila Lak và càng nhớ nàng hơn.
+Chàng Jamưtui lại nhằm hướng tây mà đi. Hết leo đèo lại lội suối, đường nhiều thú dữ chàng không hề biết sợ. Một hôm đang đi giữa quãng rừng sâu âm u, chàng gặp hai con hổ khổng lồ đang lao tới. Trong lúc bối rối chàng nhớ đến cây gậy thần. Chàng gõ nhẹ cây gậy thân xuống đất ba lần, quả nhiên hai con hổ liền quay đầu nhảy vào rừng. Chàng thầm cám ơn nàng Bila Lak và càng nhớ nàng hơn.
 
-Đang tiếp tục leo núi băng rừng thì bỗng nhiên nghe có tiếng người nói vọng lại, rồi có hơn chục chàng trai vạm vỡ xuất hiện, tay cầm mác, cầm ná. Thấy vậy Jamụtui chỉ gậy thần vào đám trai tráng đó, tự nhiên họ buông hết vũ khí. Jamụtui hỏi :
+Đang tiếp tục leo núi băng rừng thì bỗng nhiên nghe có tiếng người nói vọng lại, rồi có hơn chục chàng trai vạm vỡ xuất hiện, tay cầm mác, cầm ná. Thấy vậy Jamưtui chỉ gậy thần vào đám trai tráng đó, tự nhiên họ buông hết vũ khí. Jamưtui hỏi :
 
 \- Hỡi người anh em, vì có việc nên tôi đến đây. Các bạn có thể chỉ giúp đường đến nơi có voi bảy ngà không ?
 
-Những người này khi nghe chàng Jamụtui hỏi, đều ngạc nhiên, và lắc đầu trả lời :
+Những người này khi nghe chàng Jamưtui hỏi, đều ngạc nhiên, và lắc đầu trả lời :
 
 \- Ô, không biết. Chúng tôi mới nghe đến lần đầu. Muốn rõ xin mời chàng vào gặp già làng chúng tôi để hỏi.
 
@@ -2299,15 +2267,15 @@ Bà hỏi :
 
 \- Chàng từ đâu đến ? Chẳng hay ta có thể giúp được việc gì ?
 
-Chàng Jamụtui thưa :
+Chàng Jamưtui thưa :
 
-\- Thưa bà, tôi là Jamutuí, thừa lệnh vua truyền phải đi tìm cho được con voi bảy ngà. Ròng rã đã gần ba tháng đường nhưng vẫn chưa tìm ra được con voi ấy. Nếu không tìm được, mạng tôi khó toàn. Là người ở đây lâu năm, bà có thể chỉ đường giúp tôi tìm ra con voi như vậy chăng ?
+\- Thưa bà, tôi là Jamưtui, thừa lệnh vua truyền phải đi tìm cho được con voi bảy ngà. Ròng rã đã gần ba tháng đường nhưng vẫn chưa tìm ra được con voi ấy. Nếu không tìm được, mạng tôi khó toàn. Là người ở đây lâu năm, bà có thể chỉ đường giúp tôi tìm ra con voi như vậy chăng ?
 
-Nghe chàng Jamutui nói vậy bà già lấy làm cảm động, bèn bảo chàng ngồi xuống rồi cho gọi người con gái đến mà rằng :
+Nghe chàng Jamưtui nói vậy bà già lấy làm cảm động, bèn bảo chàng ngồi xuống rồi cho gọi người con gái đến mà rằng :
 
 \- Này Hala Mưh con, chàng trai này theo lệnh nhà vua đi tìm voi bảy ngà. Con hãy dẫn chàng đến khu rừng voi của ta để chàng xem. Nếu con nào bảy ngà thì bắt cho chàng. Sẵn lòng hào hiệp giúp người vốn là tính tốt xưa nay của làng ta.
 
-Nàng Hala Mưh vâng lời mẹ, dẫn chàng Jamutui vào khu rừng voi. Khi đến khu rừng, nàng lấy tù và ra thổi mấy hồi, lập tức cả đàn voi, nào đực nào cái rầm rập chạy tới, tiếng trống vang rền. Nàng Hala Mưh lấy xâu lúc lắc trong túi ra rung ba tiếng dài. Đàn voi hung hăng là thế, nhưng khi nghe tiếng lúc lắc thì đứng im, cúi đầu trống vòi xuống đất. Chàng Jamutui đi quanh bầy voi hết lượt nhưng không tìm thấy con nào có bảy ngà. Chàng hơi nản lòng, tỏ vẻ buồn bã. Nàng Hala Mưh thấy vậy an ủi :
+Nàng Hala Mưh vâng lời mẹ, dẫn chàng Jamưtui vào khu rừng voi. Khi đến khu rừng, nàng lấy tù và ra thổi mấy hồi, lập tức cả đàn voi, nào đực nào cái rầm rập chạy tới, tiếng trống vang rền. Nàng Hala Mưh lấy xâu lúc lắc trong túi ra rung ba tiếng dài. Đàn voi hung hăng là thế, nhưng khi nghe tiếng lúc lắc thì đứng im, cúi đầu trống vòi xuống đất. Chàng Jamưtui đi quanh bầy voi hết lượt nhưng không tìm thấy con nào có bảy ngà. Chàng hơi nản lòng, tỏ vẻ buồn bã. Nàng Hala Mưh thấy vậy an ủi :
 
 \- Chớ vội buồn, chàng Jamưtui ạ, ở đây không có, thiếp sẽ thưa cùng mẹ giúp chàng đến vùng khác, chắc chàng sẽ tìm được voi bảy ngà. Nhưng khi đã tìm được voi quý, xin chàng hãy nhớ đến em
 
@@ -2323,7 +2291,7 @@ Chàng Jamưtui nhận roi mây, cúi đầu cảm ơn rồi xin từ giã.
 
 Vào một buổi chiều, sương phủ kín bầu trời, mặt đất, chàng vừa leo khỏi một ngọn đồi thì gặp mấy người lực lưỡng đang đi ngược về phía chàng.
 
-Jamutui lên tiếng hỏi :
+Jamưtui lên tiếng hỏi :
 
 \- Chào các bạn ! Tôi vâng lệnh vua đi tìm con voi có bảy ngà đã mấy tháng trời vẫn chưa thấy đâu cả. Các bạn có thể mách đường giúp tôi được chăng ?
 
@@ -2331,7 +2299,7 @@ Một chàng trai trong toán người đứng dậy nói:
 
 \- Hãy theo chúng tôi về làng gặp người già để hỏi mới biết được.
 
-Toán người dẫn Jamutui vào một ngôi nhà sàn. Bà lão chủ nhà thấy có khách chạy ra đón:
+Toán người dẫn Jamưtui vào một ngôi nhà sàn. Bà lão chủ nhà thấy có khách chạy ra đón:
 
 \- Ô, khách đã đến chân cầu thang thì lên nhà đi.
 
@@ -2351,35 +2319,35 @@ Sáng hôm sau cuộc hành trình lại tiếp tục.
 
 Con voi bảy ngà thuộc loại voi quý, có tài đi rất nhanh, vì vậy cuộc hành trình của ba người chỉ một buổi đường đã đến làng mẹ con nàng Bila Lak. Bà tiên gọi cô con gái cưng đến, ngỏ ý với chàng Jamưtui và hai nàng, cho Bila Lak cùng được theo. Mọi người đều vui vẻ mời Bila Lak.
 
-Nhờ tài đi nhanh của con voi bảy ngà, chẳng mấy chốc đoàn người đã về nơi kinh thành. Chàng Jamutui cho voi bảy ngà dừng lại, dựng tạm trại cách thành vài dặm.
+Nhờ tài đi nhanh của con voi bảy ngà, chẳng mấy chốc đoàn người đã về nơi kinh thành. Chàng Jamưtui cho voi bảy ngà dừng lại, dựng tạm trại cách thành vài dặm.
 
-Sau khi nghỉ ngơi vài hôm, chàng Jamutui cùng ba nàng nhằm ngày hẹn xin ra mắt nhà vua.
+Sau khi nghỉ ngơi vài hôm, chàng Jamưtui cùng ba nàng nhằm ngày hẹn xin ra mắt nhà vua.
 
-Được toại nguyện, nhà vua cho tổ chức yến tiệc linh đình. Trong bữa tiệc được thấy nhân sắc tuyệt vời của ba nàng, nhà vua nổi lòng tham muốn chiếm đoạt. Hắn bèn nghĩ ra độc kế hãm hại chàng Jamutui.
+Được toại nguyện, nhà vua cho tổ chức yến tiệc linh đình. Trong bữa tiệc được thấy nhân sắc tuyệt vời của ba nàng, nhà vua nổi lòng tham muốn chiếm đoạt. Hắn bèn nghĩ ra độc kế hãm hại chàng Jamưtui.
 
-Hôm sau hắn ra lệnh cho triệu hồi Jamutui vào triều bắt chàng nội trong ba ngày phải đi tìm cho nhà vua một chum sữa gấu ngựa. Khi nghe lệnh, Jamutui rất lấy làm lo sợ. Ba nàng trông thấy mặt chàng tự nhiên có vẻ tiều tuy liền gặng hỏi. Chàng kể lại sự tình. Ba nàng nghe chuyện biết đó là âm mưu thâm độc của tên vua, rất lấy làm uất giận, nhưng không nói ra. Nàng Chareh Batih nói với chàng :
+Hôm sau hắn ra lệnh cho triệu hồi Jamưtui vào triều bắt chàng nội trong ba ngày phải đi tìm cho nhà vua một chum sữa gấu ngựa. Khi nghe lệnh, Jamưtui rất lấy làm lo sợ. Ba nàng trông thấy mặt chàng tự nhiên có vẻ tiều tuy liền gặng hỏi. Chàng kể lại sự tình. Ba nàng nghe chuyện biết đó là âm mưu thâm độc của tên vua, rất lấy làm uất giận, nhưng không nói ra. Nàng Chareh Batih nói với chàng :
 
 \- Chàng hãy yên tâm tưởng chuyện gì chứ việc vắt sữa gấu ngựa chàng không lo, thiếp xin thay chàng chu tất.
 
-Quả đúng ba ngày sau nàng Chareh Batih mang đến cho chàng một chum sữa gấu. Jamụtui hết lời cảm phục và biết ơn nàng đã giúp mình.
+Quả đúng ba ngày sau nàng Chareh Batih mang đến cho chàng một chum sữa gấu. Jamưtui hết lời cảm phục và biết ơn nàng đã giúp mình.
 
-Nói về nàng Chareh Batih, sau hôm nhận lời giúp chàng Jamụtui, nàng một mình đi vào rừng để tìm con gấu ngựa đang nuôi con nhỏ để vắt sữa. Nhờ có chiếc nhẫn thần có quyền sai khiến bất cứ loài vật nào dù dữ tợn đến mấy, nên nàng vắt sữa đem về được an toàn.
+Nói về nàng Chareh Batih, sau hôm nhận lời giúp chàng Jamưtui, nàng một mình đi vào rừng để tìm con gấu ngựa đang nuôi con nhỏ để vắt sữa. Nhờ có chiếc nhẫn thần có quyền sai khiến bất cứ loài vật nào dù dữ tợn đến mấy, nên nàng vắt sữa đem về được an toàn.
 
-Cách vài hôm sau, chàng Jamụtui lại thấy quần thần đến đòi vào triều. Lần này tên vua lại bắt chàng đi vắt sữa cọp, và cũng hẹn nội trong ba ngày phải mang đến nộp một chum sữa.
+Cách vài hôm sau, chàng Jamưtui lại thấy quần thần đến đòi vào triều. Lần này tên vua lại bắt chàng đi vắt sữa cọp, và cũng hẹn nội trong ba ngày phải mang đến nộp một chum sữa.
 
-Nghe lệnh, chàng Jamụtui lại lo âu. Thấy chàng có vẻ buồn phiền ba nàng lại hỏi. Chàng Jamụtui nói lại lệnh nhà vua. Lần này Bila Lak xin được giúp chàng.
+Nghe lệnh, chàng Jamưtui lại lo âu. Thấy chàng có vẻ buồn phiền ba nàng lại hỏi. Chàng Jamưtui nói lại lệnh nhà vua. Lần này Bila Lak xin được giúp chàng.
 
 Đúng ngày hẹn nàng Bila Lak vào rừng dùng cây gậy thần sai khiến thú vật, bắt cọp ngoan ngoãn cho mình vắt sữa.
 
-Nhà vua khi nhận được sữa cọp từ tay chàng Jamụtui thì lấy làm kinh hoàng lắm, bèn tức tốc cho triệu các quan văn võ đến nghị bàn, tìm cách sớm diệt cho được Jamụtui để chiếm đoạt ba người con gái xinh đẹp. Có một vị quan già tâu :
+Nhà vua khi nhận được sữa cọp từ tay chàng Jamưtui thì lấy làm kinh hoàng lắm, bèn tức tốc cho triệu các quan văn võ đến nghị bàn, tìm cách sớm diệt cho được Jamưtui để chiếm đoạt ba người con gái xinh đẹp. Có một vị quan già tâu :
 
-\- Muôn tâu bệ hạ, kẻ hạ thần xin đưa ra một dụ kế, dù Jamutui có tài phép đến đâu chẳng nữa cũng không thoát khỏi tay tử thần. Thần nghĩ, Jamutui chỉ cho phép điều khiển được thú dữ trên rừng mà không thể điều khiển được thú dữ dưới nước. Vậy xin bệ hạ truyền cho y xuống sông tìm vắt sữa cá sấu. Cá sấu sẽ kết liễu đời y. Lúc bấy giờ bệ hạ tha hồ vui duyên cùng ba nàng, xin bệ hạ chớ quá lo nghĩ mà hao mòn long thể.
+\- Muôn tâu bệ hạ, kẻ hạ thần xin đưa ra một dụ kế, dù Jamưtui có tài phép đến đâu chẳng nữa cũng không thoát khỏi tay tử thần. Thần nghĩ, Jamưtui chỉ cho phép điều khiển được thú dữ trên rừng mà không thể điều khiển được thú dữ dưới nước. Vậy xin bệ hạ truyền cho y xuống sông tìm vắt sữa cá sấu. Cá sấu sẽ kết liễu đời y. Lúc bấy giờ bệ hạ tha hồ vui duyên cùng ba nàng, xin bệ hạ chớ quá lo nghĩ mà hao mòn long thể.
 
-Vua nghe tâu thì lòng mừng khôn xiết, cho đó là một diệu kế. Ngay tức khắc, tên vua liền cho gọi Jamutui vào triều.
+Vua nghe tâu thì lòng mừng khôn xiết, cho đó là một diệu kế. Ngay tức khắc, tên vua liền cho gọi Jamưtui vào triều.
 
-Nhận lệnh mới này, Jamutui lấy làm lo sợ, chàng tự trách mình : "sao số kiếp ta lại gặp nhiều gian truân nguy biến..."
+Nhận lệnh mới này, Jamưtui lấy làm lo sợ, chàng tự trách mình : "sao số kiếp ta lại gặp nhiều gian truân nguy biến..."
 
-Trong lúc chàng đang than thở một mình thì nàng Hala Mưh đi ngang qua. Nghe tiếng chàng than thở nàng bèn dừng chân lại gặng hỏi chàng. Chàng Jamutui thuật lại chuyện. Nàng Hala Mưh an ủi :
+Trong lúc chàng đang than thở một mình thì nàng Hala Mưh đi ngang qua. Nghe tiếng chàng than thở nàng bèn dừng chân lại gặng hỏi chàng. Chàng Jamưtui thuật lại chuyện. Nàng Hala Mưh an ủi :
 
 \- Tưởng việc gì khó, chứ việc côn con đó thì chàng cứ an tâm thiếp xin lĩnh việc giúp chàng.
 
@@ -2391,15 +2359,15 @@ Khi quân hầu mang chum sữa vào, thì tên vua lấy làm ngạc nhiên l�
 
 Vua nghe tâu liền cho thi hành ngay quỷ kế.
 
-Đường hạ đạo vừa làm xong thì, nhà vua cho triệu Jamutui đến, cùng với cả ba người con gái đẹp, lấy cớ là mở tiệc khao đãi. Đang dở bữa tiệc, tên vua đứng lên phán :
+Đường hạ đạo vừa làm xong thì nhà vua cho triệu Jamưtui đến, cùng với cả ba người con gái đẹp, lấy cớ là mở tiệc khao đãi. Đang dở bữa tiệc, tên vua đứng lên phán :
 
-\- Hôm nay trẫm lại nhờ chàng Jamutui một việc rất quan trọng. Vì ngoài chàng ra thì trẫm thấy không ai đủ tài năng đảm trách. Chàng hãy chuyển hộ bức thư này cho Diêm vương.
+\- Hôm nay trẫm lại nhờ chàng Jamưtui một việc rất quan trọng. Vì ngoài chàng ra thì trẫm thấy không ai đủ tài năng đảm trách. Chàng hãy chuyển hộ bức thư này cho Diêm vương.
 
-Nghe việc lạ chàng Jamutui buồn lắm. Trên đường về ba nàng lại hết lời an ủi chàng, và bàn cách để trừ tên vua độc ác.
+Nghe việc lạ chàng Jamưtui buồn lắm. Trên đường về ba nàng lại hết lời an ủi chàng, và bàn cách để trừ tên vua độc ác.
 
-Chàng Jamutui khi bước chân xuống địa đạo, liền chạy nhanh đến con đường ngách mà ba nàng đã dùng phép để mở, trở về nhà.
+Chàng Jamưtui khi bước chân xuống địa đạo, liền chạy nhanh đến con đường ngách mà ba nàng đã dùng phép để mở, trở về nhà.
 
-Nói về tên bạo chúa, khi quân đến báo là chàng Jamutui đã xuống địa đạo, liền ra lệnh nổi lửa đốt rơm hai đầu. Và lập tức hắn cho triệu ngay ba nàng vào triều. Trong lúc nhà vua đang mê say nhan sắc của ba người con gái kiều diễm, thì có quân hầu vào phi báo rằng chàng Jamutui đã trở về, và đang đứng ngoài thành xin được ra mắt nhà vua. Nghe tin báo, tên bạo chúa lấy làm hoảng sợ, ngất đi. Một hồi lâu tên vua mới hồi tỉnh, rồi truyền cho đòi chàng vào. Chàng Jamutui vào triều tỏ ra như không có gì xảy ra, bước ngay đến trước mặt nhà vua nói :
+Nói về tên bạo chúa, khi quân đến báo là chàng Jamưtui đã xuống địa đạo, liền ra lệnh nổi lửa đốt rơm hai đầu. Và lập tức hắn cho triệu ngay ba nàng vào triều. Trong lúc nhà vua đang mê say nhan sắc của ba người con gái kiều diễm, thì có quân hầu vào phi báo rằng chàng Jamưtui đã trở về, và đang đứng ngoài thành xin được ra mắt nhà vua. Nghe tin báo, tên bạo chúa lấy làm hoảng sợ, ngất đi. Một hồi lâu tên vua mới hồi tỉnh, rồi truyền cho đòi chàng vào. Chàng Jamưtui vào triều tỏ ra như không có gì xảy ra, bước ngay đến trước mặt nhà vua nói :
 
 \- Tâu bệ hạ, khi hạ thần xuống âm phủ được các ngưu đầu mã điện đưa vào yết kiến Diêm vương. Kẻ hạ thần đã trao thư bệ hạ cho Diêm vương. Đọc xong thư, Diêm vương truyền cho kẻ hạ thần về tâu lại với bệ hạ rằng : thuốc trường sinh bất tử hiện đang được pha chế chứ chưa có sẵn, khi nào pha chế xong thì Diêm vương sẽ gửi lên. Trước khi kẻ hạ thần xin cáo lui để trở về trần gian, thì gặp một bà lão. Bà dặn thần rằng : Bà là mẫu hậu của hoàng đế đương kim tại dương trần, tên là Takala. Từ khi cụ về âm phủ tới nay, có nhiều lúc cụ nhớ đến hoàng tử, nhưng đường trần gian, âm ti cách biệt. Nay nghe kẻ hạ thần là sứ giả của triều đình trên dương thế, nên cụ nhờ kẻ hạ thần về trao bức thư này đến tận tay bệ hạ. Cụ bà còn căn dặn thêm với kẻ hạ thần là, nhớ tâu lại với bệ hạ hãy xuống thăm cụ càng sớm càng tốt. Cứ theo đường địa đạo mà kẻ hạ thần vừa đi, cụ bà đang đón chờ ở đó. Nếu theo đường khác e lạc khó tìm.
 
@@ -2457,7 +2425,7 @@ Suốt đêm hôm ấy cả Ma Talah và Ja Lihik trằn trọc không ngủ, t�
 
 Khi tiếng con gà rừng vừa gọi sáng, hà niêu đã thức giấc. Nó nhẹ nhàng chui ra miệng hang rồi phóng nhanh vào rừng sâu.
 
-Chờ cho hà niêu đi khỏi, hai người cùng chui ngay ra khỏi hang, lấy củi chất lấp cửa hang lại, nổi lửa đốt. Thấy lửa bén đã kỹ, họ dắt nhau chạy xuống núi, nhằm hướng đông tìm đường chạy thoát. Hai người lặn lội đi được một lúc thì đến một thung lũng có một con sông rộng, nước chảy mạnh như thác đổ. Trong lúc hai người đương loay hoay bối rối tìm cách qua sông thì có một con thỏ ở trong bụi cạnh đấy chui ra, hỏi :
+Chờ cho hà niêu đi khỏi, hai người cũng chui ngay ra khỏi hang, lấy củi chất lấp cửa hang lại, nổi lửa đốt. Thấy lửa bén đã kỹ, họ dắt nhau chạy xuống núi, nhằm hướng đông tìm đường chạy thoát. Hai người lặn lội đi được một lúc thì đến một thung lũng có một con sông rộng, nước chảy mạnh như thác đổ. Trong lúc hai người đương loay hoay bối rối tìm cách qua sông thì có một con thỏ ở trong bụi cạnh đấy chui ra, hỏi :
 
 \- Chào hai bác, hai bác định đi đâu đấy ? Muốn qua con sông này chăng ? Hình như hai bác đang có chuyện không lành ? Tôi có thể giúp hai bác được gì chăng ?
 
@@ -2525,7 +2493,7 @@ Người con gái nọ lễ phép đáp :
 
 Thầy tu cải trang tỏ vẻ ngạc nhiên, rồi nói to với cô ta, cố ý để cho mọi người đội nước đều nghe tiếng :
 
-\- Tại sao lại phải hoà táng, mà không cứu cho công chúa sống lại ? Bên xứ tôi nếu người lương thiện bị chết thì đều được cứu sống lại. Tôi là Paseh đã từng cải tử hoàn sinh cho nhiều người.
+\- Tại sao lại phải hoả táng, mà không cứu cho công chúa sống lại ? Bên xứ tôi nếu người lương thiện bị chết thì đều được cứu sống lại. Tôi là Paseh đã từng cải tử hoàn sinh cho nhiều người.
 
 Cả đám đội nước nghe thầy tu nói vậy liền hối hả về triều báo ngay cho nhà vua biết chuyện lạ. Nhà vua nghe báo thì nửa tin nửa ngờ, bèn sai quân gia đến mời người tự xưng là thầy Paseh vào triều.
 
@@ -2543,34 +2511,19 @@ Sau đó ít lâu, một hôm công chúa vào tâu cùng mẫu hậu và vua ch
 
 Nhà vua nghe con tâu trình liền cho đòi phò mã vào hỏi xem sự thể có điều gì uẩn khúc ? Nhà vua hỏi :
 
-\- Này phó mã, chẳng hay con có việc gì buồn?  
-Sao không cho trẫm biết ?
+\- Này phó mã, chẳng hay con có việc gì buồn? Sao không cho trẫm biết ?
 
-Nàng Ma Talah đang cải trang làm phò mã,  
-ghe hỏi bèn tâu :
+Nàng Ma Talah đang cải trang làm phò mã, nghe hỏi bèn tâu :
 
-\- Muôn tâu thánh thượng, sở dĩ kẻ hạ thần  
-buồn lo vì một chuyện riêng, người anh của kẻ  
-hạ thần bị lạc đã gần một năm, kẻ hạ thần  
-có đi tìm nhưng chưa gặp. Nay đang trên đường  
-di tìm thì được bệ hạ đòi đến cứu công nương.  
-Vì kẻ hạ thần chưa gặp được anh nên chưa có  
-thể ngồi hưởng vui thú một mình.
+\- Muôn tâu thánh thượng, sở dĩ kẻ hạ thần buồn lo vì một chuyện riêng, người anh của kẻ hạ thần bị lạc đã gần một năm, kẻ hạ thần có đi tìm nhưng chưa gặp. Nay đang trên đường đi tìm thì được bệ hạ đòi đến cứu công nương. Vì kẻ hạ thần chưa gặp được anh nên chưa có thể ngồi hưởng vui thú một mình.
 
-Nhà vua nghe tâu trình khen chàng sống  
-có tình nghĩa, rồi truyền :
+Nhà vua nghe tâu trình khen chàng sống có tình nghĩa, rồi truyền :
 
-\- Trẫm sẽ giúp con tìm anh trai, con cứ an  
-tâm.
+\- Trẫm sẽ giúp con tìm anh trai, con cứ an tâm.
 
-Đoạn nhà vua truyền cho mở hội mừng thọ,  
-loan truyền mọi người phải đến dự. Từ khắp  
-mọi nơi công chúng kéo đến rất đông.
+Đoạn nhà vua truyền cho mở hội mừng thọ, loan truyền mọi người phải đến dự. Từ khắp mọi nơi công chúng kéo đến rất đông.
 
-Suốt hơn chục ngày mở hội, nàng Ma Talah  
-vẫn chưa thấy người yêu tới. Đang sắp tuyệt  
-vọng thì bỗng nàng nhìn thấy từ xa có một người  
-giống chàng Ja Lihik đi lại.
+Suốt hơn chục ngày mở hội, nàng Ma Talah vẫn chưa thấy người yêu tới. Đang sắp tuyệt vọng thì bỗng nàng nhìn thấy từ xa có một người giống chàng Ja Lihik đi lại.
 
 Nàng Ma Talah liền nói với nhà vua cho mời người con trai nọ đến.
 
@@ -2584,7 +2537,7 @@ Nghe vua truyền lệnh xong, bách quan văn võ đều mừng vui tung hô v�
 
 [^gay-dau-sinh-dau-tu-p240-1]: Trang phục của những vị thầy tu (paseh) người Chăm theo đạo Balamôn. <!-- note pdf 240 -->
 
-## 28. Kén rế
+## 28. Kén rể
 
 <!-- pdf 248-251 · heading: KÉN RỂ -->
 
@@ -2702,9 +2655,7 @@ Một hôm hai cô chị đi lấy củi, rủ cả cô út đi theo. Vào tới
 
 Người em gái bị trói trong rừng chẳng còn biết làm thế nào mà về được, trời thì tối dần. Tủi thân cô ngẩng lên trời than thở một mình:
 
-\- Tôi đàn bà con gái, quần vận yếm mang,  
-nào có làm hại được ai, thế mà hai chị lại nỡ  
-dem trói tôi lại giữa rừng ?
+\- Tôi đàn bà con gái, quần vận yếm mang, nào có làm hại được ai, thế mà hai chị lại nỡ đem trói tôi lại giữa rừng ?
 
 Lời than của cô động tới trời. Ngọc hoàng bèn sai tiên hổ xuống cứu. Khi tiên hổ vừa tới trước mặt, cô gái nhìn thấy sợ quá, than khóc và nhắm mắt chờ chết. Tiên hổ lao đến cắn đứt dây trói, rồi cõng cô út đến một vũng nước trong rừng sâu. Cô út tỉnh dậy, thấy nước trong mát bèn vục xuống. Uống xong, tiên hổ lại công cô đến một ngôi chùa tiên trên núi để cô ở đó, rồi biến theo mây gió lên trời. Cô út ở đó mấy ngày tự nhiên trở nên đẹp đẽ khác thường, da trắng như trứng gà bóc, mắt sáng long lanh, đôi má ửng hồng và tóc dài quá gót.
 
@@ -2772,13 +2723,13 @@ Thế là hết đời vợ chồng kẻ tham lam.
 
 <!-- pdf 267-273 · heading: KATHĀR ĂN PHÂN CHÓ -->
 
-Xưa có một tên thầy lễ Kathār[^kathar-an-phan-cho-p267-1] rất háu ăn. Hắn đi cúng cho ai, dù xa xôi cách trở đến mấy cũng tìm cách đòi của đem về. Mọi người ở vùng đó đều không ưa hắn. Có những người đã tìm cách để trị tính tham ăn của hắn. Nhưng hắn vẫn chứng nào tật ấy.
+Xưa có một tên thầy lễ Kathăr[^kathar-an-phan-cho-p267-1] rất háu ăn. Hắn đi cúng cho ai, dù xa xôi cách trở đến mấy cũng tìm cách đòi của đem về. Mọi người ở vùng đó đều không ưa hắn. Có những người đã tìm cách để trị tính tham ăn của hắn. Nhưng hắn vẫn chứng nào tật ấy.
 
-Một hôm, có một chàng trai tên là Ja Plằng Mư đến nhà thầy lễ Kathār xin làm đứa ở chăn ngựa, không lấy tiền công. Thầy lễ Kathār nghe vậy thì bằng lòng nhận lời ngay.
+Một hôm, có một chàng trai tên là Ja Plằng Mư đến nhà thầy lễ Kathăr xin làm đứa ở chăn ngựa, không lấy tiền công. Thầy lễ Kathăr nghe vậy thì bằng lòng nhận lời ngay.
 
-Bữa nọ tên Kathār được mời đi cúng ở một làng xa, nên phải đi bằng ngựa, và bảo Ja Plằng Mư theo hầu.
+Bữa nọ tên Kathăr được mời đi cúng ở một làng xa, nên phải đi bằng ngựa, và bảo Ja Plằng Mư theo hầu.
 
-Trước lúc lên đường tên Kathār dặn Ja Plằng Mư rằng nếu thấy vật gì của hắn rớt dọc đường thì phải nhặt cho hắn, nhất thiết không được bỏ sót hoặc tự ý lấy.
+Trước lúc lên đường tên Kathăr dặn Ja Plằng Mư rằng nếu thấy vật gì của hắn rớt dọc đường thì phải nhặt cho hắn, nhất thiết không được bỏ sót hoặc tự ý lấy.
 
 Ja Plằng Mư gật đầu vâng lời. Đang đi, bỗng Ja Plằng Mư thấy chiếc khăn điều của tên thầy lễ đánh rơi, và rải rác những phân ngựa. Ja Plằng Mư liền nhặt hết phân ngựa bỏ vào trong chiếc khăn điều, rồi túm lại cẩn thận.
 
@@ -2838,17 +2789,15 @@ Tên thầy lễ Kathăr bị phạt vạ ba chục quan tiền lại còn bị 
 
 Tên thầy lễ vừa xấu hổ, vừa bực tức Ja Plằng Mư. Hắn định bắt cậu ta để hành tội, nhưng Ja Plằng Mư đã biến mất từ lúc cả chủ lẫn khách đang nôn thốc nôn tháo vì bữa tiệc lạ nọ.
 
-[^kathar-an-phan-cho-p267-1]: Kathār : tên chung chỉ một loại thầy lễ của dân tộc Chăm. <!-- note pdf 267 -->
+[^kathar-an-phan-cho-p267-1]: Kathăr : tên chung chỉ một loại thầy lễ của dân tộc Chăm. <!-- note pdf 267 -->
 
 [^kathar-an-phan-cho-p270-1]: Một loại bánh như bánh chè lam ngoài Bắc, làm bằng bột gạo rang trộn mật. <!-- note pdf 270 -->
 
-## 33. Hoàng tử TêWa MừNô
+## 33. Hoàng tử TềWa MừNô
 
-<!-- pdf 274-315 · heading: HOÀNG TỬ TÈWA MÙNÔ -->
+<!-- pdf 274-315 · heading: HOÀNG TỬ TỀWA MÙNÔ -->
 
-⚠ ai-missed? I gàc sai xuống để cai tri xử Xn thma.
-
-Hoàng đế Cuma Rachà là con của thượng đế sai xuống để cai trị xứ Xri Inra. ⚠
+Hoàng đế Cuma Rachà là con của thượng đế sai xuống để cai trị xứ Xri Inra.
 
 Xri Inra là một cường quốc có đến trăm nước chư hầu.
 
@@ -2882,9 +2831,9 @@ Nghe nhà chiêm tinh tâu bày, đức vua nghĩ, nay tuổi mình cũng đã c
 
 Nghe đức vua chối chẳng, hoàng hậu cùng các cung phi mỹ nữ, các quan văn võ đại triều, đều thương tiếc, khóc than.
 
-Nhằm ngày thứ sáu cuối năm ấy, vào một sáng đẹp trời, hoàng hậu hạ sinh một hoàng nam. Nghe tin, triều đình cùng bá quan văn võ trăm nước chư hầu tổ chức ăn mừng trong vòng một tháng. Ba mươi ngày sau, hoàng hậu cùng các quan tổ chức lễ đặt tên cho hoàng nam là Têwa Mùnô.
+Nhằm ngày thứ sáu cuối năm ấy, vào một sáng đẹp trời, hoàng hậu hạ sinh một hoàng nam. Nghe tin, triều đình cùng bá quan văn võ trăm nước chư hầu tổ chức ăn mừng trong vòng một tháng. Ba mươi ngày sau, hoàng hậu cùng các quan tổ chức lễ đặt tên cho hoàng nam là Tềwa Mừnô.
 
-Cùng lúc, quan đại thần Plnà Ra cũng vừa sinh một con trai khôi ngô tuấn tú, là Ungcăl. Khi hai người lớn lên viên quan xin hoàng hậu cho Ungcăl được kết thân cùng hoàng tử Tềwa Mừnô. Tềwa Mừnô và Ungcăl trở thành đôi bạn tâm giao.
+Cùng lúc, quan đại thần Plnà Ra cũng vừa sinh một con trai khôi ngô tuấn tú, là Ưngcăl. Khi hai người lớn lên viên quan xin hoàng hậu cho Ưngcăl được kết thân cùng hoàng tử Tềwa Mừnô. Tềwa Mừnô và Ưngcăl trở thành đôi bạn tâm giao.
 
 Một hôm, hoàng tử Tềwa Mừnô hỏi mẹ :
 
@@ -2904,29 +2853,29 @@ Hoàng hậu nghe con tâu trình thì vô cùng đau đớn, nhưng biết khô
 
 Việc bỏ ngai vàng ra đi của hoàng tử Tềwa Mừnô làm chấn động khắp xứ.
 
-Hoàng tử Tềwa Mừnô cùng Ungcăl cưỡi con ngựa bạch mã rong ruổi trên nẻo đường vạn lý xa xăm. Lúc khởi hành, có một số tuỳ tùng cùng binh gia, vệ sĩ theo hầu. Nhưng vì đường xa vạn dặm, phần thì đói khát, nên chẳng bao lâu các tuỳ tùng kẻ thì bị chết đói, người đuối sức mà quay gót trở về. Hoàng hậu cùng bá quan khi nghe đoàn binh gia tâu lại sự khổ ải trên đường đi thì thương xót bội phần, chỉ biết cầu trời, khấn phật phù hộ cho hoàng tử và Ungcăl được an toàn.
+Hoàng tử Tềwa Mừnô cùng Ưngcăl cưỡi con ngựa bạch mã rong ruổi trên nẻo đường vạn lý xa xăm. Lúc khởi hành, có một số tuỳ tùng cùng binh gia, vệ sĩ theo hầu. Nhưng vì đường xa vạn dặm, phần thì đói khát, nên chẳng bao lâu các tuỳ tùng kẻ thì bị chết đói, người đuối sức mà quay gót trở về. Hoàng hậu cùng bá quan khi nghe đoàn binh gia tâu lại sự khổ ải trên đường đi thì thương xót bội phần, chỉ biết cầu trời, khấn phật phù hộ cho hoàng tử và Ưngcăl được an toàn.
 
-Đây nói về Ilăng Xăng Kata, kinh đô một quốc gia giàu mạnh. Hoàng đế Lua In Xana và hoàng hậu Xoarố Gầngà có nhiều phép thần kỳ diệu. Hoàng tử Richa Samulélé và Ari Cấy Caphoa Ri, cùng công chúa út Xa Patăn Đivi ngự trên lầu thượng uyển. Hoàng tử Richà Samulé có nhiều phép cao tài lạ, biến hoá nên một đôi rồng đỏ ẩn hiện quanh lầu. Còn Richà Ari Cấy Caploa Ri có tài biến hoá nên dao thần kiếm phép vung chém trước cửa lầu. Dưới trướng của công chúa Xa Patăn Đi vi có sáu mỹ nữ kề cận sớm hôm. Khắp mọi nơi đều sùng kính về nhan sắc chim sa cá lặn của công chúa Richà Do Kara Vănnà là em trai của hoàng hậu, cậu ruột của Samulé, được giao quyền điều khiển cả đoàn quân sư tử.
+Đây nói về Ilăng Xăng Kata, kinh đô một quốc gia giàu mạnh. Hoàng đế Lua In Xana và hoàng hậu Xoarô Găngà có nhiều phép thần kỳ diệu. Hoàng tử Richa Samưlé và Ari Cấy Caphoa Ri, cùng công chúa út Xa Patăn Đivi ngự trên lầu thượng uyển. Hoàng tử Richa Samưlé có nhiều phép cao tài lạ, biến hoá nên một đôi rồng đỏ ẩn hiện quanh lầu. Còn Richa Ari Cấy Caploa Ri có tài biến hoá nên dao thần kiếm phép vung chém trước cửa lầu. Dưới trướng của công chúa Xa Patăn Đivi có sáu mỹ nữ kề cận sớm hôm. Khắp mọi nơi đều sùng kính về nhan sắc chim sa cá lặn của công chúa Richa. Do Kara Vănna là em trai của hoàng hậu, cậu ruột của Samưlé, được giao quyền điều khiển cả đoàn quân sư tử.
 
-Trên khắp mọi néo đường ra vào kinh thành đều có một đôi sư tử trấn giữ dưới quyền của võ tướng Giồ Ginùng, có sức mạnh vô địch.
+Trên khắp mọi néo đường ra vào kinh thành đều có một đôi sư tử trấn giữ dưới quyền của võ tướng Giồ Gìnùng, có sức mạnh vô địch.
 
-Rồi một hôm tại triều nội Ilăng Xăng Kata làm lễ tôn vương cho hoàng tử Richà Samulé lên ngôi kế vị đại đế Lua In Xana.
+Rồi một hôm tại triều nội Ilăng Xăng Kata làm lễ tôn vương cho hoàng tử Richa Samưlé lên ngôi kế vị đại đế Lua In Xana.
 
-Một lân bang khác, tên là Lãng Tarà, có nàng công chúa Rătna nhan sắc tuyệt với, con của vua Lãng Tarà và hoàng hậu Xoarô Găngà ; có anh cả là hoàng tử Richà Đêva, và người anh thứ là Richà Laxana. Các nước chư hầu đều ban cho nàng Rătna cái tên gọi : Tiên Nga.
+Một lân bang khác, tên là Lãng Tarà, có nàng công chúa Rătna nhan sắc tuyệt với, con của vua Lãng Tarà và hoàng hậu Xoarô Găngà ; có anh cả là hoàng tử Richa Đêva, và người anh thứ là Richa Laxana. Các nước chư hầu đều ban cho nàng Rătna cái tên gọi : Tiên Nga.
 
 Đức vua dựng riêng cho nàng công chúa một ngôi nhà giữa một khu đất rộng rất đẹp, có thành công kiên cố. Phong cảnh thật nên thơ, có hồ nước xanh trong soi bóng mây chiều ; có vườn hoa, bốn cảnh, khác nào chốn Thiên thai.
 
-Tiếng đồn về nàng tháu đến tai Richà Samưlé. Nhà vua thân chinh đến cầu hôn, nhưng vua Lãng Tarà không thuận tình.
+Tiếng đồn về nàng thâu đến tai Richa Samưlé. Nhà vua thân chinh đến cầu hôn, nhưng vua Lãng Tarà không thuận tình.
 
 Cùng lúc, nhà vua xứ Điđinh Didăn, ở ngoài đảo Thumút, là Intăn cũng đến xin cầu hôn, với vô số bạc vàng, châu báu làm đồ lễ.
 
-Được tin vua Intăn và công chúa Rătna làm lễ thành hôn, vua Richà Samưlé lấy làm căm tức, vì đã đến cầu hôn trước nhưng không được. Vì vậy vua Richà Samưlé dùng phép thần thông hoá nàng công chúa Rătna thành con voi trắng, chạy trốn vào rừng sâu, nhằm ngày Intăn đến cưới nàng.
+Được tin vua Intăn và công chúa Rătna làm lễ thành hôn, vua Richa Samưlé lấy làm căm tức, vì đã đến cầu hôn trước nhưng không được. Vì vậy vua Richa Samưlé dùng phép thần thông hoá nàng công chúa Rătna thành con voi trắng, chạy trốn vào rừng sâu, nhằm ngày Intăn đến cưới nàng.
 
 Vua Ităn thấy vậy rất sợ hãi, bèn cuốn gói dẫn quan quân xuống thuyền, trương buồm trở về nước.
 
 Hoàng hậu Xoarô Găngà và các cung phi mỹ nữ nghe tin công chúa Rătna bị hoá thân thành con voi trắng trốn vào rừng sâu thì vô cùng đau xót, thương tiếc.
 
-Lại nói về công chúạ Rătna, sau khi bị hóá thân thành con voi trắng, nàng phải sống bơ vơ nơi rừng sâu, núi thẳm, lẻ loi cô độc, nên lúc nào dòng lệ cũng tuôn rơi.
+Lại nói về công chúa Rătna, sau khi bị hoá thân thành con voi trắng, nàng phải sống bơ vơ nơi rừng sâu, núi thẳm, lẻ loi cô độc, nên lúc nào dòng lệ cũng tuôn rơi.
 
 Nàng tha thẩn đi đến núi Lăng Girì, và dừng chân dưới một gốc cây đại thụ oán than số phận. Trong lúc đang buồn lo, sầu não, thì bỗng nghe trên ngọn đa có tiếng chim ó cãi nhau. Ó đực hỏi ó cái :
 
@@ -2938,7 +2887,7 @@ Con ó cái đáp :
 
 Voi trắng nghe đôi ó nói như vậy thì lòng hết sức hồi hộp, cầu mong.
 
-Bỗng từ xa có hai người phi ngựa tới. Đó chính là hoàng tử Tềwa Mừnô và Ungcăl. Hoàng tử Tềwa Mừnô hỏi :
+Bỗng từ xa có hai người phi ngựa tới. Đó chính là hoàng tử Tềwa Mừnô và Ưngcăl. Hoàng tử Tềwa Mừnô hỏi :
 
 \- Tại sao có con voi trắng từ đâu đến đây thấy người mà chẳng chạy ?
 
@@ -2946,45 +2895,45 @@ Công chúa (tức con voi trắng) bèn thưa :
 
 \- Thưa chàng, tiện thiếp là công chúa Rătna quê ở xứ Pìrùng Lăng Tarà. Sở dĩ bị hoá thân thành voi trắng vì trước đây bị Samưlé đến cầu hôn, nhưng phụ hoàng tiện thiếp không ưng, rồi lại thuận gả cho vua Intăn giầu có. Samưlé nổi giận hóá phép biến thiếp thành con voi trắng, để phải sống một mình nơi rừng sâu. Tiện thiếp rất muốn được trở thành người như trước, liệu chàng có đoái thương giúp được chăng ?
 
-Hoàng tử Tềwa Mừnô nghe nàng kể lể nỗi niềm bèn dùng phép thần thông hoá thân cho con voi trắng trở lại thành công chúa Rătna; nhan sắc có phần xinh đẹp hơn. Đoạn hoàng tử đưa nàng trở về xứ Pirùng Lãng Tarà. Được nửa đường, đến một vùng hoang vắng, hoàng từ Têwa Mùnô trông thấy một cây đào tiên có bóng mát, liền dừng chân tạm nghỉ. Công chúa Râtna can rằng :
+Hoàng tử Tềwa Mừnô nghe nàng kể lể nỗi niềm bèn dùng phép thần thông hoá thân cho con voi trắng trở lại thành công chúa Rătna; nhan sắc có phần xinh đẹp hơn. Đoạn hoàng tử đưa nàng trở về xứ Pìrùng Lãng Tarà. Được nửa đường, đến một vùng hoang vắng, hoàng từ Tềwa Mừnô trông thấy một cây đào tiên có bóng mát, liền dừng chân tạm nghỉ. Công chúa Rătna can rẳng :
 
-\- Xin hoàng tử đừng nghỉ chốn này, đây là nơi thường ngày quân sư tử hay đến hái đào tiên, chúng thấy sẽ lại bắt thiếp đem dâng cho hoàng đế Richà Samulé. Chúng có nhiều tài cao phép lạ.
+\- Xin hoàng tử đừng nghỉ chốn này, đây là nơi thường ngày quân sư tử hay đến hái đào tiên, chúng thấy sẽ lại bắt thiếp đem dâng cho hoàng đế Richa Samưlé. Chúng có nhiều tài cao phép lạ.
 
-Hoàng tử Têwa Mùnô nghe công chúa nói mà chẳng hề nao núng, bèn dùng phép thần chỉ ngón tay lên ngọn cây đào tiên. Lập tức các trái đào trên cây rụng hết xuống đất. Chàng nhặt vài trái ngồi ăn cố ý đợi quân sư tử của hoàng đế Richà Samulé đến. Vừa khi ấy thì một con sư tử có cánh ào ạt bay tới, chạm phải ánh hào quang đôi mắt Têwa Mùnô phải rơi xuống đất, nó liền hách dịch hỏi :
+Hoàng tử Tềwa Mừnô nghe công chúa nói mà chẳng hề nao núng, bèn dùng phép thần chỉ ngón tay lên ngọn cây đào tiên. Lập tức các trái đào trên cây rụng hết xuống đất. Chàng nhặt vài trái ngồi ăn cố ý đợi quân sư tử của hoàng đế Richa Samưlé đến. Vừa khi ấy thì một con sư tử có cánh ào ạt bay tới, chạm phải ánh hào quang đôi mắt Tềwa Mừnô phải rơi xuống đất, nó liền hách dịch hỏi :
 
 \- Này người kia ! Mi là con của thượng đế hay kẻ phàm trần mà dám làm cho trái đào tiên của vua ta rơi rụng hết xuống đất. Thật quả to gan quá lắm ! Ta sẽ không để yên cho mi đâu !
 
-Hoàng tử Têwa Mùnô đáp :
+Hoàng tử Tềwa Mừnô đáp :
 
 \- Xri Inra là quê ta. Cha ta là đại đế Cuma Rachà chắc mi đã nghe danh. Ta đưa công chúa Rătna trở về quê nàng. Vua chúng bay đã hoá thân nàng thành con voi trắng, nay ta đã hoá tra lại nguyên hình cho nàng. Ta sẽ lấy nàng làm vợ.
 
-Sư tử nghe Mùnô nói vậy liền bảo :
+Sư tử nghe Mừnô nói vậy liền bảo :
 
-\- Này, Têwa Mùnô. nếu đúng nàng là công chúa Rătna, mi hãy lập tức giao nàng cho ta để về dâng cho hoàng đế Richà Samulê, ta sẽ tha tội chết. Bằng không mi chớ trách ta là hung ác. Mi không biết ta là ai ư ?
+\- Này, Tềwa Mừnô. nếu đúng nàng là công chúa Rătna, mi hãy lập tức giao nàng cho ta để về dâng cho hoàng đế Richa Samưlé, ta sẽ tha tội chết. Bằng không mi chớ trách ta là hung ác. Mi không biết ta là ai ư ?
 
-Hoàng tử Têwa Mùnô liền rút cây đoản đao ra và chém một nhát xá vai con sư tử. Nó hốt hoảng, quỳ lạy xin tha tội chết.
+Hoàng tử Tềwa Mừnô liền rút cây đoản đao ra và chém một nhát xá vai con sư tử. Nó hốt hoảng, quỳ lạy xin tha tội chết.
 
-Hoàng tử Têwa Mùnô tha cho nó, rồi bảo:
+Hoàng tử Tềwa Mừnô tha cho nó, rồi bảo:
 
-\- Ta bất chấp sự ngu muội của bay mà tha tội chết. Mi hãy về báo lại cho chủ tướng của mi rằng, ta là hoàng tử Têwa Mùnô, ta đã trả lại nguyên hình cho công chúa Rătna, và lấy nàng làm vợ.
+\- Ta bất chấp sự ngu muội của bay mà tha tội chết. Mi hãy về báo lại cho chủ tướng của mi rằng, ta là hoàng tư Tềwa Mừnô, ta đã trả lại nguyên hình cho công chúa Rătna, và lấy nàng làm vợ.
 
-Nói đoạn Têwa Mùnô dùng phép thần thông rút không gian ngắn lại để cho quân sư tử trở về được nhanh. Quân sư tử hốt hoảng vào triều tâu với Richà Samulé mọi điều vừa xảy ra, đoạn ngã lăn ra chết.
+Nói đoạn Tềwa Mừnô dùng phép thần thông rút không gian ngắn lại để cho quân sư tử trở về được nhanh. Quân sư tử hốt hoảng vào triều tâu với Richa Samưlé mọi điều vừa xảy ra, đoạn ngã lăn ra chết.
 
-Samulé cho triệu hồi bá quan văn võ đến nghị bàn để đem quân rửa hận.
+Samưlé cho triệu hồi bá quan văn võ đến nghị bàn để đem quân rửa hận.
 
-Richà Samulé dùng phép thần thông phóng nhanh lên không trung, khuất trên tầng mây, nổi sấm sét liên hồi, làm bão to gió lớn chuyển động ầm ầm.
+Richa Samưlé dùng phép thần thông phóng nhanh lên không trung, khuất trên tầng mây, nổi sấm sét liên hồi, làm bão to gió lớn chuyển động ầm ầm.
 
-Cậu của Samulé là Kara Vănnà, thấy vậy vội phóng lên tầng mây để khuyên can Richà Samulé:
+Cậu của Samưlé là Kara Vănna, thấy vậy vội phóng lên tầng mây để khuyên can Richa Samưlé:
 
-\- Samulé, cháu không nên bận tâm về tên Tềwa Mừnô, số phận của nó cậu đã nắm chắc trong tay. Cháu hãy lui về nghỉ dưỡng sức.
+\- Samưlé, cháu không nên bận tâm về tên Tềwa Mừnô, số phận của nó cậu đã nắm chắc trong tay. Cháu hãy lui về nghỉ dưỡng sức.
 
-Rồi Kara Vănnà tức tốc điều binh khiển tướng chuẩn bị xuất trận. Một mặt cho phi báo gọi tướng quân sư tử là Giồ Gìnùng, cũng có nhiều tài cao phép lạ. Giồ Gìnùng nhận lệnh, bèn lên ngay phi thuyền cùng đoàn quân sư tử đến hợp chiến. Tới kinh thành, Giồ Gìnùng vào tâu Sa- mulé rằng :
+Rồi Kara Vănna tức tốc điều binh khiển tướng chuẩn bị xuất trận. Một mặt cho phi báo gọi tướng quận sư tử là Giồ Gìnùng, cũng có nhiều tài cao phép lạ. Giồ Gìnùng nhận lệnh, bèn lên ngay phi thuyền cùng đoàn quân sư tử đến hợp chiến. Tới kinh thành, Giồ Gìnùng vào tâu Sa- mulé rằng :
 
 \- Xin ngài hãy an tâm tin ở tài năng nhỏ mọn của kẻ hạ thần này. Tên Tềwa Mừnô dù có nhiều phép cao tài lạ đến mấy đi nữa, kẻ hạ thần cũng xin hứa sẽ vặn cổ được nó; đem dâng ngài. Nếu kẻ hạ thần không bắt được tên Tềwa Mừnô thì xin dâng đầu này thế mạng.
 
-Richà Samưlé nghe tâu lấy làm cảm kích, bèn giao hết binh tướng thiện chiến cho Giồ Gìnùng điều khiển.
+Richa Samưlé nghe tâu lấy làm cảm kích, bèn giao hết binh tướng thiện chiến cho Giồ Gìnùng điều khiển.
 
-Mở tiệc khao quân xong, Giồ Gìnùng liền cho xuất trận. Giồ Gìnùng cưỡi phi thuyền bay trên không, còn quân sĩ theo sau kéo đen rợp đất. Đến một khu đất rộng thì đoàn quân gặp Tềwa Mừnô và Ungcăl, cùng công chúa Rătna.
+Mở tiệc khao quân xong, Giồ Gìnùng liền cho xuất trận. Giồ Gìnùng cưỡi phi thuyền bay trên không, còn quân sĩ theo sau kéo đen rợp đất. Đến một khu đất rộng thì đoàn quân gặp Tềwa Mừnô và Ưngcăl, cùng công chúa Rătna.
 
 Giồ Gìnùng liền cho quân dàn trận vây quanh Tềwa Mừnô. Công chúa Rătna thấy vậy lấy làm hoảng sợ lắm. Tềwa Mừnô ôm nàng vào lòng mà an ủi rằng :
 
@@ -2994,107 +2943,107 @@ Trong khi đó tên Giồ Gìnùng cho quân chiêu gọi Tềwa Mừnô qui hà
 
 \- Hỡi Tềwa Mừnô, khôn hồn thì hãy cúi đầu qui hàng và hãy giao ngay công chúa Rătna để chuộc mạng. Bằng không, ta sẽ xé thầy mi ngay tức khắc !
 
-Têwa Mùnô mặc kệ cho bọn chúng hò hét. Chàng vẫn bình than mà không hề nao núng. Để thử xem công chúa Rátna có thực tâm với mình hay không, hoàng tử phóng vút lên cao rồi quăng mình xuống đất trước mặt nàng. Công chúa tưởng hoàng tử sợ bị sa vào tay giặc nên tự tử, nàng bèn rút dao ra định quyên sinh theo chàng. Lập tức hoàng tử cầm lấy dao, ôm chầm lấy nàng mà rằng :
+Tềwa Mừnô mặc kệ cho bọn chúng hò hét. Chàng vẫn bình thản mà không hề nao núng. Để thử xem công chúa Rătna có thực tâm với mình hay không, hoàng tử phóng vút lên cao rồi quăng mình xuống đất trước mặt nàng. Công chúa tưởng hoàng tử sợ bị sa vào tay giặc nên tự tử, nàng bèn rút dao ra định quyên sinh theo chàng. Lập tức hoàng tử cầm lấy dao, ôm chầm lấy nàng mà rằng :
 
 \- Đây đúng thật là vợ yêu của ta, xin nàng hãy bình tâm.
 
-Nói đoạn, Têwa Mùnô quay lại bọn giặc thét lớn :
+Nói đoạn, Tềwa Mừnô quay lại bọn giặc thét lớn :
 
 \- Chúng bay hãy nghe đây, hỡi lũ quỷ ngu ngốc, chúng bay muốn yên thân, toàn mạng, thì hãy rủ nhau mà lùi về. Bằng không lưỡi gươm ta sẽ không tha ai hết.
 
-Giỏ Ginùng tỏ vẻ đắc thắng, cười chế nhạo:
+Giỏ Gìnùng tỏ vẻ đắc thắng, cười chế nhạo:
 
-\- Têwa Mùnô, mi đừng khoa lác. Anh em mi định lấy trứng chọi đá sao ?
+\- Tềwa Mừnô, mi đừng khoa lác. Anh em mi định lấy trứng chọi đá sao ?
 
-Têwa Mùnô thấy chúng chế nhạo liền nổi giận, giẫm mạnh chân xuống đất, rút đoản đao giết chết ngay tên Giỏ Ginùng cùng bọn lâu la đứng gán. chung không kịp kêu một tiếng, làm cho cả bọn hoang sợ chạy tán loạn.
+Tềwa Mừnô thấy chúng chế nhạo liền nổi giận, giẫm mạnh chân xuống đất, rút đoản đao giết chết ngay tên Giỏ Gìnùng cùng bọn lâu la đứng gán. chung không kịp kêu một tiếng, làm cho cả bọn hoang sợ chạy tán loạn.
 
-Giết xong Gió Ginùng cùng bọn quân lính Richà Samulé, hoàng tử Têwa Mừnó và Ungcãl đem công chúa Ràtna tìm đường về quê nàng.
+Giết xong Gió Gìnùng cùng bọn quân lính Richa Samưlé, hoàng tử Tềwa Mừnô và Ưngcăl đem công chúa Rătna tìm đường về quê nàng.
 
-Ba người vừa về đến kinh thành Lăng Tarà thì vua cha và hoàng hậu cùng bá quan trong triều đều vui mừng khôn xiết, kẻ hỏi, người han tíu tít.
+Ba người vừa về đến kinh thành Lãng Tarà thì vua cha và hoàng hậu cùng bá quan trong triều đều vui mừng khôn xiết, kẻ hỏi, người han tíu tít.
 
-Sực nhớ đến ân nhân cứu con mình, vua Lăng Tarà quay lại hỏi thăm Tềwa Minó :
+Sực nhớ đến ân nhân cứu con mình, vua Lãng Tarà quay lại hỏi thăm Tềwa Mừnô :
 
-\- Hồi tráng sĩ. chẳng hay quê quán ở đâu? Sao chàng lại gặp và cứu được con ta về đây?
+\- Hồi tráng sĩ, chẳng hay quê quán ở đâu? Sao chàng lại gặp và cứu được con ta về đây?
 
 Hoàng tử Tềwa Mừnô quỳ tâu :
 
-\- Thưa bệ hạ, kẻ hạ thần quê ở Xri Inra, hoàng đế Cuma Rachà là phụ vương, và Runna Xribiyăng là mẫu hậu. Tềwa Mừnô là tên kẻ hạ thần. Còn đây là bạn thân đồng hành, tên là Ungcăl Tềwa. Hai chúng con đang trên đường đi tìm phụ hoàng, chẳng may gặp công chúa bị nạn nơi núi Lăng Girì. Khi hỏi qua mới rõ bởi sự ganh tị vì không cưới được nàng, nên Samulé đã dùng tả thuật biến năng thành con voi trắng. Nghĩ thương tình hay cũng là duyên trời run rủi, kẻ hạ thần đã hoá phép cho nàng được trở lại nguyên hình, rồi đưa về đây. Trên đường về, bọn Samulé cho quân đón đường nghênh chiến định cướp lại công chúa, nhưng chúng đã bị kẻ hạ thần đánh bại.
+\- Thưa bệ hạ, kẻ hạ thần quê ở Xri Inra, hoàng đế Cuma Rachà là phụ vương, và Runna Xribiyăng là mẫu hậu. Tềwa Mừnô là tên kẻ hạ thần. Còn đây là bạn thân đồng hành, tên là Ưngcăl Tềwa. Hai chúng con đang trên đường đi tìm phụ hoàng, chẳng may gặp công chúa bị nạn nơi núi Lãng Girì. Khi hỏi qua mới rõ bởi sự ganh tị vì không cưới được nàng, nên Samưlé đã dùng tà thuật biến nàng thành con voi trắng. Nghĩ thương tình hay cũng là duyên trời run rủi, kẻ hạ thần đã hoá phép cho nàng được trở lại nguyên hình, rồi đưa về đây. Trên đường về, bọn Samưlé cho quân đón đường nghênh chiến định cướp lại công chúa, nhưng chúng đã bị kẻ hạ thần đánh bại.
 
 Hoàng đế và hoàng hậu Lăng Tarà nghe Tềwa Mừnô kể rõ mọi việc thì lấy làm cảm phục về lòng hào hiệp của chàng, bèn truyền lệnh.
 
-\- Hỡi các người hãy nghe đây, để tạ ơn công lao cao cả và lòng hào hiệp nghĩa khí của tráng sĩ Tềwa Mừnô, người đã cứu được con gái ta trở lại thành người, ta truyền lệnh cho tráng sĩ Mừnô và Rătna, con gái yêu dấu của ta, được kết nghĩa trăm năm ; còn Ungcăl, bạn đồng hành của Mừnô, được phép tuỳ ý chọn một trong các mỹ nữ cung tần của ta để kết bạn đời.
+\- Hỡi các người hãy nghe đây, để tạ ơn công lao cao cả và lòng hào hiệp nghĩa khí của tráng sĩ Tềwa Mừnô, người đã cứu được con gái ta trở lại thành người, ta truyền lệnh cho tráng sĩ Mừnô và Rătna, con gái yêu dấu của ta, được kết nghĩa trăm năm ; còn Ưngcăl, bạn đồng hành của Mừnô, được phép tuỳ ý chọn một trong các mỹ nữ cung tần của ta để kết bạn đời.
 
 Tiếp đó nhà vua ra lệnh cho quần thần triệu các thợ khéo tay dựng hai ngôi nhà, và mở đại tiệc ăn mừng suốt mấy chục ngày đêm.
 
-Lễ thành hôn của công chúa Rătna với hoàng tử Tềwa Mừnô được tổ chức trước vài tuần, sau đó tiếp tục tổ chức lễ thành hôn cho tiểu thư Palingăn Chada với Ungcăl Tềwa.
+Lễ thành hôn của công chúa Rătna với hoàng tử Tềwa Mừnô được tổ chức trước vài tuần, sau đó tiếp tục tổ chức lễ thành hôn cho tiểu thư Palingăn Chada với Ưngcăl Tềwa.
 
 Hai cặp vợ chồng được mặc sức tận hưởng những ngày hạnh phúc.
 
 Rồi một hôm hoàng hậu gọi công chúa Rătna vào cung lén báo con gái hãy thử xem trí thông minh và tài ba của phò mã, mà bây lâu nay bà vẫn có ý ngờ ngợ. Vì kính nể, công chúa vâng lệnh mẫu hậu.
 
-Hoàng tử Tềwa Mừnô khi thấy công chúa có ý thử mình thì trong lòng lấy làm buồn, nhưng không nói ra cùng vợ. Chàng bàn với Ungcăl, rồi hai người lén bỏ ra đi không một lời từ giã.
+Hoàng tử Tềwa Mừnô khi thấy công chúa có ý thử mình thì trong lòng lấy làm buồn, nhưng không nói ra cùng vợ. Chàng bàn với Ưngcăl, rồi hai người lén bỏ ra đi không một lời từ giã.
 
-Đi được nửa đường thì hai người gặp một hung thần khổng lồ, tiếng thét tựa sấm vang. Vừa trông thấy hai người, hung thần định xông đến nuốt tươi. Nhưng Tềwa Mừnỗ đã kịp rút đoản đao ra ứng phó, toan xả đôi tên hung thần. Ungcăl vội can ngăn hoàng tử hãy nới tay. Hung thần khổng lỗ thấy vậy vội quỳ xuống dưới chân hoàng tử xin tha tội chết, và hứa sẽ tận tuy đem chút tài nhỏ mọn của mình giúp chàng mỗi khi gặp nạn, chỉ cần chàng gọi : "Hãy giúp ta, hỡi hung thần Xăng Gì" thì kẻ hạ thần này sẽ đền ứng cứu.
+Đi được nửa đường thì hai người gặp một hung thần khổng lồ, tiếng thét tựa sấm vang. Vừa trông thấy hai người, hung thần định xông đến nuốt tươi. Nhưng Tềwa Mừnô đã kịp rút đoản đao ra ứng phó, toan xả đôi tên hung thần. Ưngcăl vội can ngăn hoàng tử hãy nới tay. Hung thần khổng lồ thấy vậy vội quỳ xuống dưới chân hoàng tử xin tha tội chết, và hứa sẽ tận tuy đem chút tài nhỏ mọn của mình giúp chàng mỗi khi gặp nạn, chỉ cần chàng gọi : "Hãy giúp ta, hỡi hung thần Xăng Gì" thì kẻ hạ thần này sẽ đến ứng cứu.
 
-Lại kể về hoàng đế và hoàng hậu xứ Lăng Tarà. Khi biết Têwa Mừnô và Ungcăl lén bỏ ra đi thì vô cùng chua xót và hối hận liền truyền lệnh cho binh tướng đi tìm. Vừa nhìn thấy hai người đương ngồi nói chuyện với hung thần, công chúa Rătna cùng tiểu thư Palingăn Chada liền vội chạy đến, dập đầu cúi lạy mà rằng :
+Lại kể về hoàng đế và hoàng hậu xứ Lăng Tarà. Khi biết Tềwa Mừnô và Ưngcăl lén bỏ ra đi thì vô cùng chua xót và hối hận liền truyền lệnh cho binh tướng đi tìm. Vừa nhìn thấy hai người đương ngồi nói chuyện với hung thần, công chúa Rătna cùng tiểu thư Palingăn Chada liền vội chạy đến, dập đầu cúi lạy mà rằng :
 
 \- Cúi xin hai chàng lượng thứ, bình tâm nghe tiện thiếp phân trần đôi điều. Vì kính nể mẫu hậu nên tiện thiếp trót dại bày đặt những điều thử chàng, xin được chàng nghĩ lại mà đoái thương đến tiện thiếp, hỡi Tềwa Mừnô. Đời thiếp không thể sống thiếu chàng. Chàng đi đâu xin để thiếp theo hầu nâng khăn sửa tráp sớm hôm.
 
 Hoàng tử Tềwa Mừnô nghe công chúa Rătna tỏ bày cùng với đôi hàng lệ vắn dài, thì lấy làm xúc động thương tâm. Chàng bùi ngùi nhớ lại những kỷ niệm gắn bó hai người, rồi thuận tình cho hai nàng cùng đi theo mình.
 
-Về Richà Samưlé, sau khi bị thua trận trong cuộc giao chiến với Tềwa Mừnô thì lấy làm căm phẫn lắm. Hắn cho triệu hồi tất cả binh dũng tướng hùng, định ngày kéo quân đến phục thù Tềwa Mừnô.
+Về Richa Samưlé, sau khi bị thua trận trong cuộc giao chiến với Tềwa Mừnô thì lấy làm căm phẫn lắm. Hắn cho triệu hồi tất cả binh dũng tướng hùng, định ngày kéo quân đến phục thù Tềwa Mừnô.
 
 Các cận thần Samưlé quỳ lạy mà tâu rằng:
 
-\- Cúi xin bệ hạ hãy nén lòng mà luyện tập quân sĩ đã. Tềwa Mùnô có nhiều phép cao tài cả. Muốn chiến thắng, ta phải luyện thêm võ nghệ cũng như các pháp thần thông cho thật thành thạo mới được ! Có vậy ta mới cầm chắc cái thắng.
+\- Cúi xin bệ hạ hãy nén lòng mà luyện tập quân sĩ đã. Tềwa Mừnô có nhiều phép cao tài cả. Muốn chiến thắng, ta phải luyện thêm võ nghệ cũng như các pháp thần thông cho thật thành thạo mới được ! Có vậy ta mới cầm chắc cái thắng.
 
-Samulé nghe lọt tai nên chấp thuận. Sau đó Samulé giao việc luyện tập binh sĩ cho Richà Ari Cấy Caphoari và công chúa Sapatăn Đivi. Còn Samulé và Richà Kara Vănnà lên đường đi luyện phép thần thông.
+Samưlé nghe lọt tai nên chấp thuận. Sau đó Samưlé giao việc luyện tập binh sĩ cho Richa Ari Cấy Caphoari và công chúa Sapatăn Đivi. Còn Samưlé và Richa Kara Vănna lên đường đi luyện phép thần thông.
 
-Tại đỉnh núi Sơn Long, hai cậu cháu Samulé ra sức khổ luyện phép thần. Mỗi ngày mỗi người chỉ ăn một hột bỏng đỡ lòng suốt bảy năm liền.
+Tại đỉnh núi Sơn Long, hai cậu cháu Samưlé ra sức khổ luyện phép thần. Mỗi ngày mỗi người chỉ ăn một hột bỏng đỡ lòng suốt bảy năm liền.
 
-Richà Samulé tập hoá biển thành hồ ao, biến núi cao thành đồi con, hoá ra lửa đốt cháy cạn biển khơi...
+Richa Samưlé tập hoá biển thành hồ ao, biến núi cao thành đồi con, hoá ra lửa đốt cháy cạn biển khơi...
 
 Hai cậu cháu cùng tập phi đằng vân bay lên thật cao đến nỗi nhìn xuống biển chỉ còn bé nhỏ tựa như vũng nước. Rồi một hôm nhân đà bay luôn sang vương quốc Kànung Sarapang để cậy nhờ nhà vua Kakú Kakung Kakăng trợ sức.
 
-Quốc gia này sống riêng biệt, độc lập. Mặt trời, mặt trăng, mưa gió... đều do các vị thần khổng lồ điều khiển. Xung quanh vương quốc của họ được bao bọc bởi một hàng rào vô hình vững chắc. Do vậy, lúc đầu hai cậu cháu Samulé không tài nào lọt vào được. Cuối cùng họ phải dùng phép thuật phóng hoả xuyên qua.
+Quốc gia này sống riêng biệt, độc lập. Mặt trời, mặt trăng, mưa gió... đều do các vị thần khổng lồ điều khiển. Xung quanh vương quốc của họ được bao bọc bởi một hàng rào vô hình vững chắc. Do vậy, lúc đầu hai cậu cháu Samưlé không tài nào lọt vào được. Cuối cùng họ phải dùng phép thuật phóng hoả xuyên qua.
 
-Khi đã vượt qua khỏi hàng rào đó, hai cậu cháu liền dùng phép đằng vân vượt qua các ngọn núi cao trùng trùng điệp điệp, và biển rộng mênh mông. Richà Samulé lại biến ra ngọn lửa cháy cạn biển sâu, làm cho các loài tôm cá chết vô kể. Các danh tướng trấn giữ cửa biển của vương quốc Kànung Sarabang thấy bỗng nhiên biển bị cạn đều lấy làm hoảng sợ. Chợt họ nhìn thấy hai cậu cháu Samulé. Họ hỏi hai người vì cớ gì lại đến tàn phá bờ cõi của họ như vậy.
+Khi đã vượt qua khỏi hàng rào đó, hai cậu cháu liền dùng phép đằng vân vượt qua các ngọn núi cao trùng trùng điệp điệp, và biển rộng mênh mông. Richa Samưlé lại biến ra ngọn lửa cháy cạn biển sâu, làm cho các loài tôm cá chết vô kể. Các danh tướng trấn giữ cửa biển của vương quốc Kànung Sarabang thấy bỗng nhiên biển bị cạn đều lấy làm hoảng sợ. Chợt họ nhìn thấy hai cậu cháu Samưlé. Họ hỏi hai người vì cớ gì lại đến tàn phá bờ cõi của họ như vậy.
 
-Richà Samulé trả lời rằng :
+Richa Samưlé trả lời rằng :
 
 \- Hãy cho ta đến gặp nhà vua các người. Ta có việc cần bàn.
 
-Vua Kakú Kakúng Kakăng nghe quân hầu cấp báo, liền truyền mời hai cậu cháu Richà Samulé vào triều. Đức vua phán hỏi :
+Vua Kakú Kakung Kakăng nghe quân hầu cấp báo, liền truyền mời hai cậu cháu Richa Samưlé vào triều. Đức vua phán hỏi :
 
 \- Chẳng hay hai ngài có việc gì mà lại tìm đến xứ ta ? Ta có thể giúp được gì ?
 
-Samulé tâu rằng :
+Samưlé tâu rằng :
 
 \- Thưa đại ca, kẻ hạ thần có việc đại sự, muốn được đại ca ra tay giúp sức. Tên tiểu tốt phiến loạn Tềwa Mừnô, nó ỷ có tài cao phép lạ định đến chiếm đoạt ngôi báu, cùng đất đai vương quốc của kẻ hạ thần. Một mình hạ thần chèo chống e khó giữ nổi, nên đành mạo muội tìm đến nhờ đại ca giúp sức. Đại ca cho kẻ hạ thần được đội ơn nấp bóng.
 
-Nghe lời cầu khẩn của hoàng đế Samưlé, nhà vua Kakú Kakung Kakăng tỏ ý chấp thuận giúp sức. Đoạn nhà vua truyền cho quân gia tuyển chọn lấy một đội quân gồm toàn những binh hùng tướng mạnh để tiếp ứng cho Richà Samưlé. Đoàn quân do chính nhà vua Kakăng dẫn đầu, cờ xí rợp trời, kéo sang xứ Lăng Tarà. Dân chúng thấy quân tướng đông thì lấy làm hoảng sợ, hò nhau chạy trốn.
+Nghe lời cầu khẩn của hoàng đế Samưlé, nhà vua Kakú Kakung Kakăng tỏ ý chấp thuận giúp sức. Đoạn nhà vua truyền cho quân gia tuyển chọn lấy một đội quân gồm toàn những binh hùng tướng mạnh để tiếp ứng cho Richa Samưlé. Đoàn quân do chính nhà vua Kakăng dẫn đầu, cờ xí rợp trời, kéo sang xứ Lăng Tarà. Dân chúng thấy quân tướng đông thì lấy làm hoảng sợ, hò nhau chạy trốn.
 
-Lại nói về Tềwa Mừnô, khi nghe tin binh tướng của Richà Samưlé kéo đến, liền cùng Ungcăl ra ứng chiến. Ungcăl xin Tềwa Mừnô cho mình tiếp chiến trước với quân địch, để thử phép 'rước đây hung thần Xăng Gì đã truyền cho,
+Lại nói về Tềwa Mừnô, khi nghe tin binh tướng của Richa Samưlé kéo đến, liền cùng Ưngcăl ra ứng chiến. Ưngcăl xin Tềwa Mừnô cho mình tiếp chiến trước với quân địch, để thử phép 'rước đây hung thần Xăng Gì đã truyền cho,
 
 Tềwa Mừnô chấp thuận, và khuyên Ungc không nên giết hại binh lính, mà chỉ nên tiêu trừ tên hung ác.
 
 Vua Kakú Kakung Kakăng thấy từ xa một mình Ưngcăl xông ra nghênh chiến, thì tỏ vẻ coi khinh, ngạo nghễ mà rằng :
 
-\- Này, thằng nhỏ kia, sao dám liều lĩnh đơn chiếc thế ? Hãy gọi chủ tướng Tềwa Mừnô của mi rạ đây. Thứ mi ta không thèm chấp.
+\- Này, thằng nhỏ kia, sao dám liều lĩnh đơn chiếc thế ? Hãy gọi chủ tướng Tềwa Mừnô của mi ra đây. Thứ mi ta không thèm chấp.
 
 Ưngcăl nổi giận, giẫm chân hét vang một tiếng, làm cho bầu trời, mặt đất chao động mạnh, các loài ma quỷ ở dưới cõi âm hiện lên tiếp sức không biết bao nhiêu mà kể, làm cho quân tướng của Kakú Kakung Kakăng chạy tán loạn. Tềwa Mừnô thấy vậy liền vẫy Ưngcăl ra lệnh rút âm binh trở lại.
 
-Richà Samưlé và Richà Kara Vănna thấy vậy liền kéo ra tiếp chiến cho Kakú Kakung Kakăng. Nhưng vừa được nửa đường đã gặp Ari Cấy Aphoari đón đường quỳ tâu :
+Richa Samưlé và Richa Kara Vănna thấy vậy liền kéo ra tiếp chiến cho Kakú Kakung Kakăng. Nhưng vừa được nửa đường đã gặp Ari Cấy Aphoari đón đường quỳ tâu :
 
 \- Thưa ngài, kẻ hạ thần thừa lệnh công chúa Sapatăn Đivi đến thưa với hoàng thúc và hoàng huynh không nên ra ứng chiến, vì nàng cho biết Tềwa Mừnô rất tài giỏi. Ta nên dùng cung tên vàng bắn từ xa thì hơn. Với lại cứ như quẻ độn công chúa Đivi vừa xem thì thấy hôm nay ra trận bất lợi.
 
-Nghe lời, Richà Samưlé liền giương cung lắp tên vàng bắn Tềwa Mừnô. Kara Vănna cũng lắp tên vàng bắn Ungcăl. Hai mũi tên vừa vút đi thì liền hoá thành hai con rồng lửa quấn đưa Tềwa Mừnô và Ungcăl ra biển khơi. Biển liền nổi dông tố, sóng cuộn ầm ẩm. Tất cả các loài tôm cá biển thấy vậy cùng đến nâng lấy anh em Tềwa Mùnô. Hai anh em trôi mỗi người mỗi ngả. Bảy ngày sau sóng mới đưa hai người gặp nhau. Vừa lúc ấy Ungcăl nhớ lại lời Xăng Gì dặn. Chàng bèn gọi to :
+Nghe lời, Richa Samưlé liền giương cung lắp tên vàng bắn Tềwa Mừnô. Kara Vănna cũng lắp tên vàng bắn Ưngcăl. Hai mũi tên vừa vút đi thì liền hoá thành hai con rồng lửa quấn đưa Tềwa Mừnô và Ưngcăl ra biển khơi. Biển liền nổi dông tố, sóng cuộn ầm ẩm. Tất cả các loài tôm cá biển thấy vậy cùng đến nâng lấy anh em Tềwa Mừnô. Hai anh em trôi mỗi người mỗi ngả. Bảy ngày sau sóng mới đưa hai người gặp nhau. Vừa lúc ấy Ưngcăl nhớ lại lời Xăng Gì dặn. Chàng bèn gọi to :
 
 \- Hỏi Xăng Gì ! Xin thần ứng cứu !
 
-Nghe gọi, hung thần liền hiện ra trên mặt biển cứu Tềwa Mừnô và Ungcăl thoát khỏi hai con rồng lửa nơi biển cả, ôm hai người bay ra khỏi đại dương, đến một vùng đất bằng phẳng thuộc vương quốc Nô Rapa, và đặt hai người cạnh giếng riêng của công chúa. Đoạn Xăng Gì dùng phép lẻn vào cung lấy áo váy của công chúa Ma Trắc Xa mang ra trao cho hoàng tử Tềwa Mừnô và dặn :
+Nghe gọi, hung thần liền hiện ra trên mặt biển cứu Tềwa Mừnô và Ưngcăl thoát khỏi hai con rồng lửa nơi biển cả, ôm hai người bay ra khỏi đại dương, đến một vùng đất bằng phẳng thuộc vương quốc Nô Rapa, và đặt hai người cạnh giếng riêng của công chúa. Đoạn Xăng Gì dùng phép lẻn vào cung lấy áo váy của công chúa Ma Trắc Xa mang ra trao cho hoàng tử Tềwa Mừnô và dặn :
 
-\- Xin hoàng tử Tềwa Mừnô cùng Ungcăl hãy vui lòng nghỉ tạm nơi đây, để hạ thần trở về Lăng Tarà dò xem công chúa Rătna có sự bất trắc gì chăng ?
+\- Xin hoàng tử Tềwa Mừnô cùng Ưngcăl hãy vui lòng nghỉ tạm nơi đây, để hạ thần trở về Lăng Tarà dò xem công chúa Rătna có sự bất trắc gì chăng ?
 
 Dặn xong, hung thần dùng phép đằng vân về ngay xứ Lăng Tarà, rồi biến mình thành con thằn lằn đậu nơi cửa hoàng cung, cạnh buồng công chúa, để thăm dò.
 
@@ -3104,7 +3053,7 @@ Két vàng bay đến nơi giếng nước thấy hai anh em Tềwa Mừnô bèn
 
 \- Hời hai ngài khách lạ đẹp trai, có phải hai ngài đã lấy cắp áo váy của công chúa kẻ hạ thần?
 
-Tềwa Mừnố đáp :
+Tềwa Mừnô đáp :
 
 \- Quả có anh em ta ở nơi này, nhưng đâu có biết ? Két vàng hãy tâu giúp với công chúa rằng ta muốn làm khách, ăn trầu nhà công chúa!
 
@@ -3118,9 +3067,9 @@ Công chúa Ma Trắc Xa sai hai tỳ nữ đến mời hoàng tử Tềwa Mừn
 
 \- Hoàng tử yêu quý, chàng hãy vui lòng nán lại đây vài bữa với ta, chờ khi nào hưng thần trở lại hãy hay. Sự có mặt của chàng ở vương quốc trẫm biết đâu chẳng là do trời xui khiến. Vâng theo ý trời trẫm sẽ thuận cho ái nữ Ma Trắc Xa được theo nâng khăn sửa túi cùng chàng.
 
-Đoạn nhà vua truyền lệnh cho quân lính vào rừng săn bắn muông thú đem về làm lễ nghinh hôn cực kỳ long trọng cho hai người. Khắp triều nội ai nấy đều hớn hở vui mừng. Ngoài bàn dân thiên hạ cũng tổ chức ăn mừng. Rồi nhà vua Ku Rachô Mala cũng lại tổ chức lễ thành hôn cho công chúa Tôn Ramai với Ungcăl.
+Đoạn nhà vua truyền lệnh cho quân lính vào rừng săn bắn muông thú đem về làm lễ nghinh hôn cực kỳ long trọng cho hai người. Khắp triều nội ai nấy đều hớn hở vui mừng. Ngoài bàn dân thiên hạ cũng tổ chức ăn mừng. Rồi nhà vua Ku Rachô Mala cũng lại tổ chức lễ thành hôn cho công chúa Tôn Ramai với Ưngcăl.
 
-Một năm sau, vợ chồng Tềwa Mừnô sinh được đứa con trai rất khôi ngô tuấn tú, đặt tên là Ku Mala. Sau khi đứa bé ra đời được ít lâu, hung thần Xăng Gì mới trở lại báo cho Tềwa Mừnô biết là Richà Samưlé đang định bắt công chúa Rătna, nhưng nàng không thuận lấy cớ xin để tang chồng trong một năm, nếu bị truy bức nàng sẽ quyền sinh. Nếu hết một năm mà chàng chưa trở lại thì tính mạng nàng khó được toàn vẹn. Và, xin hoàng tử nện sớm trở về, kẻo lỡ muộn mà ân hận suốt đời.
+Một năm sau, vợ chồng Tềwa Mừnô sinh được đứa con trai rất khôi ngô tuấn tú, đặt tên là Ku Mala. Sau khi đứa bé ra đời được ít lâu, hung thần Xăng Gì mới trở lại báo cho Tềwa Mừnô biết là Richa Samưlé đang định bắt công chúa Rătna, nhưng nàng không thuận lấy cớ xin để tang chồng trong một năm, nếu bị truy bức nàng sẽ quyên sinh. Nếu hết một năm mà chàng chưa trở lại thì tính mạng nàng khó được toàn vẹn. Và, xin hoàng tử nện sớm trở về, kẻo lỡ muộn mà ân hận suốt đời.
 
 Nghe báo, hoàng tử Tềwa Mừnô liền vào triều vua trình và xin cáo biệt. Hoàng đế Ku Rachô Mala khi nghe phò mã tâu bày thì lấy làm cảm động, bèn truyền lệnh cho quân gia chuẩn bị voi ngựa, binh lính hộ tống.
 
@@ -3128,25 +3077,25 @@ Tềwa Mừnô bái tạ đức vua và xin từ biệt
 
 Cả ba người dùng phép đằng vân, nên chẳng mấy chốc đã về đến xứ Lăng Tarà.
 
-Têwa Mùnô vừa bước chân vào sân ngự uyển đã nghe tiếng khóc than của các cung phi mỹ nữ, và được tin báo công chúa Rătna đang hấp hối.
+Tềwa Mừnô vừa bước chân vào sân ngự uyển đã nghe tiếng khóc than của các cung phi mỹ nữ, và được tin báo công chúa Rătna đang hấp hối.
 
 Trong lúc đang hấp hối, công chúa Rătna nghe có tiếng bước chân quen thuộc đến gần mình, nàng gượng hỏi :
 
-\- Ta nghe có tiếng bước chân quen đâu đây như của Têwa Mùnô thân yêu ?
+\- Ta nghe có tiếng bước chân quen đâu đây như của Tềwa Mừnô thân yêu ?
 
-Nghe nàng hỏi trong hơi thở hấp hối, hoàng tử Têwa Mùnô xúc động lắm, chàng bước nhẹ đến cạnh giường công chúa Rătna, lần tay rút con dao gài trong búi tóc nàng, vì sợ nàng giật mình quyên sinh bất ngờ. Quả vậy, trong cơn mơ màng nàng giật mình khi thấy tự nhiên có bàn tay đàn ông sờ vào búi tóc, tưởng là Samulé đến, nàng liền thò tay lên ngay búi tóc định rút con dao để quyên sinh. Hoàng tử Têwa Mùnô cầm lấy tay nàng hỏi khê :
+Nghe nàng hỏi trong hơi thở hấp hối, hoàng tử Tềwa Mừnô xúc động lắm, chàng bước nhẹ đến cạnh giường công chúa Rătna, lần tay rút con dao gài trong búi tóc nàng, vì sợ nàng giật mình quyên sinh bất ngờ. Quả vậy, trong cơn mơ màng nàng giật mình khi thấy tự nhiên có bàn tay đàn ông sờ vào búi tóc, tưởng là Samưlé đến, nàng liền thò tay lên ngay búi tóc định rút con dao để quyên sinh. Hoàng tử Tềwa Mừnô cầm lấy tay nàng hỏi khê :
 
-\- Hỡi Rătna thân yêu, hoàng tử Têwa Mùnô, người chồng của nàng đây. Nàng hãy bình tâm mở mắt nhìn kỹ đi. Ta đã đến với nàng rồi đó.
+\- Hỡi Rătna thân yêu, hoàng tử Tềwa Mừnô, người chồng của nàng đây. Nàng hãy bình tâm mở mắt nhìn kỹ đi. Ta đã đến với nàng rồi đó.
 
-Cùng lúc đó, Ungcăl cũng lên tiếng gọi nàng bằng chị. Nàng định thần nhìn, nỗi vui mừng quá bất ngờ, nàng buông mình vào lòng hoàng tử ngất đi. Sau một lúc lay gọi, nàng mới tỉnh lại và gục đầu vào lòng hoàng tử khóc than thảm thiết. Hung thần Xăng Gì đứng cạnh quá cảm động trước tình cảnh hai người cũng không kìm nổi được mình, nên gầm lên mấy tiếng làm chấn động cả núi non xứ Lăng Tarà.
+Cùng lúc đó, Ưngcăl cũng lên tiếng gọi nàng bằng chị. Nàng định thần nhìn, nỗi vui mừng quá bất ngờ, nàng buông mình vào lòng hoàng tử ngất đi. Sau một lúc lay gọi, nàng mới tỉnh lại và gục đầu vào lòng hoàng tử khóc than thảm thiết. Hung thần Xăng Gì đứng cạnh quá cảm động trước tình cảnh hai người cũng không kìm nổi được mình, nên gầm lên mấy tiếng làm chấn động cả núi non xứ Lăng Tarà.
 
-Chợt hoàng tử nhìn thấy Sapatăn Đivi, chàng hỏi ra mới biết rằng nàng theo lệnh của anh trai Samulé đến chăm sóc, an ủi Rătna, để làm khuây khoả lòng nàng trong những ngày chờ đợi. Hoàng tử Tềwa Mừnô nói với công chúa Đivi :
+Chợt hoàng tử nhìn thấy Sapatăn Đivi, chàng hỏi ra mới biết rằng nàng theo lệnh của anh trai Samưlé đến chăm sóc, an ủi Rătna, để làm khuây khoả lòng nàng trong những ngày chờ đợi. Hoàng tử Tềwa Mừnô nói với công chúa Đivi :
 
-\- Này Sapatăn Đivi nàng hãy trở về với Richà Samulé, anh nàng đi. Nàng còn ở lại đây thì anh nàng còn thêm căm phẫn. Công lao nàng đã an ủi, chăm sóc Rătna ta sẽ không bao giờ quên.
+\- Này Sapatăn Đivi nàng hãy trở về với Richa Samưlé, anh nàng đi. Nàng còn ở lại đây thì anh nàng còn thêm căm phần. Công lao nàng đã an ủi, chăm sóc Rătna ta sẽ không bao giờ quên.
 
 Công chúa Sapatăn Đivi nghe nói vậy, thì nhìn hoàng tử với đôi hàng lệ nhỏ, mà rằng:
 
-\- Thưa chàng, việc chàng đoái thương tới thân phận hẩm hiu của tiện thiếp hay không là tuỳ ở nơi lòng chàng, nhưng tiện thiếp xin được bày tỏ nỗi lòng chân thật này. Tuy là em ruột Samulé, nhưng tiện thiếp đã mạo muội đem lòng ngưỡng mộ, yêu mến chàng, kính mong được chàng ban cho ân huệ được ở lại với chị Rătna, cùng nâng khăn sửa túi cho chàng hôm sớm.
+\- Thưa chàng, việc chàng đoái thương tới thân phận hẩm hiu của tiện thiếp hay không là tuỳ ở nơi lòng chàng, nhưng tiện thiếp xin được bày tỏ nỗi lòng chân thật này. Tuy là em ruột Samưlé, nhưng tiện thiếp đã mạo muội đem lòng ngưỡng mộ, yêu mến chàng, kính mong được chàng ban cho ân huệ được ở lại với chị Rătna, cùng nâng khăn sửa túi cho chàng hôm sớm.
 
 Hoàng tử Tềwa Mừnô nghe nàng bày tỏ chân tình như vậy bèn nói cùng nàng :
 
@@ -3158,77 +3107,77 @@ Công chúa Sapatăn Đivi liền giơ hai tay lên trời mà rằng :
 
 Nghe lời thề độc một cách chân thật, hoàng tử thuận lòng cho công chúa Sapatăn Đivi được cùng kết nghĩa chị em với nàng Rătna.
 
-Sau đó vài hôm, hoàng tử Tềwa Mừnô truyền quân gia đến báo cho Richà Samưlé biết là công chúa Sapatăn Đivi đã thuận làm vợ mình.
+Sau đó vài hôm, hoàng tử Tềwa Mừnô truyền quân gia đến báo cho Richa Samưlé biết là công chúa Sapatăn Đivi đã thuận làm vợ mình.
 
-Khi nghe quân gia Tềwa Mừnô vào báo, Richà Samulé vô cùng căm giận, liền truyền lệnh triệu hồi quân sĩ chuẩn bị kéo quân rửa hận.
+Khi nghe quân gia Tềwa Mừnô vào báo, Richa Samưlé vô cùng căm giận, liền truyền lệnh triệu hồi quân sĩ chuẩn bị kéo quân rửa hận.
 
-Richà Kara Vănnă được tin, lập tức đến can gián rằng :
+Richa Kara Vănna được tin, lập tức đến can gián rằng :
 
-\- Này Richà Samulé, cháu không nên nóng giận trước chuyện binh đao. Tềwa Mừnô là một tướng tài giỏi như cháu đã biết rồi đấy, muốn thắng nó ta nên dùng quỷ kế thì hơn. Cháu hãy làm thân với Tềwa Mừnô mời nó đến dự tiệc coi như em rể, thế là ta có cách thắng được nó, cháu hiểu chưa ?
+\- Này Richa Samưlé, cháu không nên nóng giận trước chuyện binh đao. Tềwa Mừnô là một tướng tài giỏi như cháu đã biết rồi đấy, muốn thắng nó ta nên dùng quỷ kế thì hơn. Cháu hãy làm thân với Tềwa Mừnô mời nó đến dự tiệc coi như em rể, thế là ta có cách thắng được nó, cháu hiểu chưa ?
 
-Samulé nghe bày, cho đó là kế hay, liền cho quân hầu đến cầu xin được kết thân, nhận huynh đệ. Rồi ngỏ ý mời hoàng tử đến dự yến tiệc.
+Samưlé nghe bày, cho đó là kế hay, liền cho quân hầu đến cầu xin được kết thân, nhận huynh đệ. Rồi ngỏ ý mời hoàng tử đến dự yến tiệc.
 
 Hoàng tử Tềwa Mừnô tin lời mà chấp thuận không đắn đo.
 
-Lại nói về công chúa Ma Trăc Xa con vua Ku Rachô Mala, từ khi kết nghĩa cùng hoàng tử Tềwa Mừnô, đã sinh hạ một con trai tên là Ku Mala, bèn bàn cùng em gái là Tôn Ramai đem một số cung phi mỹ nữ dọn sang xứ Lăng Tarà để đoàn viên gia thất cùng hoàng tử Tềwa Mừnô và Ungcăl. Còn hung thần Xăng Gì khi biết Samulé đã cầu hoà với Têwa Mùnô thì cũng xin cáo từ.
+Lại nói về công chúa Ma Trắc Xa con vua Ku Rachô Mala, từ khi kết nghĩa cùng hoàng tử Tềwa Mừnô, đã sinh hạ một con trai tên là Ku Mala, bèn bàn cùng em gái là Tôn Ramai đem một số cung phi mỹ nữ dọn sang xứ Lăng Tarà để đoàn viên gia thất cùng hoàng tử Tềwa Mừnô và Ưngcăl. Còn hung thần Xăng Gì khi biết Samưlé đã cầu hoà với Tềwa Mừnô thì cũng xin cáo từ.
 
-Bốn nàng công chúa đều ra tạ ơn tiễn đưa Xăng Gì. Riêng hoàng tử Têwa Mùnô đích thân đưa tiễn hung thần đến nửa dặm đường mới quay lại.
+Bốn nàng công chúa đều ra tạ ơn tiễn đưa Xăng Gì. Riêng hoàng tử Tềwa Mừnô đích thân đưa tiễn hung thần đến nửa dặm đường mới quay lại.
 
-Lại nói về hoàng đế Samulé, theo kế độc của Richà Kara Vănnà, liền cho mở đại tiệc tiếp hoàng tử Têwa Mùnô. Samulé tỏ ra rất thân tình đón chàng. Khi đã bốc men say, đến tuần rượu cuối cùng thì Têwa Mùnô và Ungcải trúng độc, tâm thần hôn mê, hoảng loạn. Samulé đắc thắng truyền lệnh cho quân gia trói hai người vứt vào đống lửa định thiêu mất xác. Nhưng kỳ lạ thay, lửa đang cháy bỗng tắt ngấm. Samulé lại truyền lệnh đem hai người ra biển nhấn chìm làm mồi cho cá. Nhưng biển sâu là thế mà nước không chịu ngập. Samulé càng lồng lộn tức bực, bèn giao hai người cho tướng sư tử canh giữ. Rồi ra lệnh cho quân gia sang bắt các công chúa bên thành Lăng Tarà về định cưỡng bức làm vợ. Nhưng các nàng công chúa không thuận, lấy cớ xin được chịu tang chồng theo tập tục.
+Lại nói về hoàng đế Samưlé, theo kế độc của Richa Kara Vănna, liền cho mở đại tiệc tiếp hoàng tử Tềwa Mừnô. Samưlé tỏ ra rất thần tình đón chàng. Khi đã bốc men say, đến tuần rượu cuối cùng thì Tềwa Mừnô và Ưngcăl trúng độc, tầm thần hôn mê, hoảng loạn. Samưlé đắc thắng truyền lệnh cho quân gia trói hai người vứt vào đống lửa định thiêu mất xác. Nhưng kỳ lạ thay, lửa đang cháy bỗng tắt ngấm. Samưlé lại truyền lệnh đem hai người ra biển nhấn chìm làm mồi cho cá. Nhưng biển sâu là thế mà nước không chịu ngập. Samưlé càng lồng lộn tức bực, bèn giao hai người cho tướng sư tử canh giữ. Rồi ra lệnh cho quân gia sang bắt các công chúa bên thành Lăng Tarà về định cưỡng bức làm vợ. Nhưng các nàng cộng chúa không thuận, lấy cớ xin được chịu tang chồng theo tập tục.
 
 Tại quốc gia Grèng Gah có một con khổng long, thân dài đến trăm trượng. Khi nó há miệng thì hàm trên cao đến lưng trời. Cung điện của quốc gia này đều nằm trong miệng con khổng long. Đức vua này có một nàng công chúa nhan sắc chim sa cá lặn, tên là Jôtna, luôn luôn ở trên lầu ngự uyển. Nàng có phép kỳ lạ, hễ ai đã nhìn vào mắt nàng thì tức khắc tâm thần bị mê mẩn, không còn nhớ đến quê hương xứ sở, không thiết gì đến vợ con nữa. Jôtna đã mê hoặc không biết bao nhiêu hoàng tử xinh đẹp của nhiều quốc gia.
 
-Richà Samulé tìm cách giết hại Tềwa Mừnô và Ungcăl không được, nghe tin trên bèn cho quân gia đem hai người đến bỏ tại bờ giếng, nơi mà nàng công chúa Jôtna thường ngày đến tắm, những mong hai người sẽ bị công chúa làm cho mê mẩn mà quên quê cũ.
+Richa Samưlé tìm cách giết hại Tềwa Mừnô và Ưngcăl không được, nghe tin trên bèn cho quân gia đem hai người đến bỏ tại bờ giếng, nơi mà nàng công chúa Jôtna thường ngày đến tắm, những mong hai người sẽ bị công chúa làm cho mê mẩn mà quên quê cũ.
 
 Như thường lệ, hôm đó ra giếng tắm, nàng công chúa Jôtna bỗng thấy có hai chàng trai lạ nằm bất tỉnh ở nơi bờ giếng mà không rõ nguyên do. Thoáng nhìn qua, công chúa Jôtna đã đem lòng yêu mến hai người vì tướng mạo tuyệt mỹ của họ. Nàng lại gần xem xét, rồi phục thuốc hồi sinh cho hai người tỉnh lại. Hoàng từ Tềwa Mừnô khi được công chúa phục thuốc tỉnh lại, đang ngơ ngác chưa hiểu đây là nơi nào, thì thấy đứng ngay trước mặt mình một thiếu nữ như tiên nga giáng thế. Liền khi ấy, tâm thần hoàng tử bỗng bị mê man say đắm bởi nhan sắc lộng lẫy và đôi mắt đắm đuối của nàng, và quên hết mọi sự trên đời, chỉ những mong được nàng âu yếm.
 
-Công chúa Jôtna lại phục thuốc hồi sinh cho Ungcăl. Vừa tỉnh lại, đang cơn hốt hoảng, Ungcăl cắm đầu chạy một mạch mong thoát nạn. Chạy được một lúc lâu, chàng liền kêu tên hung thần Xăng Gì xin ứng cứu. Loáng mắt hung thần đã hiện đến. Xăng Gì hỏi Ungcăl có sự gì bất trắc xảy ra, mà phải gọi mình giúp sức. Ungcăl kể lại đầu đuôi cho hung thần nghe chuyện bị mắc mưu Samulé, rồi được hồi sinh, và Tềwa Mừnô đang bị bùa mê của công chúa Jôtna.
+Công chúa Jôtna lại phục thuốc hồi sinh cho Ưngcăl. Vừa tỉnh lại, đang cơn hốt hoảng, Ưngcăl cắm đầu chạy một mạch mong thoát nạn. Chạy được một lúc lâu, chàng liền kêu tên hung thần Xăng Gì xin ứng cứu. Loáng mắt hung thần đã hiện đến. Xăng Gì hỏi Ưngcăl có sự gì bất trắc xảy ra, mà phải gọi mình giúp sức. Ưngcăl kể lại đầu đuôi cho hung thần nghe chuyện bị mắc mưu Samưlé, rồi được hồi sinh, và Tềwa Mừnô đang bị bùa mê của công chúa Jôtna.
 
-Nghe Ungcăl kể xong, hung thần liền đến cầm tay Tềwa Mừnô và công chúa Jôtna ra khỏi kinh đô Grèng Gah, rồi dùng phép thần trừ bùa mê. Hoàng tử Tềwa Mừnô thoát nạn. Bị mất phép lạ, công chúa Jôtna cũng xin được theo chàng làm vợ.
+Nghe Ưngcăl kể xong, hung thần liền đến cầm tay Tềwa Mừnô và công chúa Jôtna ra khỏi kinh đô Grèng Gah, rồi dùng phép thần trừ bùa mê. Hoàng tử Tềwa Mừnô thoát nạn. Bị mất phép lạ, công chúa Jôtna cũng xin được theo chàng làm vợ.
 
-Nói về hoàng đế Richà Samulé, khi định cưỡng bức vợ Têwa Mùnô làm vợ mình không được, phải chờ mãn tang chồng, thì lấy làm bực mình lắm, nhưng không biết làm thế nào được đành thắc thỏm chờ đợi, ngồi đếm từng ngày một.
+Nói về hoàng đế Richa Samưlé, khi định cưỡng bức vợ Tềwa Mừnô làm vợ mình không được, phải chờ mãn tang chồng, thì lấy làm bực mình lắm, nhưng không biết làm thế nào được đành thắc thỏm chờ đợi, ngồi đếm từng ngày một.
 
-Rồi cũng hết hạn, Samulé liền cùng một số quân tướng sang xứ Lãng Tara để gặp các nàng. Nhưng vừa đặt chân tới nơi thì Samulé đã trông thấy Têwa Mùnô ngồi bệ vệ trên ngai vàng, đang trò chuyện cùng năm nàng công chúa kiều diễm. Samulé tức lồng lộn, giậm chân thét lên như điên, truyền lệnh cho quân sĩ bao vây bốn mặt thành của Têwa Mùnô, quyết nghênh chiến một mất một còn.
+Rồi cũng hết hạn, Samưlé liền cùng một số quân tướng sang xứ Lăng Tarà để gặp các nàng. Nhưng vừa đặt chân tới nơi thì Samưlé đã trông thấy Tềwa Mừnô ngồi bệ vệ trên ngai vàng, đang trò chuyện cùng năm nàng công chúa kiều diễm. Samưlé tức lồng lộn, giậm chân thét lên như điên, truyền lệnh cho quân sĩ bao vây bốn mặt thành của Tềwa Mừnô, quyết nghênh chiến một mất một còn.
 
-Mặc cho Samulé hò hét như điên, Têwa Mùnô vẫn thản nhiên xem như không có sự gì xảy ra.
+Mặc cho Samưlé hò hét như điên, Tềwa Mừnô vẫn thản nhiên xem như không có sự gì xảy ra.
 
-Cũng như lần trước, lần này Ungcāl lại xin Têwa Mùnô được ra ứng chiến trước.
+Cũng như lần trước, lần này Ưngcăl lại xin Tềwa Mừnô được ra ứng chiến trước.
 
-Mặc dù phía Samulé quân đông, nhiều tướng có tài cao phép lạ, như Ari Caphoa Ri, Brah Măna... mà bên Ungcāl chỉ có một mình, nhưng hai bên giao chiến với nhau rất kịch liệt. Sau ba ngày đêm liên tục giao tranh, cuối cùng quân của Samulé vẫn bị thất trận.
+Mặc dù phía Samưlé quân đông, nhiều tướng có tài cao phép lạ, như Ari Caphoa Ri, Brah Mănna... mà bên Ưngcăl chỉ có một mình, nhưng hai bên giao chiến với nhau rất kịch liệt. Sau ba ngày đêm liên tục giao tranh, cuối cùng quân của Samưlé vẫn bị thất trận.
 
-Người em ruột Samulé là Ari Cấy Caphoa Ri thấy anh mình bị thua thì lấy làm căm phần, bèn cầm quân xuất trận để rửa thù.
+Người em ruột Samưlé là Ari Cấy Caphoa Ri thấy anh mình bị thua thì lấy làm căm phần, bèn cầm quân xuất trận để rửa thù.
 
-Ari Cấy Caphoa Ri đầu đội kim khôi, mình mặc áo giáp vàng, tay cầm côn, phóng nhanh từ ngoài lao vào nhằm Ungcăl giáng mạnh côn. Nhưng khi cây côn vừa chạm vào Ungcăl thì tự nhiên lửa toé ra, chiếu sáng như chớp giật liên hồi. Hai bên giao tranh từ sáng cho đến trưa, quân sĩ của Caphoa Ri tử vong không biết bao nhiêu mà kể. Lừa lúc Caphoa Ri sơ hở, Ungcăl dùng phép thần thông giết chết Ari Cấy Caphoa Ri rớt từ trên không xuống đất, Ungcăl bắt con sói thần và cây côn của Caphoa Ri đem nạp cho hoàng tử Tềwa Mừnô.
+Ari Cấy Caphoa Ri đầu đội kim khôi, mình mặc áo giáp vàng, tay cầm côn, phóng nhanh từ ngoài lao vào nhằm Ưngcăl giáng mạnh côn. Nhưng khi cây côn vừa chạm vào Ưngcăl thì tự nhiên lửa toé ra, chiếu sáng như chớp giật liên hồi. Hai bên giao tranh từ sáng cho đến trưa, quân sĩ của Caphoa Ri tử vong không biết bao nhiêu mà kể. Lừa lúc Caphoa Ri sơ hở, Ưngcăl dùng phép thần thông giết chết Ari Cấy Caphoa Ri rớt từ trên không xuống đất, Ưngcăl bắt con sói thần và cây côn của Caphoa Ri đem nạp cho hoàng tử Tềwa Mừnô.
 
-Richà Kara Vănnna thấy chúa mình bị tử trận, liền cưỡi con long mã, miệng đọc thần chú, xông vào định giết Ungcăl để trả thù. Nhưng hung thần Xăng Gì đã trông thấy, liền hoá phép thần thông chọi với Kara Vănnna, cứu nguy cho Ungcăl. Kara Vănnna khi thấy hung thần Xăng Gì xông vào thì hoá ra ngọn lửa bốc cháy ngùn ngụt định thiêu sống hung thần. Nhưng hung thần đã bay vút ra ngoài vòng lửa, hoá mưa dập tắt ngọn lửa. Hai bên giao tranh suốt bảy ngày bảy đêm liền làm cho bầu trời trở nên u ám mịt mù, bàn dân lo sợ dắt nhau lánh nạn. Cuối cùng hung thần Xăng Gì đã dùng kế bắt được Kara Vănna, xé thây nó làm đôi, hứng máu uống cho hả giận, đoạn cầm nửa tấm thân nó ném mạnh vào thành của Kara Vănna, một nửa ném vào giữa sân rồng của chúng.
+Richa Kara Vănna thấy chúa mình bị tử trận, liền cưỡi con long mã, miệng đọc thần chú, xông vào định giết Ưngcăl để trả thù. Nhưng hung thần Xăng Gì đã trông thấy, liền hoá phép thần thông chọi với Kara Vănna, cứu nguy cho Ưngcăl. Kara Vănna khi thấy hung thần Xăng Gì xông vào thì hoá ra ngọn lửa bốc cháy ngùn ngụt định thiêu sống hung thần. Nhưng hung thần đã bay vút ra ngoài vòng lửa, hoá mưa dập tắt ngọn lửa. Hai bên giao tranh suốt bảy ngày bảy đêm liền làm cho bầu trời trở nên u ám mịt mù, bàn dân lo sợ dắt nhau lánh nạn. Cuối cùng hung thần Xăng Gì đã dùng kế bắt được Kara Vănna, xé thây nó làm đôi, hứng máu uống cho hả giận, đoạn cầm nửa tấm thân nó ném mạnh vào thành của Kara Vănna, một nửa ném vào giữa sân rồng của chúng.
 
-Richà Samưlé càng lồng lộn căm phẫn, liền khoác cung tên, phóng lên mình con rồng tía, đem đại binh xông ra chiến trận.
+Richa Samưlé càng lồng lộn căm phẫn, liền khoác cung tên, phóng lên mình con rồng tía, đem đại binh xông ra chiến trận.
 
 Hoàng tử Tềwa Mừnô ngồi trên thành nhìn thấy Samưlé đem đại quân đến, liền cầm đoản đao phóng lến ngựa chờ sẵn. Các nàng công chúa cũng xin chồng được theo ra chiến trường, mỗi người tay cầm một con dao găm hộ mệnh.
 
-Các nàng giơ cao mũi dao chỉ về phía Samulé mà rằng :
+Các nàng giơ cao mũi dao chỉ về phía Samưlé mà rằng :
 
 \- Samưlé mi hãy nhìn kỹ những mũi dao này, nó sẽ không để cho mi được yên đâu.
 
-Vừa lúc đó một tiếng nổ vang như sét đánh. Mọi người đang ngơ ngác chưa hiểu vì sao, thì hoàng tử Têwa Mùnô đã cúi nhặt mũi tên vàng của Samulê vừa bị gãy làm đôi, văng xuống dưới chân chàng, mỉm cười diễu cợt.
+Vừa lúc đó một tiếng nổ vang như sét đánh. Mọi người đang ngơ ngác chưa hiểu vì sao, thì hoàng tử Tềwa Mừnô đã cúi nhặt mũi tên vàng của Samưlé vừa bị gãy làm đôi, văng xuống dưới chân chàng, mỉm cười diễu cợt.
 
-Không để cho Samulê kịp bắn thêm phát nào nữa, Têwa Mùnô đã vung mạnh đoản đao giáng xuống định xả Samulê làm đôi. Nhưng lập tức một tia lửa loé ra. Thì ra cả hai đều tài phép cao cường. Cuộc chiến kéo dài suốt bẩy ngày đêm vẫn chưa phân thắng bại. Hai người lại xuống giao tranh giữa rốn biển trong bảy ngày đêm nữa, làm cho các loài tôm cá chết vô kể. Rồi hai người lại hoá thành hai con khổng long tiếp tục giao chiến, ở dưới mặt đất ba ngày đêm nữa, làm cho núi lở, đất long ầm ầm. Têwa Mùnô càng đánh càng dẻo.
+Không để cho Samưlé kịp bắn thêm phát nào nữa, Tềwa Mừnô đã vung mạnh đoản đao giáng xuống định xả Samưlé làm đôi. Nhưng lập tức một tia lửa loé ra. Thì ra cả hai đều tài phép cao cường. Cuộc chiến kéo dài suốt bẩy ngày đêm vẫn chưa phân thắng bại. Hai người lại xuống giao tranh giữa rốn biển trong bảy ngày đêm nữa, làm cho các loài tôm cá chết vô kể. Rồi hai người lại hoá thành hai con khổng long tiếp tục giao chiến, ở dưới mặt đất ba ngày đêm nữa, làm cho núi lở, đất long ầm ầm. Tềwa Mừnô càng đánh càng dẻo.
 
-Sau cùng Samulê bị tử trận.
+Sau cùng Samưlé bị tử trận.
 
 Công chúa Sapatăn Đivi khi nhìn thấy tử thi người anh thì lấy làm thương xót, nàng khóc lóc rất thảm thiết.
 
-Tiếng nàng khóc than thấu đến thiên đình. Ngọc hoàng liền sai thiên sứ xuống xem sự tình rồi cứu Samulê sống lại.
+Tiếng nàng khóc than thấu đến thiên đình. Ngọc hoàng liền sai thiên sứ xuống xem sự tình rồi cứu Samưlé sống lại.
 
-Samulé vừa được cứu sống, liền vùng dậy, nghiến răng gầm thét :
+Samưlé vừa được cứu sống, liền vùng dậy, nghiến răng gầm thét :
 
 \- Tềwa Mừnô, lần này ta quyết giết mi cho được, xứ sở mi ta sẽ san bằng như bình địa để rửa thù.
 
-Vừa dứt lời, Samulé liền xông vào đánh Tềwa Mừnô. Cả hai người cùng phi lên không trung giao tranh với nhau, gươm khiên chạm nhau chan chát làm cho sấm sét liên hồi, trời long đất lở, sóng gió ẩm ầm, bầu trời mịt mù u ám không còn biết đâu là ngày, đâu là đêm nữa. Thế gian hoảng loạn.
+Vừa dứt lời, Samưlé liền xông vào đánh Tềwa Mừnô. Cả hai người cùng phi lên không trung giao tranh với nhau, gươm khiên chạm nhau chan chát làm cho sấm sét liên hồi, trời long đất lở, sóng gió ẩm ầm, bầu trời mịt mù u ám không còn biết đâu là ngày, đâu là đêm nữa. Thế gian hoảng loạn.
 
-Ngọc hoàng thấy vậy lại cho thiên sứ xuống bắt hai người ngừng chiến, rồi cho gọi cả hai đến hỏi vì cớ gì lại giao tranh khốc liệt như vậy. Sau khi nghe hai người tâu trình, Ngọc hoàng biết chỉ vì việc tranh chấp công chúa Rătna làm vợ, bèn khuyên hai người nên dàn hoà. Ngọc hoàng dùng phép rút bóng của nàng Rătna biến thành một công chúa Rătna khác trao cho Samulé rồi bắt hai người về trần.
+Ngọc hoàng thấy vậy lại cho thiên sứ xuống bắt hai người ngừng chiến, rồi cho gọi cả hai đến hỏi vì cớ gì lại giao tranh khốc liệt như vậy. Sau khi nghe hai người tâu trình, Ngọc hoàng biết chỉ vì việc tranh chấp công chúa Rătna làm vợ, bèn khuyên hai người nên dàn hoà. Ngọc hoàng dùng phép rút bóng của nàng Rătna biến thành một công chúa Rătna khác trao cho Samưlé rồi bắt hai người về trần.
 
-Tềwa Mừnô và Samulé biết không thể cãi lại lệnh trời nên cùng nhau cúi đầu lạy tạ xin vâng mệnh.
+Tềwa Mừnô và Samưlé biết không thể cãi lại lệnh trời nên cùng nhau cúi đầu lạy tạ xin vâng mệnh.
 
 Sau khi tề tựu trùng phùng ở xứ Lăng Tarà ít lâu, hoàng tử Tềwa Mừnô xin phép vua cùng hoàng hậu cho mình và năm người vợ được trở về xứ Xri Inra để phụng dưỡng mẹ già.
 
@@ -3236,7 +3185,7 @@ Sau khi tề tựu trùng phùng ở xứ Lăng Tarà ít lâu, hoàng tử Tề
 
 Các quan tướng cùng binh sĩ trấn giữ cửa ải xứ Xri Inra tự nhiên thấy xuất hiện một đoàn thuyền lao về xứ mình thì hoảng sợ, vội phi báo về triều xin được điều binh khiển tướng đi tiếp chiến. Lúc đó hung thần Xăng Gì đang ở trên không trung trông thấy liền bay tới để báo tin. Hung thần biến thành một vệ sĩ khổng lồ, có đôi cánh rất to, bay đến trước mặt tướng sĩ của quân Xri Inra kêu to:
 
-\- Hỡi các vị tướng anh dũng của xứ Xri Inra, hãy nghe ta dừng binh, hạ vũ khí xuống. Đoàn thuyền đang lao lại phía ta chính là hoàng tử Tềwa Mừnô và Ungcăl, người mà ngày đêm các vị trông chờ.
+\- Hỡi các vị tướng anh dũng của xứ Xri Inra, hãy nghe ta dừng binh, hạ vũ khí xuống. Đoàn thuyền đang lao lại phía ta chính là hoàng tử Tềwa Mừnô và Ưngcăl, người mà ngày đêm các vị trông chờ.
 
 Các tướng sĩ Xri Inra vẫn nửa tin nửa ngờ, bởi tin vui đến quá đột ngột, nên bảo vệ sĩ khổng lồ (tức hung thần Xăng Gì) nếu quả đúng như vậy xin thề một tiếng độc làm tin. Vệ sĩ khổng lồ liền ngó lên trời thề một câu rất độc. Các bá quan chư tướng thấy vậy rất lấy làm mừng vội quỳ rạp cả xuống để đón chờ hoàng tử Tềwa Mừnô.
 
@@ -3254,13 +3203,13 @@ Tất cả bá quan văn võ đều reo hò tán đồng, rồi tung hô hoàng 
 
 Đến khi chọn người làm hoàng hậu, các công chúa đều thuận tình nhường Rătna, còn lại xin làm thứ phi.
 
-Sau lễ đăng quang, Tềwa Mừnô phong cho Ungcăl giữ chức quan đại thần trông coi việc binh.
+Sau lễ đăng quang, Tềwa Mừnô phong cho Ưngcăl giữ chức quan đại thần trông coi việc binh.
 
 Thấy mọi việc đã được sắp xếp yên bình, hung thần Xăng Gì xin ra mắt tân hoàng đế Xri Inra để được cáo lui.
 
-Biết không thể có cách gì giữ hung thần Xăng Gì ở lại được, nên Têwa Mùrnô và Ưngcăl cùng hoàng hậu cũng như các quý phi đều đồng tình mở đại tiệc làm lễ tạ ơn đưa tiễn hung thần rất long trọng. Tương truyền rằng lúc ấy nhằm tháng tư năm tý nhất điểm (lịch Chăm).
+Biết không thể có cách gì giữ hung thần Xăng Gì ở lại được, nên Tềwa Mừnô và Ưngcăl cùng hoàng hậu cùng như các quý phi đều đồng tình mở đại tiệc làm lễ tạ ơn đưa tiễn hung thần rất long trọng. Tương truyền rằng lúc ấy nhằm tháng tư năm tý nhất điểm (lịch Chăm).
 
-## 34. Hoàng tử UmRúp và cô gái chăn dệ(!)[^hoang-tu-umrup-va-co-gai-chan-de-p316-1]
+## 34. Hoàng tử UmRúp và cô gái chăn dê[^hoang-tu-umrup-va-co-gai-chan-de-p316-1]
 
 <!-- pdf 316-409 · heading: HOÀNG TỬ UMRÚP VÀ CÔ GÁI CHĂN DÊ -->
 
@@ -3268,32 +3217,13 @@ Vua Itá Ita giữ ngôi trị nước đến năm con rồng thì sinh được
 
 Hoàng tử Umrúp sáng dạ khác người, thông minh không ai bì kịp. Chàng có tài đọc một chữ hiểu một trang; đọc một trang, hiểu một quyển; đọc một quyển hiểu cả truyện ghi trong bộ sách. Năm lên sáu tuổi Umrúp đã đọc hết cả sách vở trong triều. Chàng thích nhất là quyển sách viết về Pôpì, vị thần ở giữa lòng đất, có sức mạnh giẫm phía đông, núi phía tây rung rinh, nghiêng ngả; giẫm phía tây, mặt nước biển đông chao sóng rập rình. Một hôm Umrúp hỏi cha:
 
-\- Con muốn giỏi như Pôpì mà sao chưa được?  
-Con muốn giẫm phía đông, núi đổ gông xuống  
-lấp biển... Con muốn giỏi hơn Pôpì mười lần,  
-thì phải làm thế nào ?
+\- Con muốn giỏi như Pôpì mà sao chưa được? Con muốn giẫm phía đông, núi đổ gông xuống lấp biển... Con muốn giỏi hơn Pôpì mười lần, thì phải làm thế nào ?
 
-Thấy con cả chí, gan bền, óc sáng, khôn nhanh,  
-vua quý hơn kho ngọc, kho vàng. Vua bảo Umrúp:
+Thấy con cả chí, gan bền, óc sáng, khôn nhanh, vua quý hơn kho ngọc, kho vàng. Vua bảo Umrúp:
 
-\- Muốn giỏi như Pôpì ; muốn đạp phía đông  
-gồng đất phía tây ; muốn đặt bàn chân ở phía  
-nam mà đất phía bắc rung rinh sụp lở, thì còn  
-phải học, học nữa... Học cho đến khi nào nhìn  
-lên trời, biết có mấy vì sao, nhìn mặt đất, biết  
-có bao nhiêu núi non, sông, suối, cây cỏ, nhìn  
-xuống biển, biết nước sâu mấy sải, mấy sào...  
-thì con giỏi như Pôpì.
+\- Muốn giỏi như Pôpì ; muốn đạp phía đông gồng đất phía tây ; muốn đặt bàn chân ở phía nam mà đất phía bắc rung rinh sụp lở, thì còn phải học, học nữa... Học cho đến khi nào nhìn lên trời, biết có mấy vì sao, nhìn mặt đất, biết có bao nhiêu núi non, sông, suối, cây cỏ, nhìn xuống biển, biết nước sâu mấy sải, mấy sào... thì con giỏi như Pôpì.
 
-Umrúp ngồi trong kho sách, đọc cả ngày lẫn  
-dêm trừ khi ăn và lúc ngủ. Vua không cho chàng  
-ra khỏi thành, ngày ngày chiều chuộng, nâng  
-niu. Khi ăn cũng cho người canh, lúc ngủ cũng  
-có người nâng giấc. Chàng đi một bước đều có  
-quân hầu đưa trước, đón sau, ít khi chàng được  
-tuỳ ý đi một mình. Một hôm trời dịu mát, nắng  
-tràn qua thành, gió hiu hiu thổi, Umrúp thấy  
-lòng nao nao, chân muốn bước, mắt muốn nhìn khoảng trời xa lạ. Chàng liền gấp sách, trèo lên ngọn tháp, nhìn ra ngoài thành. Bấy giờ, lúa mùa đang chín. Đồng lúa vàng óng như tấm vải nhuộm nghệ. Ở phía nam, người đi gặt đông hơn đám cưới, người đi mót đông hơn đám hội. Sân đập lúa ở giữa đồng nhiều hơn sân nhà trong làng. Những đống lúa bó xếp vuông vuông, cao cao. Những đống thóc vun gần nhau cao như những ngọn đồi, vàng thẫm như con ong mật, vàng đậm như con ong ruồi. Hàng nghìn chiếc xe chở lúa đi ngược, đi xuôi.
+Umrúp ngồi trong kho sách, đọc cả ngày lẫn đêm trừ khi ăn và lúc ngủ. Vua không cho chàng ra khỏi thành, ngày ngày chiều chuộng, nâng niu. Khi ăn cũng cho người canh, lúc ngủ cũng có người nâng giấc. Chàng đi một bước đều có quân hầu đưa trước, đón sau, ít khi chàng được tuỳ ý đi một mình. Một hôm trời dịu mát, nắng tràn qua thành, gió hiu hiu thổi, Umrúp thấy lòng nao nao, chân muốn bước, mắt muốn nhìn khoảng trời xa lạ. Chàng liền gấp sách, trèo lên ngọn tháp, nhìn ra ngoài thành. Bấy giờ, lúa mùa đang chín. Đồng lúa vàng óng như tấm vải nhuộm nghệ. Ở phía nam, người đi gặt đông hơn đám cưới, người đi mót đông hơn đám hội. Sân đập lúa ở giữa đồng nhiều hơn sân nhà trong làng. Những đống lúa bó xếp vuông vuông, cao cao. Những đống thóc vun gần nhau cao như những ngọn đồi, vàng thẫm như con ong mật, vàng đậm như con ong ruồi. Hàng nghìn chiếc xe chở lúa đi ngược, đi xuôi.
 
 Ở phía bắc, những đám ruộng vừa gặt đã được cày, gieo. Người đi cày đông hơn người đi chợ. Nón người nọ chạm vai người kia. Ngón chân người đi sau chạm gót chân người đi trước. Trâu kéo cày đi sát nhau như trâu nhốt trong chuồng. Sừng con nọ cọ vào cổ con kia. Con này đập đuôi, trúng đùi con kia.
 
@@ -3341,8 +3271,6 @@ nước uống, chạy vụt ra khỏi thành đi tìm anh chăn dê. Hoàng h�
 
 Vua thét quan, quan thét quân, ẩm ĩ cả triều đình. Lính cầm gươm lên ngựa, tốp chạy ngược, tốp chạy xuôi, tốp vào hướng nam, tốp ra hướng bắc.
 
-* * *
-
 Umrúp xách chiếc ấm vàng, chạy miết về phía đồng cỏ. Mương ngòi chi chít, chỗ này năm ba con nhập dòng, chỗ kia một con rẽ năm, rẽ bảy. Con sông lớn chảy ngoằn ngoèo như con rắn ăn no. Nước sông lượn qua đập thấp, tràn qua đập cao, luồn trong rừng cây xum xuê, rậm rạp, toả ra cánh đồng bát ngát bao la. Đến đây, dòng sông rẽ đôi, ôm hòn cù lao vào giữa.
 
 Hòn cù lao thon như quả thơm (dứa). Cây trên hòn cù lao lá xanh như lá mạ. Nước dưới chân cù lao trong như sương, soi rõ bóng người, nhìn thấy con cá lội, con tôm bơi. Xung quanh hòn cù lao có cây cao bóng mát. Dưới bóng cây có những phiến đá vuông vuông tròn tròn, trơn như ngạch cửa. Một cô gái đuổi dê đến đây chăn. Dê ăn cỏ trên bờ sông, cô ngồi trên phiến đá. Mái tóc cô buông xuống, mềm mại như nước chảy xuôi. Mặt cô thon như quả dừa bổ đôi, má ửng hồng như quả bông non. Răng nhỏ như hạt lựu, trắng và đều như hai hàng ngô nếp. Môi đỏ như mới nhai trầu. Hai hàng mi cong như hai lá lúa. Hai mắt tròn và đen như hai quả xay. Đứng gần trông cô vui, đứng xa trông cô càng đẹp. Umrúp đến ngồi bên cô gái, nói lời yêu thương. Nhưng chuyện chưa bén, cô gái chưa vui, chưa cười, thì quân lính đã giục ngựa chạy đến. Umrúp nói to :
@@ -3361,7 +3289,7 @@ Mặt trời đã chênh chếch. Người đi cày ra đồng. Người đi đ�
 
 Umrúp ngồi dưới bóng cây thị. Cô gái ngồi gần bên. Anh chăn dê cho chàng con chim vàng cũng đến đó ngồi nghỉ mát. Umrúp kể cho hai người nghe chuyện Pôpì, Pôli, Pôloá. Chàng càng kể, chuyện càng hay. Anh chăn dê không muốn về. Cô gái càng nghe, càng ngồi xích lại gần chàng. Từ bên kia sông, có hai người đi lại, người trẻ dáng cháu, người già dáng ông. Râu ông già dài đến bụng, tóc bạc trắng như mớ bông, mà lưng chưa còng, mắt sáng hơn hai vì sao. Ông kêu khát. Umrúp rót nước trong ấm vàng ra mời. Quân lính đi tìm chàng sắp đến nơi. Tiếng quân hò dậy sóng, vang đến gốc cây. Umrúp chưa biết tính sao, thì ông già kịp cho con chim vàng thêm trí khôn, thêm lòng thương chủ : vẽ thêm trên vành ấm một lá bùa, và hoá phép cho cô gái chăn dê nhỏ lại.
 
-Ông già có đôi mắt sáng như sao chính là thần Pôpi. Thần đưa tiểu đồng đi chơi qua đây, biết chuyện chàng và cô gái chăn dê có nhiều trắc trở, nên hoá phép giúp hai người. Lá bùa của thần làm cho chiếc ấm vàng đốt không cháy, đập không vỡ, dìm xuống nước không chìm. Con chim vàng có đủ sức bay xa hết đỉnh của trời, hết ngọn của đất ; có đủ trí khôn tránh mọi mũi tên. Umrúp nhìn lại, thấy cô gái chăn dê đã ngồi lọt trong chiếc ấm vàng. Chàng ngơ ngác, chưa hiểu sao thì ông già và cậu tiểu đồng đã biến mất. Chàng vừa quỳ xuống chưa kịp tạ ơn vị thần thì quân lính đã ập đến, bắt chàng đặt lên lưng ngựa, giật chiếc ấm vàng, bắt anh chăn dê trói lại, đem về triều.
+Ông già có đôi mắt sáng như sao chính là thần Pôpì. Thần đưa tiểu đồng đi chơi qua đây, biết chuyện chàng và cô gái chăn dê có nhiều trắc trở, nên hoá phép giúp hai người. Lá bùa của thần làm cho chiếc ấm vàng đốt không cháy, đập không vỡ, dìm xuống nước không chìm. Con chim vàng có đủ sức bay xa hết đỉnh của trời, hết ngọn của đất ; có đủ trí khôn tránh mọi mũi tên. Umrúp nhìn lại, thấy cô gái chăn dê đã ngồi lọt trong chiếc ấm vàng. Chàng ngơ ngác, chưa hiểu sao thì ông già và cậu tiểu đồng đã biến mất. Chàng vừa quỳ xuống chưa kịp tạ ơn vị thần thì quân lính đã ập đến, bắt chàng đặt lên lưng ngựa, giật chiếc ấm vàng, bắt anh chăn dê trói lại, đem về triều.
 
 Mặt vua vẫn còn nhăn, trán vua vẫn còn giật, mắt vua trợn. Vua giật chiếc ấm vàng ném vào xó, mà không biết có cô gái chăn dê ở bên trong. Vua quát, rách cả khoé mồm :
 
@@ -3387,8 +3315,6 @@ Umrúp trả lời :
 
 Vua đá đổ mâm cơm, bỏ Umrúp đói thêm hai ngày. Con chim vàng đi tha về cho chàng hoa thơm, quả chín. Nhưng Umrúp bị nhốt sâu trong cung, con chim không vào được, chỉ bay trên cao, hót cho chủ nghe. Umrúp bị đói, bụng ép vào lưng, mồm đắng, lưỡi khô. Nhưng nghe tiếng chim vàng hót, chàng nhớ cô gái chăn dê, lưỡi đỡ đắng, mồm đỡ khát. Ngày thứ tư, Umrúp vẫn không ăn. Vua sợ chàng chết đói, không dám nhốt nữa. Lại muốn cho chàng biết khổ, không dám theo người chăn dê, vua bắt chàng thay lính đi chăn dê. Umrúp rất mừng. Chàng vào buồng mẹ, lấy chiếc ấm vàng, đuổi dê đi chăn để được trò chuyện với cô gái trong chiếc ấm vàng, được trông thấy cảnh sông dài, trời rộng, núi cao.
 
-* * *
-
 Đàn dê của vua đông hơn nghìn con. Umrúp đuổi đàn dê lên đồng cỏ, xách ấm vàng vào ngồi dưới bóng cây thị. Cây thị to, quả trĩu cành, chín vàng, vỏ mỏng. Mùi thị thơm bay lẫn trong gió. Con chim vàng vui, hót như tiếng sáo. Gió thổi vi vu như kéo đàn. Suối nước chảy róc rách như ai thì thào nói chuyện. Umrúp cũng nói chuyện với cô gái trong chiếc ấm vàng.
 
 Nhờ phép của Pôpì, cô gái không ăn, không uống mà không đói, không khát. Người cô bé lại tí xíu, đi lại đứng ngồi được trong chiếc ấm, mà xinh đẹp không kém trước. Da cô mịn, như quả xay đẫm sương. Mặt ửng đỏ như quả dâu da[^hoang-tu-umrup-va-co-gai-chan-de-p330-1] đang chín bói. Môi mọng như da quả màng tang[^hoang-tu-umrup-va-co-gai-chan-de-p330-2] ướt như múi bưởi đào bị dập. Tóc cô mềm như tơ, đen như mun, nhẹ như mạng nhện, óng ánh như cánh ong chói mặt trời. Umrúp cất tiếng hỏi:
@@ -3403,7 +3329,7 @@ Chàng kể chuyện Pôpì cho cô gái nghe. Cô hỏi Umrúp :
 
 \- Chàng là con vua, học rộng hiểu nhiều, biết được vị thần nào lắm tài nhiều phép, sao không cầu thần cứu hộ tôi ra khỏi chiếc ấm?
 
-Umrúp vẫn chưa biết thần Pôpì đã giúp mình, nay muốn cô gái chăn dê bước ra khỏi chiếc ấm vàng, chàng lại khấn nhờ thần Pôpi. Thần Pôpì đã về giữa lòng đất, nói vọng lên :
+Umrúp vẫn chưa biết thần Pôpì đã giúp mình, nay muốn cô gái chăn dê bước ra khỏi chiếc ấm vàng, chàng lại khấn nhờ thần Pôpì. Thần Pôpì đã về giữa lòng đất, nói vọng lên :
 
 \- Chưa được... hỡi hoàng tử Umrúp ! Chuyện những năm sau, không thể làm được bây giờ. Không ở trong chiếc ấm vàng người chàng yêu thương không thể sống được. Điều chàng muốn bây giờ, có hại cho chàng ngay tức khắc !
 
@@ -3421,13 +3347,11 @@ Vua chạy lại ghé mắt nhìn. Trông thấy cô gái chăn dê, vua giẫm 
 
 \- Con mọi rợ ! Con rách rưới ! Mày làm cho hoàng tử bỏ triều, làm cho con ta quên cha, quên mẹ ! Tao phải giết !
 
-Vua đạp chân lên chiếc ấm, đưa hai tay định nắm cô gái lôi ra. Nhờ có bùa thần Pôpi, bàn tay vua không đút lọt qua miệng ấm. Vua trợn mắt, cầm cây gậy chọc vào. Đầu gậy trượt ra. Vua quẵng gậy, đá chiếc ấm, sai quân lính làm thay mình. Tất cả số lính theo hầu vua, chia làm hai. Một nửa giữ chiếc ấm, một nửa thay nhau thò tay định nắm cô gái chăn dê lôi ra. Nhưng không bàn tay nào thò được vào miệng chiếc ấm vàng. Chiếc ấm bị lính xách vào thành, cho voi chà, ngựa xé. Hai con voi to đạp chiếc ấm không vỡ. Quân lính buộc vòi, buộc quai chiếc ấm, cho bốn con ngựa chia đôi, kéo ngược. Chiếc ấm vẫn nguyên lành. Vua sai đốt mười xe củi, ném chiếc ấm vào.
+Vua đạp chân lên chiếc ấm, đưa hai tay định nắm cô gái lôi ra. Nhờ có bùa thần Pôpì, bàn tay vua không đút lọt qua miệng ấm. Vua trợn mắt, cầm cây gậy chọc vào. Đầu gậy trượt ra. Vua quẵng gậy, đá chiếc ấm, sai quân lính làm thay mình. Tất cả số lính theo hầu vua, chia làm hai. Một nửa giữ chiếc ấm, một nửa thay nhau thò tay định nắm cô gái chăn dê lôi ra. Nhưng không bàn tay nào thò được vào miệng chiếc ấm vàng. Chiếc ấm bị lính xách vào thành, cho voi chà, ngựa xé. Hai con voi to đạp chiếc ấm không vỡ. Quân lính buộc vòi, buộc quai chiếc ấm, cho bốn con ngựa chia đôi, kéo ngược. Chiếc ấm vẫn nguyên lành. Vua sai đốt mười xe củi, ném chiếc ấm vào.
 
 Chiếc ấm không cháy. Vua tự tay ném chiếc ấm xuống hồ. Chiếc ấm không chìm. Quân lính lấy đá, lấy gạch ném bên trên, chiếc ấm chỉ lật ngược, quay vòng mà không chìm, không vỡ.
 
 Phá không nổi chiếc ấm, giết không được cô gái chăn dê, vua càng tức giận. Tay vua run run, mắt vua chớp chớp, môi vua trề ra, co vào. Vua sai lính ném chiếc ấm vào kho, khóá chặt cửa, bắt lính gác ba lớp bên trong, bảy lớp bên ngoài.
-
-* * *
 
 Cô gái chăn dê bị vua hành hạ. Con chim vàng buồn không hát, không múa, thấy sâu không mổ, thấy trái chín không ăn lông rụng gần hết. Umrúp cũng bỏ cơm, bỏ nước tóc xoã phủ mặt, vai gầy nhô xương. Chàng rang một bao bỏng, vác lên vai, đầu đội nón rách, tay cầm gậy tre, tay đỡ con chim vàng, bỏ kinh thành quyết lòng đi tìm cách cứu cô gái.
 
@@ -3456,8 +3380,6 @@ Umrúp tạ ơn trước, kể chuyện vua hành hạ cô gái chăn dê, nhố
 \- Chuyện ấy ta đã biết ! Chàng cứ trở lại đường cũ, về chốn xưa. Lúc nào cần gì, cứ gọi tên ta mà hỏi, khắc có thứ ấy.
 
 Ông già vụt biến mất. Ngôi nhà cũng biến theo. Umrúp muốn hỏi thêm nhiều điều, nhưng đã thấy mình đứng trơ trơ trên mặt đất, giữa rừng. Chàng trèo lên cây cao nhìn hướng, tìm đường trở lại cung vua.
-
-* * *
 
 Vắng Umrúp, hoàng hậu nhớ con. Thân bà gầy khô như con ve, khóc hết nước mắt. Vua cũng buồn, thức nhiều hơn ngủ, uống rượu nhiều hơn ăn cơm. Quan, quân cũng buồn lây. Triều đình lặng lẽ như có đám tang. Hôm nay Umrúp về, hoàng hậu lại khóc mừng. Vua cười chảy nước mắt. Hoàng hậu kéo Umrúp vào lòng :
 
@@ -3514,10 +3436,6 @@ Nước cạn ngay tức khắc. Umrúp nằm trên mặt đất. Vua lại sai 
 
 \- Quân lính đâu? Đem Umrúp vào rừng sâu, buộc vào gốc cây to, đắp lên trên chín lớp đất dầy.
 
-⚠ ai-missed? tt Ũ
-
-* * *
-
 Vua chôn sống con. Quan lớn thở ra, quan bé lắc đầu, lính khóc thầm. Triều đình im lặng như đêm đang ngủ. Hoàng hậu vật mình than thở :
 
 \- Hỡi trời ! Hỡi đất ! Hỡi vua ! Hãy tha cho Umrúp sống ! Hãy để cho Umrúp còn thở được, ăn được, nói được.
@@ -3546,8 +3464,6 @@ Quân lính vác rìu vào chặt. Umrúp gọi Pôpì hoá phép, làm cho quâ
 
 Umrúp nhờ Pôpì rút phép, chiếc rìu hết chém. Vua lại trở mặt, thúc quân lính vào bắt Umrúp. Quân lính đứng chặt vòng trong vòng ngoài như cây, như cỏ, nhưng không ai dám đụng vào chàng. Vua phải cho người về triều gọi Cailclòn.
 
-* * *
-
 Cai clòn có mẹ, không cha. Mẹ nó là vợ lẽ vua trước. Mụ đẹp như con chim xanh, nhưng ác như gấu, mãi không có con. Một hôm mụ vào chùa cúng phật Bàlamôn, thấy mụ đẹp, ông phật to nhất ngồi ở giữa bàn phun vào ngực mụ một luồng khói xanh. Khói quấn quanh mình mụ, mụ có chửa, đẻ ra Cai clòn.
 
 Cai clòn xấu xí không kể được. Người xấu nhất cũng đẹp hơn nó mười lần. Nó cao gấp đôi người thường. Lưng rộng nửa sải. Tai nó như cái quạt mo. Da đen như chuột thui. Mặt xù xì như da cóc, lằn ngang vết dọc như bị nhiều vết chém, vết đâm. Hai mắt nó lồi ra như hai con ốc nhồi, đỏ như máu chó. Tóc nó dựng ngược, cứng như rễ tre. Hai cái môi trề ra như hai khúc thịt. Mồm nó lúc nào cũng nhai không, răng nghiến kèn kẹt như xe chở nặng. Người lớn thấy nó phát run. Trẻ con thấy nó chết khiếp. Nó có sức mạnh, lắm mưu nhiều phép, các tướng trong triều không ai bằng... Vua tin nó hơn cha, quý nó hơn con. Được lệnh vua, nó phi ngựa chạy lên xông vào tự tay trói hoàng tử. Đứng bên nó, Umrúp bé như đứa con nhỏ đứng cạnh nó. Nó lấy dây gai quấn đi quấn lại kín người chàng. Umrúp mồm khấn Pôpì, tay giằng chân đạp. Chàng bứt đứt dây gai dễ như bứt sợi tóc. Cailclòn lại lấy dây da vào trói.
@@ -3566,7 +3482,7 @@ Umrúp nhìn ngang, tránh mặt vua. Mồm vua cười chưa xong đã mếu ; 
 
 Cai clòn hoá phép làm dây sen trói Umrúp. Dây sen rất chắc, trói voi một sợi, voi không bứt nổi, mà Umrúp bị trói đến một nghìn sợi. Umrúp thét to :
 
-\- Hỡi Pôpi... Pôpì ! Sao chưa bứt hộ dây sen?
+\- Hỡi Pôpì... Pôpì ! Sao chưa bứt hộ dây sen?
 
 Um Rúp nói to quá, vua nghe được. Biết Pô Pì giúp phép cho Um Rúp. Vua liền kiện đến Pô-tề-ta[^hoang-tu-umrup-va-co-gai-chan-de-p351-1].
 
@@ -3582,15 +3498,13 @@ Hoàng hậu cũng đến vuốt ve, dụ dỗ. Um Rúp không nói lại lời 
 
 Vắng cô gái chăn dê, Um Rúp đã buồn, vắng con chim vàng, chàng buồn thêm. Chàng vụt bỏ cung điện, đi về phía biển, tìm Pô-Li xin phép để về cứu cô gái. Con chim bay vút theo chàng.
 
-* * *
-
 Biển rộng mênh mông. Nước xanh hơn da trời, nhìn không thấy bờ nam, bờ bắc. Sóng dâng cao hơn nóc nhà, nối tiếp nhau trùng trùng điệp điệp. Um Rúp vào rừng, đốn tre, xếp hàng đôi, nối dần ra biển. Đà cầu dài đến đâu, chàng chẻ tre đan phên lát dài đến đó. Tối một ngày, mặt trời còn một lần đi nghỉ, nhưng Um Rúp không nghỉ. Chàng làm việc thâu đêm. Con chim vàng không nệ công giúp chủ. Nó múa cho Um Rúp xem, hót cho Um Rúp nghe; tha về từng quả chín, hoa thơm; nhúng ướt lông, mang cho chàng từng giọt nước. Hoa quả, nước giúp chàng đỡ đói, đỡ khát; tiếng chim hót giúp chàng đỡ mệt, đỡ buồn. Chiếc cầu của chàng đã trườn dài ra khơi. Đứng đầu ngoài nhìn vào, trông cây gỗ chỉ bằng chiếc đũa. Bỗng biển động. Gió thét gào. Mặt nước mù mịt. Sóng dâng cao, đập vỡ nát chiếc cầu. Tre trôi mỗi nơi một cây, phên dạt mỗi nơi một tấm. Um Rúp cũng bị sóng xô xuống nước. Chàng ôm được một bó tre. Sóng đập, bó tre lăn tròn, trồi lên đập xuống. Chàng muốn thả tay cho chết, nhưng con chim vàng vẫn bay là là bên trên.
 
 Tiếng chim hót lúc êm đềm như gió lùa trên đồng cỏ, thiết tha như sáo réo buổi chiều; lúc giục giã như vó ngựa đang phi, lúc lại giận dữ hơn sóng biển gào thét. Um Rúp vụt nhớ cánh đồng cỏ bao la, đồng lúa bát ngát, mương giăng chi chít, sông lượn ngoằn ngoèo. Chàng ôm chặt bó tre. Sóng đẩy cả tre, cả chàng vào bờ. Chàng nằm trên bãi cát trắng như muối, hạt mịn đều êm như đệm bông.
 
 Hai chân duỗi thẳng, một tay gác lên trán, một tay để lên ngực. Chàng mơ thấy đã lấy cô gái chăn dê, vợ chồng chàng đã có hai đứa con, một trai một gái. Chàng đang ngồi bên vợ. Vợ chàng ngồi bên khung cửi, dệt vải hoa hình mắt gà, da cáo. Bầy dê nhà chàng chạy ra sân. Đứa con lớn của chàng ôm cổ con dê sừng nhọn lông mượt; đứa con nhỏ của chàng nắm cái sừng quặp con dê già to vú. Vợ chàng dệt một sợi, cuống buông hoa rõ thêm một chút; dệt hai sợi, cánh cái hoa lớn bằng hạt thóc chia mười. Chàng nhìn vừa mỏi mắt, thì vợ chàng dệt xong một chiếc lá, một cái hoa. Bỗng cái dao dệt gãy ngang khoảng giữa. Chàng lấy con rựa đẽo cái dao dệt khác cho vợ, tay đụng phải con chim vàng đang đậu ở trán. Um Rúp giật mình vùng dậy, nhìn trời nhìn biển. Thấy chủ còn sống, con chim múa nhảy reo vui. Biển rộng mênh mông, có hai con chim trắng rủ nhau đi tìm mồi. Trời cao lồng lộng, có hai con chim xanh đang tha rơm đi làm tổ. Chàng nhìn gần chỗ mình : chỉ có chàng và con chim vàng đang múa. Nhớ giấc chiêm bao, chàng tự bảo :
 
-\- Vợ ta dệt một sợi, cuống hoa mới rõ thêm có một chút, dệt mười sợi, cuống cái hoa mới bằng hạt thóc chia mười, mà vợ ta dệt được hàng nghìn cái hoa, cái lá, hàng nghìn súc vải. Sao chí ta không bền, tay ta không siêng năng như vợ ta ?
+\- Vợ ta dệt một sợi, cuống hoa mới rõ thêm có một chút, dệt mười sợi, cuống cái hoa mới bằng hạt thóc chia mười, mà vợ ta dệt được hàng nghìn cái hoa, cái lá, hàng nghin súc vải. Sao chí ta không bền, tay ta không siêng năng như vợ ta ?
 
 Um Rúp đứng dậy, chân đi, miệng nói :
 
@@ -3705,7 +3619,7 @@ chặt hết cây, đốt hết cỏ, chẹn hết các lối đi, hun khói và
 
 Chiếc thuyền đã chạy tít ra khơi, nhìn dãy núi trong bờ nhỏ như hạt đậu. Quân Cai-Clòn vẫn đuổi sát phía sau. Hai bên chỉ còn cách nhau một tầm tên bắn. Um Rúp núng thế, hóa chiếc thuyền thành ngựa có lông ngỗng, chân vịt; hóa mình giống như một tên quân Cai-Clòn, rồi xông thẳng vào giữa đám quân Cai-Clòn. Quân Cai-Clòn không biết ai là Um Rúp, ai là người bên mình nên không dám bắn, không dám đâm, phải quay trở lại.
 
-Len được vào bờ, Um Rúp liền hóa ngựa rụng lông ngỗng, mọc cánh chim, bay lên trời. Nhưng con ngựa chưa rụng hết lông, chưa mọc đủ cánh thì Cai-Clòn trông thấy. Nó đưa hai bàn tay vun quân dôn lên hai bên, thành hai đống cao, rồi đổ ụp xuống đè Um Rúp. Um Rúp vọt lên, thoát được, nhưng con ngựa bị đè chặt. Um Rúp khán Pô-Li, nhờ Pô-li dùng phép cứu hộ ngựa. Cai-Clòn nghe được lời khấn, liên trói chặt con ngựa Um Rúp, khiêng về nộp vua, và nói :
+Len được vào bờ, Um Rúp liền hóa ngựa rụng lông ngỗng, mọc cánh chim, bay lên trời. Nhưng con ngựa chưa rụng hết lông, chưa mọc đủ cánh thì Cai-Clòn trông thấy. Nó đưa hai bàn tay vun quân dôn lên hai bên, thành hai đống cao, rồi đổ ụp xuống đè Um Rúp. Um Rúp vọt lên, thoát được, nhưng con ngựa bị đè chặt. Um Rúp khán Pô-Li, nhờ Pô-li dùng phép cứu hộ ngựa. Cai-Clòn nghe được lời khấn, liền trói chặt con ngựa Um Rúp, khiêng về nộp vua, và nói :
 
 \- Trước Um Rúp nhờ phép của Pô-Pi, ta mới chưa bắt được nó. Nay nhờ có phép Pô-Li nó mới thoát khỏi tay ta. Ta đã bắt được ngựa, như chặt được chân nó rồi. Nếu rút được phép Pô-Li thì nó như chim bị nhổ hết lông.
 
@@ -3735,7 +3649,7 @@ Quân lính cưỡi ngựa hồng, ngựa ô, ngựa bạch, đi rao khắp bố
 
 Anh chăn dê mang lễ đi cúng. Người làng cũng mang cơm vào rừng; mang rượu, thịt vào hang; mang trứng ra gốc cây to; mang gà luộc, dê luộc ra miếu, ra bến sông, bến nước, vái trời cho hai người đừng chết, chóng gặp nhau.
 
-Um Rúp đi lạc vào một quả đồi không thấp không cao, thon như quả dứa. Trên đỉnh đồi có một cây xay nhiều cành, lá sum sê, quả sai như bông lúa, vỏ mịn như nhung. Chàng hái quả xay ăn no rồi nằm dưới gốc cây ngủ một giấc dài bảy ngày, bảy đêm. Lúc tỉnh dậy, chàng trở về chỗ gặp cô gái lần đầu. Con sông vẫn rẽ đôi, ôm hòn cù lao như người mẹ ôm đứa con vừa tròn một tuổi. Nước đưa hạt xay táp hai bên bờ. Cây xay mọc thẳng hàng, to đều như cây cau trồng một lừa. Một đàn nai gặm cỏ, núp nắng dưới bóng cây thị. Con nai đực sừng như cây xương rồng, đang liếm đùi, liếm mặt cho con nai cái, mông to, cổ dài. Con nai con lông mượt, luồn qua chui lại dưới bụng mẹ. Um Rúp thấy mình trơ trọi, chẳng có ai là bầu bạn, lòng chàng đau như có ai cào. Chàng thở dài chán nản, rồi tự hỏi mình :
+Um Rúp đi lạc vào một quả đồi không thấp không cao, thon như quả dứa. Trên đỉnh đồi có một cây xay nhiều cành, lá sum sê, quả sai như bông lúa, vỏ mịn như nhung. Chàng hái quả xay ăn no rồi nằm dưới gốc cây ngủ một giấc dài bảy ngày, bảy đêm. Lúc tỉnh dậy, chàng trở về chỗ gặp cô gái lần đầu. Con sông vẫn rẽ đôi, ôm hòn cù lao như người mẹ ôm đứa con vừa tròn một tuổi. Nước đưa hạt xay táp hai bên bờ. Cây xay mọc thẳng hàng, to đều như cây cau trồng một lửa. Một đàn nai gặm cỏ, núp nắng dưới bóng cây thị. Con nai đực sừng như cây xương rồng, đang liếm đùi, liếm mặt cho con nai cái, mông to, cổ dài. Con nai con lông mượt, luồn qua chui lại dưới bụng mẹ. Um Rúp thấy mình trơ trọi, chẳng có ai là bầu bạn, lòng chàng đau như có ai cào. Chàng thở dài chán nản, rồi tự hỏi mình :
 
 \- Hay là ta trở về triều, lấy công chúa nước láng giềng, lấy cả cô gái chăn dê ?
 
@@ -3765,7 +3679,7 @@ Quân lính ném chiếc ấm vào giữa chín con voi to như những đống 
 
 \-...
 
-Dân làng trở về. Con ngựa của Um Rúp cũng trốn được, biến lại thành chim vàng, mang tin cô gái chăn dê, đi tìm Um Rúp. Chim bay đi khắp trời cao, biển rộng. Lông đuôi, lông cánh nó rụng gần hết, mà tìm chưa thấy chủ. Bấy giờ Um Rúp vẫn ngồi dưới gốc cây, bóc quả xay ăn cho đỡ đói, và nghĩ cách tìm người tài học phép lạ về cứu cô gái chăn dê. Ôn chuyện xưa, sách cũ, chàng nhớ đến Pô-Lóa, vị thần ở trên không, có nhiều phép lạ. Chàng chưa nghĩ ra cách nào để đến được nhà vị thần, thì đã ngủ thiếp giữa luồng gió mát, thổi nhẹ như ru. Chàng mơ thấy con trai đã có vợ, con gái đã có con. Vợ chàng ngồi ngoáy trầu, trông cháu cho con gái dệt vải, dệt chăn. Lúc đó con chim vàng bay đến đỗ giữa ngực chàng. Chàng giật mình thức dậy. Con chim hót lên mấy tiếng vui mừng chào chủ rồi rũ lông sắp chết. Um Rúp vội vàng xuống sóng ngụm nước lên cho chim uống, cởi áo ủ cho chim khỏi lạnh. Một lúc, con chim tỉnh lại. Nó mở mắt, vẫy đuôi, vỗ cánh vui mừng. Nhìn chim múa, nước mắt Um Rúp chảy tràn xuống má. Chàng so mình với con chim :
+Dân làng trở về. Con ngựa của Um Rúp cũng trốn được, biến lại thành chim vàng, mang tin cô gái chăn dê, đi tìm Um Rúp. Chim bay đi khắp trời cao, biển rộng. Lông đuôi, lông cánh nó rụng gần hết, mà tìm chưa thấy chủ. Bấy giờ Um Rúp vẫn ngồi dưới gốc cây, bóc quả xay ăn cho đỡ đói, và nghĩ cách tìm người tài học phép lạ về cứu cô gái chăn dê. Ôn chuyện xưa, sách cũ, chàng nhớ đến Pô-Lóa, vị thần ở trên không, có nhiều phép lạ. Chàng chưa nghĩ ra cách nào để đến được nhà vị thần, thì đã ngủ thiếp giữa luồng gió mát, thổi nhẹ như ru. Chàng mơ thấy con trai đã có vợ, con gái đã có con. Vợ chàng ngồi ngoáy trầu, trông cháu cho con gái dệt vải, dệt chăn. Lúc đó con chim vàng bay đến đỗ giữa ngực chàng. Chàng giật mình thức dậy. Con chim hót lên mấy tiếng vui mừng chào chủ rồi rũ lông sắp chết. Um Rúp vội vàng xuống sóng ngụm nước lên cho chim uống, cơi áo u cho chim khỏi lạnh. Một lúc, con chim tỉnh lại. Nó mở mắt, vẫy đuôi, vỗ cánh vui mừng. Nhìn chim múa, nước mắt Um Rúp chảy tràn xuống má. Chàng so mình với con chim :
 
 \- Con chim vàng ăn sâu, mà còn biết tìm đường đến với chủ. Ta là người, sao không biết tìm đường đến thần Pô-Lóa để cầu xin phép lạ?
 
@@ -3773,7 +3687,7 @@ Um Rúp lại đặt chim lên vai, đi ngược về núi.
 
 Chàng đi đã lâu, chọn đã nhiều cách mà vẫn còn bối rối trong lòng. Ở sâu dưới đất, đào hang xuống được. Ở giữa biển khơi, bắc cầu mà ra. Nhưng ở giữa trời, không làm sao trèo lên được. Bây giờ, mặt trời đã lặn. Trăng đầu tháng đã lấp ló đầu non. Mây kéo dồn về phía tây, nối liền mặt trăng với đỉnh núi. Um Rúp trèo lên hòn núi cao nhất, định nắm mây trèo lên trăng, lên sao. Chàng chưa đến nơi thì trời đã sáng. Mây tan, núi với trời xa cách nhau vời vợi. Um Rúp nhìn về hướng đông, mặt trời chưa mọc. Một giải mây hồng, từ trên không buông xuống đất. Um Rúp lại xuống biển, định lấy làm thang, trèo lên trời. Nhưng chàng xuống chua khói núi, thì ngày đã hết, đêm đã buông. Mây đen phủ kín bốn bề. Chàng với tay nắm mây, co chân bước... Nhưng mây loăng như gió, không nắm, không với, không trèo được. Um Rúp nản lòng, ngồi tựa lưng vào hòn đá, mắt ngước nhìn trời cao.
 
-Hòn đá Um Rúp đang tựa, cao bằng nóc nhà, tròn như quả trứng, mốc như da voi, nhẵn như đá mài. Xung quanh cỏ không mọc, đất bằng, tơi như tro. Trời đang mưa lất phất như bắn bóng. Hạt mưa nhỏ như hạt bụi, se đất tơi dính lại với nhau. Có đàn mối ra tha đất này xây tổ. Đàn mối đông đến ức vạn con. Mỗi con tha mỗi lần được một hạt bằng đầu sợi tóc. Um Rúp ngồi xem, mắt không chớp, người không cựa quậy. Trời nổi cơn giông, sấm sét ầm ầm, mây che khuất mất nửa mặt trăng. Um Rúp nằm co dưới chân hòn đá : ngủ một giấc đến sáng. Lúc thức dậy, chàng thấy mình nằm giữa hai hòn đá. Hòn mới mọc là tổ mối. Chỉ trong một đêm, đàn mối đã đùn một cái tổ cao quá nóc nhà. Um Rúp ngắm trước xem sau, xem từ dưới lên, trên xuống. Chàng cười một mình :
+Hòn đá Um Rúp đang tựa, cao bằng nóc nhà, tròn như quả trứng, mốc như da voi, nhẵn như đá mài. Xung quanh cỏ không mọc, đất bằng, tơi như tro. Trời đang mưa lất phất như bắn bông. Hạt mưa nhỏ như hạt bụi, se đất tơi dính lại với nhau. Có đàn mối ra tha đất này xây tổ. Đàn mối đông đến ức vạn con. Mỗi con tha mỗi lần được một hạt bằng đầu sợi tóc. Um Rúp ngồi xem, mắt không chớp, người không cựa quậy. Trời nổi cơn giông, sấm sét ầm ầm, mây che khuất mất nửa mặt trăng. Um Rúp nằm co dưới chân hòn đá : ngủ một giấc đến sáng. Lúc thức dậy, chàng thấy mình nằm giữa hai hòn đá. Hòn mới mọc là tổ mối. Chỉ trong một đêm, đàn mối đã đùn một cái tổ cao quá nóc nhà. Um Rúp ngắm trước xem sau, xem từ dưới lên, trên xuống. Chàng cười một mình :
 
 \- Con mối nhỏ, còn đắp được ụ cao. Con người lớn hơn, có sức đắp thành núi. Ta muốn lên nhà Pô-Lóa, tay ta phải đắp thang, xây cầu !
 
@@ -3781,9 +3695,7 @@ Um Rúp ra tay đào đất đắp thang. Chàng làm quên ăn, quên ngủ và
 
 \- Mưa xói đất chứ không xói được lòng ta. Mưa có phá hỏng thang đất thì ta xây thang đá.
 
-Um Rúp lại vác đá xây thang. Đá lớn, mỗi lần chàng vác một tảng. Đá nhỏ, hai vai hai hòn. Vác cho đến khi cổ sần, vai sầy, da bàn tay chai như gót chân, thì các dãy núi xung quanh hết đá. Chiếc thang của chàng đã cao vượt mây. Đứng trên đỉnh đã nhìn thấy nhà Pô-Lóa. Pô-Lóa ở giữa không trung, lấy trăng làm đèn, lấy sao làm lửa, lấy mây đen làm rào,  
-mây trắng làm vách, mây xanh làm tranh lợp,  
-mây hồng, mây đỏ làm rèm.
+Um Rúp lại vác đá xây thang. Đá lớn, mỗi lần chàng vác một tảng. Đá nhỏ, hai vai hai hòn. Vác cho đến khi cổ sần, vai sầy, da bàn tay chai như gót chân, thì các dãy núi xung quanh hết đá. Chiếc thang của chàng đã cao vượt mây. Đứng trên đỉnh đã nhìn thấy nhà Pô-Lóa. Pô-Lóa ở giữa không trung, lấy trăng làm đèn, lấy sao làm lửa, lấy mây đen làm rào, mây trắng làm vách, mây xanh làm tranh lợp, mây hồng, mây đỏ làm rèm.
 
 Um Rúp mải đứng nhìn cảnh lạ nhà thần trời, thì chiếc thang bỗng thấp dần xuống. Thang cao, đá nặng, đất dưới chân chiếc thang lún xuống. Trông nhà thần trời xa dần rồi mất hẳn. Um Rúp nói to, nửa giận nửa mừng :
 
@@ -3805,7 +3717,7 @@ Um Rúp bước vào, Pô-Lóa ngồi trên một vì sao to. Xung quanh ông c�
 
 \- Ta biết chàng từ khi chàng đào hang tìm Pô-Pì, bắc cầu ra biển tìm Pô-Li. Ta đã thấy chàng đắp đất làm thang lên đây tìm ta, chính ta làm sập thang đất, đổ thang đá để thử lòng chàng. Bây giờ chàng đã lên được đây, ta có thứ gì chàng được thứ ấy. Phép thần ta để ở chòm sao phía đông. Gươm thần để ở chòm sao phía tây. Ngựa thần để ở chòm sao phía nam. Quân thần để ở chòm sao phía bắc. Hỡi chàng trai, chàng muốn chọn thứ nào thì chọn, muốn lấy bao nhiêu thì lấy.
 
-Thần Pô-Lóa dắt Um Rúp ra chi bốn chiếc cầu nối liền bốn chòm sao. Cầu xuống phía đông, làm bằng mây hồng. Cầu lên phía tây, làm bằng mây đỏ. Cầu ra phía bắc, làm bằng mây xanh. Cầu vào phía nam, làm bằng mây trắng. Cầu nào cũng dài, đứng bên này nhìn không thấy bên kia. Chiếc nào cũng bay lên hạ xuống, chao qua lắc lại như gió thổi vào tấm vải đang phơi. Nhìn xuống dưới cầu, chẳng thấy nhà, chẳng thấy núi non, cây cỏ. Chỉ thấy một vùng đen ngòm sâu thăm như nhìn vào đêm tối. Um Rúp rợn người lạnh gáy. Pô-Lóa bảo chàng :
+Thần Pô-Lóa dắt Um Rúp ra chỉ bốn chiếc cầu nối liền bốn chòm sao. Cầu xuống phía đông, làm bằng mây hồng. Cầu lên phía tây, làm bằng mây đỏ. Cầu ra phía bắc, làm bằng mây xanh. Cầu vào phía nam, làm bằng mây trắng. Cầu nào cũng dài, đứng bên này nhìn không thấy bên kia. Chiếc nào cũng bay lên hạ xuống, chao qua lắc lại như gió thổi vào tấm vải đang phơi. Nhìn xuống dưới cầu, chẳng thấy nhà, chẳng thấy núi non, cây cỏ. Chỉ thấy một vùng đen ngòm sâu thăm như nhìn vào đêm tối. Um Rúp rợn người lạnh gáy. Pô-Lóa bảo chàng :
 
 \- Cầu này là cầu sống, cầu chết, cầu mất, cầu còn. Cầu đi đến chỗ cao sang, cầu cũng dẫn tới chỗ cùng cực. Ai già gan thì đi, ai non gan thì đừng ! Ai có chí lớn hãy bước qua, ai tham sống thì dừng lại !
 
@@ -3839,8 +3751,6 @@ Um Rúp gật đầu, vẫy tay chào lại. Người đi cày đi bừa vẫy t
 
 Um Rúp vẫy chào mọi người rồi phi ngựa chạy thẳng về triều.
 
-* * *
-
 Cai-Clòn dẫn quân đi tìm Um Rúp tối ngày, sáng đêm. Quân nó đi chật đường, hò hét vang núi, dậy sông, ầm ĩ làng xóm :
 
 \- Hỡi người giã gạo trong nhà, người đi cày đi cấy... ai thấy Um Rúp thì chỉ mau, nói mau!
@@ -3853,7 +3763,7 @@ Vừa đánh Cai-Clòn, vừa đánh với quân của nó, Um Rúp đuối sứ
 
 \- Hỡi Pô-Lóa, thần trăng thần sao ! Hãy cho quân tài tướng giỏi xuống cứu kẻ gặp nguy. Kẻ một mình phải đánh nhau với ngàn tướng, vạn quân...
 
-Thần Pô-Lóa nghe Um Rúp than cầu liền cho quân xuống cứu. Quân Pô-Lóa vạch mây bay xuống như mưa. Cai-Clòn giục ngựa, vung gươm chém qua chém lại, chặt trên đâm dưới. Quân Pô-Lóa rụng đầu, thủng bụng, đứt tay, gẫy chân nằm chất đống cao như núi. Rồi một quân chết của Pô-Lóa biến thành năm bẩy quân sống; một ngựa què biến thành năm bảy ngựa lành. Mộtchọimười,mườichọimộttrăm,Cai-Clòn chém không chết, đâm không xuể, phải gọi thêm quân. Quân Cai-Clòn tràn đến đứng chật đồng, đầy rừng, kín núi; quân có ná bắn ná, có gươm dùng gươm; quân tay không thì đốt rừng, đốt cỏ. Quân của Um Rúp cũng xông vào. Người chém người, ngựa cắn ngựa; lửa bên này cháy qua, lửa bên kia phun lại. Khói lên mù trời, tro bay ngập đất. Quân Cai-Clòn đánh không lại, phải rút chạy. Người chen người, ngựa lấn ngựa, dẫm lên nhau chết non một nửa. Um Rúp thúc quân đuổi theo. Cai-Clòn liền hóa chông sắt ngăn quân Um Rúp. Chông dày như lúa dưới ruộng, nhọn như mũi kim ngả chồm về phía trước, đâm thủng cả ruột người, ruột ngựa. Quân Um Rúp phải dừng lại. Cai-Clòn đắc chí, vỗ tay cười. Hơi trong mồm nó phụt ra, thổi đứng lông bờm ngựa, nước bọt văng mạnh như nước máng xối. Um Rúp lại ngửa mặt lên trời khấn :
+Thần Pô-Lóa nghe Um Rúp than cầu liền cho quân xuống cứu. Quân Pô-Lóa vạch mây bay xuống như mưa. Cai-Clòn giục ngựa, vung gươm chém qua chém lại, chặt trên đâm dưới. Quân Pô-Lóa rụng đầu, thủng bụng, đứt tay, gẫy chân nằm chất đống cao như núi. Rồi một quân chết của Pô-Lóa biến thành năm bẩy quân sống; một ngựa què biến thành năm bảy ngựa lành. Mộtchọimười, mườichọimộttrăm, Cai-Clòn chém không chết, đâm không xuể, phải gọi thêm quân. Quân Cai-Clòn tràn đến đứng chật đồng, đầy rừng, kín núi; quân có ná bắn ná, có gươm dùng gươm; quân tay không thì đốt rừng, đốt cỏ. Quân của Um Rúp cũng xông vào. Người chém người, ngựa cắn ngựa; lửa bên này cháy qua, lửa bên kia phun lại. Khói lên mù trời, tro bay ngập đất. Quân Cai-Clòn đánh không lại, phải rút chạy. Người chen người, ngựa lấn ngựa, dẫm lên nhau chết non một nửa. Um Rúp thúc quân đuổi theo. Cai-Clòn liền hóa chông sắt ngăn quân Um Rúp. Chông dày như lúa dưới ruộng, nhọn như mũi kim ngả chồm về phía trước, đâm thủng cả ruột người, ruột ngựa. Quân Um Rúp phải dừng lại. Cai-Clòn đắc chí, vỗ tay cười. Hơi trong mồm nó phụt ra, thổi đứng lông bờm ngựa, nước bọt văng mạnh như nước máng xối. Um Rúp lại ngửa mặt lên trời khấn :
 
 \- Hỡi Pô-Lóa ! Hãy phá hộ chông sắt cho quân đuổi theo kịp giặc.
 
@@ -3887,10 +3797,6 @@ Vua và Cai-Clòn xem hết sách vở viết về binh thư thao lược, mà k
 
 Nghe mẹ than, Um Rúp chùng gân, buông lơi cương ngựa, lưỡi gươm thần rơi xuống đất. Chàng vội vàng hóa phép cho nước rút, rồi phi ngựa về rừng. Nhớ cô gái chăn dê, nhưng thượng mẹ, chàng nghì giận cha, ghét Cai-Clòn, rồi ngủ thiếp lúc nào không biết.
 
-⚠ ai-missed? se b3
-
-* * *
-
 Nước rút, kinh thành hạ dần về chỗ cũ. Cai-Clòn nghĩ được kế giết trộm Um Rúp. Nó hóa ra một loại thú lạ, sừng bò, mồm rắn, răng hổ, đuôi bò cạp. Loại thú này tràn vào rừng nhiều không đếm được. Thấy Um Rúp nằm dưới bóng cây. Thú lạ bâu lại như dòi. Hàng vạn cái mồm, hàng vạn cái sừng, cái đuôi chợt xông vào húc, cắn, đốt Um Rúp. Um Rúp giật mình, thì giờ không còn đủ để đánh một con, mà xung quanh chàng có đến muôn vạn con thú. Chàng liền hóa phép thành muôn vạn sợi dây trói chặt mồm, sừng, đuôi tất cả thú dữ. Cắn không được, loại thú cuộn tròn lại như những đống rơm. Chúng đập mình lồng lộn, con nọ xát vào con kia, gãy sừng, tuột da, xổ ruột chết hết. Um Rúp dồn xác thú lạ, biến thành một con rắn to và dài như một dãy núi, đủ sức uống cạn nước biển, nuốt trôi một lúc hàng vạn ngôi nhà.
 
 Con rắn bò về thành, đầu nó đã đến đồng bằng mà đuôi ở ở tận rừng xanh. Nó bò đến đâu, cây cỏ dạt ra đến đấy, gió nổi ào ào như bão. Dân làng trông thấy Um Rúp và con rắn, vỗ tay reo hò, chọn lời lành chúc :
@@ -3911,8 +3817,7 @@ Um Rúp không nghe được lời cô gái chăn dê, nhưng nghe tiếng hoàn
 
 Ngày không có, đêm kéo dài, triều đình chết lặng. Cai-Clòn hóa lửa phun lên mây, đốt quân Um Rúp, quân Um Rúp chết cháy, rơi xuống đầy đất chật sông. Dồn đống trên kinh thành. Hoàng hậu kinh hoàng, lăn ra kêu khóc. Đánh nữa sợ mẹ chết, Um Rúp lại thu quân về rừng. Được lúc rỗi rãi, Cai-Clòn cầu mẹ, cầu cha, khấn thánh thần tìm mưu đánh Um Rúp. Um Rúp cũng ngồi dưới gốc cây, nghĩ kế giết Cai-Clòn. Bỗng chàng nghe tiếng than của cô gái chăn dê vọng lại :
 
-\- Chàng ở phương nam hay phương bắc ?  
-Ở phía mặt trời mọc hay mặt trời lặn ? Ở trong rừng sâu hay giữa biển khơi ? Trong núi hay trong hang? Ở giữa đồng cỏ hay ở trong nhà. người nghèo... hãy về cứu em...
+\- Chàng ở phương nam hay phương bắc ? Ở phía mặt trời mọc hay mặt trời lặn ? Ở trong rừng sâu hay giữa biển khơi ? Trong núi hay trong hang? Ở giữa đồng cỏ hay ở trong nhà. người nghèo... hãy về cứu em...
 
 Nghe lời than, Um Rúp quặn ruột, thắt gan, liền hóa một quả núi mọc lên giữa kinh thành, đội bổng cả triều đình lên giữa chín tầng mây. Đỉnh núi nhọn, kinh thành to, không đủ chỗ tựa, kinh thành lắc lư như cái nón để ngửa. Cai-Clòn đang ngồi đốt hương trầm, đọc binh thư bị ngã đổ nhào. Vua, quan, quân lính đều nhắm mắt, không ai dám nhìn ra ngoài. Um Rúp lại hóa gió, gió từ núi thổi xuống, từ biển thổi lên, từ trong thổi ra, ngoài thổi vào, dạt cả đá, trốc cả gốc cây. Mái ngói trong thành bay tung lên như lông chim bị tên bắn. Các đầu rồng, đầu phượng đẽo bằng gỗ bị gió thổi gãy hết. Cột đèn vặn vẹo đổ xiêu, tiếng động ầm ầm, người điếc cũng nghe được. Cả kinh thành chợt đổ xuống chân núi. Người làng thấy gió to xô nhà cao, kéo xem. Họ nói với nhau:
 
@@ -3938,28 +3843,29 @@ Um Rúp đang ngồi nghĩ kế :
 
 Um Rúp lập một đoàn quân không người, không ngựa, không giáo mác cung tên. Chàng dùng mọi thứ phép hóa thành ong ruồi, ong mật, ong vè vẽ... do ong mặt quỷ dẫn đầu. Đàn ong bay về triều che kín nắng, chắn kín gió, lấp cả mặt trời, che khuất cả trăng sao. Kinh thành chìm ngập trong bóng tối. Cai-Clòn không biết Um Rúp dùng phép gì, leo lên thành nhìn xung quanh. Không thấy ngựa, không thấy thú dữ, rắn to, chỉ thấy trời tối và tiếng kêu ù ù, nó tự hỏi và tự trả lời:
 
-\- Mây chăng ? Không phải !  
-\- Ngựa chăng ? Cũng không !  
+\- Mây chăng ? Không phải !
+
+\- Ngựa chăng ? Cũng không !
+
 \- Mưa chăng ? Sao không thấy ướt ?
 
 \- Gió chăng ? Sao không thấy ngọn cây rung?
 
 Cai-Clòn không đoán biết được gì, nên thúc quân cưỡi ngựa mang cung, cầm kiếm ra đứng chật xung quanh thành chờ ngăn quân Um Rúp. Đàn ong cũng đã chờ nhau đông đủ; con yếu đã theo kịp đàn, con non đã già, cánh già ngạnh nọc. Thình lình, từ trên mây, đàn ong bổ xuống thành, xông vào đốt người, đốt ngựa. Quân lính Cai-Clòn vứt giáo vứt gươm, vò đầu vò tai chạy trốn. Ngựa cũng nhảy, đá lung tung. Triều đình lộn xộn như tranh của. Cai-Clòn bảo lính ngụp xuống ao, chui vào nhà, đóng kín cửa. Đàn ong vẫn bay theo. Người lặn xuống nước, ong bay rà rà ở trên, người vào nhà đóng cửa, ong chui vào các lỗ đầu cột đầu kèo. Cai-Clòn lại hóa cả quân lính của nó thành người sắt. Người sắt ong đốt không thủng da, nhưng nặng đi không được, ong lại chui vào mũi vào mồm họ. Quân lính khạc ra ong, thở cũng ra ong. Nhưng khạc ra thì ít mà hít ong vào thì nhiều. Cai-Clòn bí thế bỏ chạy. Vua cũng chạy theo; chạy đến đâu ong đuổi đến đó. Vua phải chui xuống gầm giường, lăn vào nhà dệt, giật chăn gái thợ dệt, thợ bắn bông, trùm đầu. Cai-Clòn đã nghĩ được phép lạ. Nó hoá tất cả quan quân, người ngựa thành sáp ong. Sáp dẻo, ong bâu vào bị dính cánh, dính lông. Ong chết rơi chật đường, chật sân, đặc nước. Người làng thấy vậy lại lo cho Um Rúp :
 
-\- Nhiều lần chắc thắng lại để cho thua ! Chẳng biết Um Rúp có còn phép gì nữa không ?
+\- Nhiều lần chắc thắng lại để cho thua! Chẳng biết Um Rúp có còn phép gì nữa không?
 
-Cai-Clòn cũng đắc chí vỗ tay, reo cười :
+Cai-Clòn cũng đắc chí vỗ tay, reo cười:
 
 \- Ta đánh trăm trận thắng trăm, nghìn trận thắng nghìn.
 
-Rồi nó biến người sáp thành người thật, hò hét vang dậy :
+Rồi nó biến người sáp thành người thật, hò hét vang dậy:
 
-\- Hỡi quân lính ! Hãy vui lên, cười lên. Hãy chạy thật nhanh, bắn thật trúng, chém thật mạnh. Um Rúp hết phép tài rồi. Nó chỉ có một người một ngựa; ta có muôn vạn quân binh. Ta sẽ thắng nó. Ta đã thắng trăm trận, nghìn trận... Còn đánh ta còn thắng nữa.
+\- Hỡi quân lính! Hãy vui lên, cười lên. Hãy chạy thật nhanh, bắn thật trúng, chém thật mạnh. Um Rúp hết phép tài rồi. Nó chỉ có một người một ngựa; ta có muôn vạn quân binh. Ta sẽ thắng nó. Ta đã thắng trăm trận, nghìn trận... Còn đánh ta còn thắng nữa.
 
 Vua mở hội mừng công, thưởng cho Cai-Clòn một trăm gái đẹp, một trăm gánh thịt ngon, một trăm ché rượu quý và vô số ruộng sâu trâu nái. Vua lại cho quân lính ra các làng, muốn thứ gì của dân thì lấy. Quân tràn ra thành, tỏa vào nhà dân cướp thóc nếp, trâu béo, dê tơ. Dân ghét, không dám nói mà chửi thầm trong bụng :
 
-\- Hỡi hoàng tử Um Rúp ! Chàng ở đâu ?  
-Sao không về chém hết đứa tham, giết hết đứa gian cho dân làng hả dạ ?
+\- Hỡi hoàng tử Um Rúp ! Chàng ở đâu ? Sao không về chém hết đứa tham, giết hết đứa gian cho dân làng hả dạ ?
 
 Um Rúp đang đi vòng quanh một bụi tre ở giữa rừng, ngồi xuống một tảng đá, nghĩ cách đánh trận sau. Búp măng ở dưới đất chui lên, đội hòn đá Um Rúp đang ngồi lệch sang một bên. Rồi ba, bảy búp măng khác nhoi lên lật hòn đá đổ úp. Um Rúp đứng dậy xoa tay :
 
@@ -3973,7 +3879,13 @@ Um Rúp hóa gió. Gió thổi bay ngói, long cột nhà, kinh thành đu đưa
 
 Kinh thành nghiêng hẳn sang một bên. Cai-Clòn hóa phép cho cả kinh thành bay bổng lên không.
 
-Um Rúp hóa sấm sét từ trên trời đánh xuống. Kinh thành quay tròn như con chim gẫy cánh. Cai-Clòn hóa kinh thành thành một khối sắt. Um Rúp cho nước ngập lên trên. Cai-Clòn hóa kinh thành thụt sâu vào lòng đất.
+Um Rúp hóa sấm sét từ trên trời đánh xuống. Kinh thành quay tròn như con chim gẫy cánh.
+
+Cai-Clòn hóa kinh thành thành một khối sắt.
+
+Um Rúp cho nước ngập lên trên.
+
+Cai-Clòn hóa kinh thành thụt sâu vào lòng đất.
 
 Um Rúp hóa núi đội kinh thành lên cho quân ong vào cắn, đốt.
 
@@ -3993,9 +3905,7 @@ Con ngựa của Um Rúp phi nhanh như gió. Cổ vươn lên cong như lưỡi
 
 Hai bên đuổi nhau tối ngày rồi sáng đêm. Đường ngựa chạy đã dài hơn đường đi vòng quanh đất nước. Bụi dưới chân ngựa bay mịt mù. Um Rúp đuổi vua, đuổi Cai-Clòn chạy đến đâu, dân làng ở đấy đều tràn ra xem. Họ leo lên ngọn cây, đứng trên mái nhà, mắt nhìn theo, miệng cười, tay vỗ, chọn lời lành chúc Um Rúp :
 
-\- Um Rúp đã thắng ! Con cá đã gặp nước, con rồng đã gặp mây. Hỡi chàng hoàng tử...  
-Chỉ cần bẩy sải tay nữa thì được ấm vàng,  
-dược vợ.
+\- Um Rúp đã thắng ! Con cá đã gặp nước, con rồng đã gặp mây. Hỡi chàng hoàng tử... Chỉ cần bẩy sải tay nữa thì được ấm vàng, được vợ.
 
 Um Rúp gật đầu cám ơn dân làng, dồn sức giục ngựa xốc tới. Con ngựa của Um Rúp chạy nhanh lên thêm được năm sải tay. Đuôi tóc của Cai-Clòn đã đụng đầu con ngựa chàng cưỡi. Chàng buông cương, nhoài người lên, chém một nhát. Tóc Cai-Clòn bị đứt một mảng dài hai gang tay. Nó giật mình ngã sấp xuống đất. Con ngựa của nó lồng lên, gạt vua và hoàng hậu ngã xuống vệ đường. Um Rúp vừa gò cương ngựa, vung gươm chém Cai-Clòn thì tên tướng mặt da cóc, mắt ốc nhồi này đã kịp ném lưỡi gươm của nó sang cho vua, rồi hóa phép biến thân nó nhập vào thân hoàng hậu ! Um Rúp nhảy xuống ngựa, vung gươm, toan chém cả hai. Nhưng lưỡi gươm còn cách cổ hoàng hậu một sợi tóc thì chàng rụt lại. Giết Cai-Clòn thì chết mẹ. Để mẹ sống thì không giết được Cai-Clòn ? Hoàng tử Um Rúp chống gươm, đứng ngẩn ngơ. Cô gái chăn dê thấy chàng ngập ngừng, ngoi đầu ra ngoài chiếc ấm vàng, thúc giục :
 
@@ -4017,7 +3927,7 @@ Um Rúp vung gươm lên rồi lại hạ gươm xuống. Chàng không nỡ gi�
 
 [^hoang-tu-umrup-va-co-gai-chan-de-p341-2]: Phụ nữ Chăm để nguyên mảnh vải quấn quanh nửa dưới thân người làm váy. <!-- note pdf 341 -->
 
-[^hoang-tu-umrup-va-co-gai-chan-de-p347-1]: Chiếc lọ làm bằng bạc, lớn hơn quả cam, dùng đựng mảnh xương sọ người chết để đem thờ, sau khi đã hoá táng. <!-- note pdf 347 -->
+[^hoang-tu-umrup-va-co-gai-chan-de-p347-1]: Chiếc lọ làm bằng bạc, lớn hơn quả cam, dùng đựng mảnh xương sọ người chết để đem thờ, sau khi đã hoả táng. <!-- note pdf 347 -->
 
 [^hoang-tu-umrup-va-co-gai-chan-de-p351-1]: Pô-tề-ta : Theo truyền thuyết dân gian của dân tộc Chăm, đó là vị thần cai quản các vị thần. (Như Ngọc hoàng hay thượng đế trong truyền thuyết của dân tộc Kinh). <!-- note pdf 351 -->
 
@@ -4031,11 +3941,9 @@ Um Rúp vung gươm lên rồi lại hạ gươm xuống. Chàng không nỡ gi�
 
 [^hoang-tu-umrup-va-co-gai-chan-de-p397-1]: Một loại quả rừng nhỏ hơn quả ổi, voi rất hay ăn. <!-- note pdf 397 -->
 
-## 35. Người hoá chì
-
 <!-- pdf 410-409 · heading: NGƯỜI HOÁ CHÌ -->
 
-## 36. Người hoá chì
+## 35. Người hoá chì
 
 <!-- pdf 410-416 · heading: NGƯỜI HOÁ CHÌ -->
 
@@ -4079,13 +3987,11 @@ Khi đã hứa cái gì dù chỉ nói một mình nhưng không dám bỏ qua "
 
 [^tho-va-oc-sen-chay-dua-p416-1]: Brahthuni : Đai may bằng vải đỏ bên trong có chì, gừng, cây sông, sáp ong dú, được làm lễ, niệm thần chú (Troksuan) để chức sắc và thầy mang vào khi làm lễ. <!-- note pdf 416 -->
 
-## 37. Thỏ và ốc sên chạy đua
+## 36. Thỏ và ốc sên chạy đua
 
 <!-- pdf 417-419 · heading: THỎ VÀ ỐC SÊN CHẠY ĐUA -->
 
-⚠ ai-missed? Mô này thô xen đều ấi ứng. Tạớc tạn một
-
-Mỗi ngày thỏ xám đều đi uống nước tại một con mương ở cạnh bờ rừng. Tại đây ngày nào nó cũng thấy ốc sên bám vào một hòn đá bên cạnh dòng nước. ⚠
+Mỗi ngày thỏ xám đều đi uống nước tại một con mương ở cạnh bờ rừng. Tại đây ngày nào nó cũng thấy ốc sên bám vào một hòn đá bên cạnh dòng nước.
 
 Thỏ thấy như vậy mới hỏi ốc sên rằng :
 
@@ -4131,7 +4037,7 @@ Ra về thỏ nghĩ thầm trong bụng, nếu mình ngủ một giấc thật n
 
 Đến trưa thỏ mới sực nhớ lại, thế là cắm đầu cắm cổ chạy, chạy được một đoạn thỏ lên tiếng gọi. Liền nghe tiếng đáp lại của ốc sên trước mặt, thỏ lại cắm đầu chạy cứ một đoạn thỏ lại lên tiếng nhưng cũng đều nghe tiếng đáp lại của ốc sên phía trước. Hoảng quá thỏ ta lại chạy tiếp nhưng vì quá mệt và đuối sức nên đành chịu thua. Từ đó về sau thỏ chẳng dám đến nơi đó để uống nước, nó chỉ uống nhờ vào những giọt sương còn đọng lại trên những đám cỏ vào buổi sáng tinh mơ.
 
-## 38. Tình ruột thịt
+## 37. Tình ruột thịt
 
 <!-- pdf 420-421 · heading: TÌNH RUỘT THỊT -->
 
@@ -4151,7 +4057,7 @@ Sáng hôm sau, hai anh em đi ra ngoài đồng ruộng người anh cũng như
 
 Cách hai đêm sau, hai anh em không ai bảo ai, cả hai đều đi ra đồng ruộng, đêm trời tối mịt, một người thì hốt một người thì ôm, hai anh em gặp nhau giữa đồng ruộng. Bấy giờ thì cả hai anh em đều hiểu cớ vì sao, quá cảm động hai anh em ôm chầm lấy nhau nước mắt lã chã tuôn rơi.
 
-## 39. Con trâu đực đẻ con
+## 38. Con trâu đực đẻ con
 
 <!-- pdf 422-423 · heading: CON TRÂU ĐỰC ĐẺ CON -->
 
@@ -4181,7 +4087,7 @@ Thỏ vừa nói vừa chỉ thẳng vào lão nhà giàu nọ.
 
 Biết rằng mình đã thua lý con thỏ, quan trên bèn bảo nhà giàu nọ trả lại con nghé cho bác nông dân nghèo kia.
 
-## 40. Chú bé thông minh
+## 39. Chú bé thông minh
 
 <!-- pdf 424-426 · heading: CHÚ BÉ THÔNG MINH -->
 
@@ -4225,11 +4131,11 @@ Còn cậu bé khi nói xong liền xẻ thịt con lạc đà, lột da, cắt 
 
 Đến bây giờ, nhà vua mới hiểu ra rằng mình đã mắc lừa cậu bé. Nhưng ngài đã giữ lời hứa vì để bảo vệ uy tín và thanh danh của mình, bèn rút hết quân sĩ quay trở về nước.
 
-## 41. Cậu gạo
+## 40. Cậu gạo
 
 <!-- pdf 427-431 · heading: CẬU GẠO -->
 
-Ngày xưa có một ông vua rất hiếu chiến lòng dạ tham lam và rất độc ác. Cũng vào thời ấy có một chàng trai mồ côi cha mẹ từ thuở nhỏ tên là Cậu Gạo. Tuy đói rách lang thang, nhưng chàng trai rất khôi ngô tuấn tú và lòng dũng cảm, chàng hay giúp đỡ mọi người trong lúc hoạn nạn khó khăn. Cho nên ai ai cũng mến phục. Chàng rất căm ghét nhà vua vì nhà vua quá độc ác và ích kỷ nên chàng luôn luôn chống đối bởi vì thế cho nên chàng bị nhà vua ghét bỏ. Rồi một hôm nhà vua truyền lệnh bắt và đầy chàng ra tận hòn đảo xa xăm. ⚠
+Ngày xưa có một ông vua rất hiếu chiến lòng dạ tham lam và rất độc ác. Cũng vào thời ấy có một chàng trai mồ côi cha mẹ từ thuở nhỏ tên là Cậu Gạo. Tuy đói rách lang thang, nhưng chàng trai rất khôi ngô tuấn tú và lòng dũng cảm, chàng hay giúp đỡ mọi người trong lúc hoạn nạn khó khăn. Cho nên ai ai cũng mến phục. Chàng rất căm ghét nhà vua vì nhà vua quá độc ác và ích kỷ nên chàng luôn luôn chống đối bởi vì thế cho nên chàng bị nhà vua ghét bỏ. Rồi một hôm nhà vua truyền lệnh bắt và đầy chàng ra tận hòn đảo xa xăm.
 
 Ở nơi xa xăm hẻo lánh ấy, chàng tìm lập kế sinh nhai. Chàng tìm thấy một giếng nước ngọt và một hang đá để ẩn náu, chàng làm một cây cung để săn bắn thú rừng và tìm hái hoa quả để sinh sống qua ngày, lấy đất sét nặn làm nồi niêu để dùng nấu thức ăn.
 
@@ -4247,7 +4153,7 @@ Lần này, nàng kêu gọi tất cả các loài thuỷ tộc ở dưới bi�
 
 Nhân dân vui sướng ăn mừng, cùng nhau kéo đến hòn đảo mời hai vợ chồng Cậu Gạo trở về quê hương, tôn lên làm vua. Từ đấy bình yên thịnh trị, đời sống nhân dân ổn định, yên vui và hạnh phúc.
 
-## 42. Ai mạnh hơn hết
+## 41. Ai mạnh hơn hết
 
 <!-- pdf 432-434 · heading: AI MẠNH HƠN HẾT -->
 
@@ -4257,7 +4163,9 @@ Một hôm có một cậu bé hỏi cha :
 
 \- Nếu muốn biết cái gì mạnh hơn hết thì chúng ta nên đi khắp các nẻo đường vì tất cả sự việc muốn biết đều có hết trên đường đi.
 
-Hai cha con ra đi, đi qua một đoạn đường rừng, chợt thấy một con rắn lớn, người cha sợ hãi bồng con bỏ chạy.
+Hai cha con ra đi, đi qua một đoạn đường rừng, chợt thấy một con rắn lớn,
+
+người cha sợ hãi bồng con bỏ chạy.
 
 Cậu bé nói :
 
@@ -4303,7 +4211,7 @@ Người cha nói :
 
 \- Con ơi, phải nói như vầy mới đúng. Những đứa bé biết vâng lời dạy bảo thì mới mạnh hơn hết.
 
-## 43. Đàn trâu hiệp sức đánh nhau với cọp
+## 42. Đàn trâu hiệp sức đánh nhau với cọp
 
 <!-- pdf 435-437 · heading: ĐÀN TRÂU HIỆP SỨC ĐÁNH NHAU VỚI CỌP -->
 
@@ -4337,7 +4245,7 @@ Tất cả xông lên, đàn trâu ùa đến bao xung quanh cọp báng cho nó
 
 Rất đau đớn còn cọp gầm lên một tiếng đinh tai nhức óc, trong lúc tinh thần hỗn loạn con trâu đầu đàn táp trúng ngay tim báng xuống, con cọp giãy giụa một lúc rồi chết. Đàn trâu phấn khởi vui vẻ cùng nhau lên đường trở về nhà, con ngựa sung sướng hí lên phi nhanh về trước báo cho dân làng biết con cọp rằn đã chết rồi.
 
-## 44. Cáo và con gà trống
+## 43. Cáo và con gà trống
 
 <!-- pdf 438-439 · heading: CÁO VÀ CON GÀ TRỐNG -->
 
@@ -4359,7 +4267,7 @@ Con Cáo nhanh nhẹn nhảy phóc lên cao bẻ cổ Gà trống lôi xuống x
 
 Thế mới biết : Mật ngọt chết ruồi, những kẻ thích ngon ngọt thường hay mang hoạ vào thân.
 
-## 45. Bò và chó sói
+## 44. Bò và chó sói
 
 <!-- pdf 440-441 · heading: BÒ VÀ CHÓ SÓI -->
 
@@ -4379,7 +4287,7 @@ Chó Sói liền nghe lời, nhảy xuống hố. Ở trên này Voi rủ Bò b�
 
 Thế mới biết những điều gian dối thường đem lại những hậu quả không mấy tốt đẹp.
 
-## 46. Chuột nhà và chuột đồng
+## 45. Chuột nhà và chuột đồng
 
 <!-- pdf 442-443 · heading: CHUỘT NHÀ VÀ CHUỘT ĐỒNG -->
 
@@ -4397,7 +4305,7 @@ Xong đâu đấy, Chuột đồng lên tiếng nói với bạn :
 
 \- Tôi chẳng thích ở nơi đây, tôi thích ở nơi đồng ruộng rừng núi hoang vu, dù là khô khan, hẩm hiu nhưng tự do còn hơn là ở nhà đẹp đẽ cao sang như bạn chẳng mấy khi an toàn cho lắm.
 
-## 47. Trí khôn của con người
+## 46. Trí khôn của con người
 
 <!-- pdf 444-446 · heading: TRÍ KHÔN CỦA CON NGƯỜI -->
 
@@ -4433,7 +4341,7 @@ Bác nông dân lấy dây thừng cột chặt con cọp vào một thân cây 
 
 Đó cũng là một bài học răn dạy những kẻ khoe khoang xem mình là hơn tất cả, thiếu gì kẻ khác khôn ngoan hơn ta.
 
-## 48. Jôt đi học (Ja Jốt nao mugru)
+## 47. Jôt đi học (Ja Jôt nao mugru)
 
 <!-- pdf 447-452 · heading: JÔT ĐI HỌC (Ja Jốt nao mugru) -->
 
@@ -4483,7 +4391,7 @@ Ja Jôt mang ống nhổ ra, hút hết chất sền sệt trong ống nhổ, sa
 
 Lạ thay khi nuốt chất ấy vào rồi Ja Jôt học một biết mười kinh kệ và nghi thức hành lễ trong mùa chay tịnh trong thánh đường đều thông suốt, thầy thấy vậy cho Ja Jôt về nhà. Ja Jôt lại tạ ơn thầy lên đường.
 
-Về nhà gặp vợ, vợ hỏi học hành thế nào, Ja Jột kể :
+Về nhà gặp vợ, vợ hỏi học hành thế nào, Ja Jôt kể :
 
 \- Bây giờ chàng đã thông suốt chữ nghĩa kinh kệ và các nghi thức hành lễ trong thánh đường, vợ chàng cũng cảm thấy chàng có sự thay đổi khác thường ra tướng học trò ăn nói hoạt bát niềm nở và nhanh nhẹn.
 
@@ -4519,7 +4427,7 @@ Thầy lại muốn sang e lòng không thành
 Đừng tiếc công sức với thầy  
 Gắng công học tập sau này nên thân.
 
-## 49. Trái sung (Boh Gong)
+## 48. Trái sung (Boh Gong)
 
 <!-- pdf 453-454 · heading: TRÁI SUNG (Boh Gong) -->
 
@@ -4543,51 +4451,51 @@ Một hồi lâu, bà lạ mặt lại nhà bà ta hỏi bà vợ có lấy trá
 
 Từ đấy hai vợ chồng sinh con đẻ cái đông đúc nối dõi nòi giống cho đến bây giờ.
 
-## 50. Param Mudit, Parăm MUlak
+## 49. Parăm Mưdit, Parăm Mưlak
 
-<!-- pdf 455-464 · heading: PARĀM MŨDIT, PARĀM MŨLAK -->
+<!-- pdf 455-464 · heading: PARĂM MUDIT, PARĂM MULAK -->
 
-Xa xưa có hai ông bà là ông Kay Dai và bà Mô Ra Sik sinh một đứa con gái là nàng Sita, nết na thùy mị nhan sắc tuyệt trần. Ông Kay Dai sư tổ về chữ nghĩa và bùa chú, tiếng đồn khắp thiên hạ. Vì vậy có nhiều người đến xin thọ giáo.
+Xa xưa có hai ông bà là ông Kay Dai và bà Mô Ra Sik sinh một đứa con gái là nàng Sita, nết na thuỳ mị nhan sắc tuyệt trần. Ông Kay Dai sư tổ về chữ nghĩa và bùa chú, tiếng đồn khắp thiên hạ. Vì vậy có nhiều người đến xin thọ giáo.
 
-Một hôm có hai người cùng lên đường tầm sư học đạo họ gặp nhau giữa đường, qua trò chuyện họ có cùng tư tưởng nên rất cảm thông nhau, kết nghĩa anh em như ruột thịt, họ cùng lấy tên là Parăm Mudit, Parăm Mưlak. Parăm Mudit lớn hơn nên Parăm Mưlak gọi bằng anh. Hai người cùng vào ra mắt thầy và xin thọ giáo. Ông Kay Dai thấy hai người khôi ngô nết na hiền lành, đồng ý nhận làm học trò.
+Một hôm có hai người cùng lên đường tầm sư học đạo họ gặp nhau giữa đường, qua trò chuyện họ có cùng tư tưởng nên rất cảm thông nhau, kết nghĩa anh em như ruột thịt, họ cùng lấy tên là Parăm Mưdit, Parăm Mưlak. Parăm Mưdit lớn hơn nên Parăm Mưlak gọi bằng anh. Hai người cùng vào ra mắt thầy và xin thọ giáo. Ông Kay Dai thấy hai người khôi ngô nết na hiền lành, đồng ý nhận làm học trò.
 
-Parăm Mudit, Parăm Mưlak rất thông minh và cố gắng học hành, học đến đâu nhớ đến đó, kinh kệ bùa phép, thần chú lão thông được thầy rất mến truyền dạy đến nơi đến chốn. Chẳng bao lâu hai người đã thành tài.
+Parăm Mưdit, Parăm Mưlak rất thông minh và cố gắng học hành, học đến đâu nhớ đến đó, kinh kệ bùa phép, thần chú lão thông được thầy rất mến truyền dạy đến nơi đến chốn. Chẳng bao lâu hai người đã thành tài.
 
 Ông Kay Dai thấy hai người có tài ngang nhau, muốn gả con gái là nàng Sita (Bia Chata) nhưng không biết chọn ai. Ông thầy bảo hai người : - Nếu ai bắn một mũi tên trúng bảy cây mằn tăn ở sau vườn của thầy, thầy sẽ gả nàng Sita cho.
 
-Parăm Mudit bấm quẻ biết bảy cây mằn tăn mọc trên lưng con rồng đất, nên vẽ bùa vào ngón chân cái bấm xuống đất, kêu thổ địa lên hỏi:
+Parăm Mưdit bấm quẻ biết bảy cây mằn tăn mọc trên lưng con rồng đất, nên vẽ bùa vào ngón chân cái bấm xuống đất, kêu thổ địa lên hỏi:
 
 \- Đầu con rồng đất ở đâu ? Thần thổ địa thưa:
 
-\- Đầu con rồng đất ở hướng Đông Bắc, của khu vườn nơi có giếng nước là miệng con rồng đất. Parăm Mudit lấy cây cọc vẽ bùa niệm thần chú rồi đóng ngay nơi miệng giếng tức là cổ con rồng đất. Con rồng đất đau quá duỗi thẳng mình nên bảy cây mằn tăn đứng thẳng hàng. Parăm Mudit bắn một mũi tên trúng luôn bảy cây. Mời ông Kay Dai ra xem, đến lượt Parăm Mulak bắn mũi tên thứ hai cũng xuyên qua lỗ mũi tên Parăm Mudit đã bắn, thầy ra xem khen hai người đều có tài ngang nhau, ông thầy nghĩ suy chỉ có một nàng Sita, thầy bảo :
+\- Đầu con rồng đất ở hướng Đông Bắc, của khu vườn nơi có giếng nước là miệng con rồng đất. Parăm Mưdit lấy cây cọc vẽ bùa niệm thần chú rồi đóng ngay nơi miệng giếng tức là cổ con rồng đất. Con rồng đất đau quá duỗi thẳng mình nên bảy cây mằn tăn đứng thẳng hàng. Parăm Mưdit bắn một mũi tên trúng luôn bảy cây. Mời ông Kay Dai ra xem, đến lượt Parăm Mưlak bắn mũi tên thứ hai cũng xuyên qua lỗ mũi tên Parăm Mưdit đã bắn, thầy ra xem khen hai người đều có tài ngang nhau, ông thầy nghĩ suy chỉ có một nàng Sita, thầy bảo :
 
 \- Thôi hai con chịu khó lần nữa ta sẽ mang nàng Sita đi giấu nếu ai tìm được ta sẽ gả cho.
 
 Nói xong ông Kay Dai dẫn nàng Sita đi giấu. Ông ta niệm chú cho tảng đá nứt ra, giấu nàng Sita vào trong rồi niệm thần chú tảng đá đóng lại, về nhà bảo Parăm Mưdit và Parăm Mưlak đi tìm.
 
-Parăm Mudit lên núi, Parăm Mưlak xuống biển, hơn một tháng mỏi gối chùn chân mà vẫn chưa tìm ra nàng Sita. Parăm Mưdit nghĩ ra cách bấm độn tìm được hướng ẩn nấp của nàng Sita chàng đến một tảng đá to niệm thần chú, tảng đá nứt ra tức thì chàng thấy nàng Sita ở trong, Parăm Mudit đưa nàng Sita về, ông Kay Dai cho tổ chức hôn lễ.
+Parăm Mưdit lên núi, Parăm Mưlak xuống biển, hơn một tháng mỏi gối chùn chân mà vẫn chưa tìm ra nàng Sita. Parăm Mưdit nghĩ ra cách bấm độn tìm được hướng ẩn nấp của nàng Sita chàng đến một tảng đá to niệm thần chú, tảng đá nứt ra tức thì chàng thấy nàng Sita ở trong, Parăm Mưdit đưa nàng Sita về, ông Kay Dai cho tổ chức hôn lễ.
 
 Parăm Mưlak sau thời gian dài không tìm ra được nàng Sita, buồn nản trở về. Thấy Parăm Mưdit và nàng Sita đã thành vợ chồng, Parăm Mưlak quỳ ra mắt và gọi nàng Sita là chị dâu.
 
-Rak Bil Thuôr ở xứ Dêwa, xứ Dêwa là một đảo ở giữa đại dương, nghe thiên hạ đồn về vẻ đẹp của nàng Sita cũng tìm đến. Trên đường gặp hai anh em Parăm Mudit, Parăm Mulak đưa nàng Sita về thăm quê hương, thấy vẻ đẹp của nàng Rak Bil Thuôr biết ngay là nàng Sita nên hoá thân làm con nai vàng què chân chạy trước mặt, để dụ hai anh em Parăm Mudit vào rừng sâu.
+Rak Bil Thuôr ở xứ Dêwa, xứ Dêwa là một đảo ở giữa đại dương, nghe thiên hạ đồn về vẻ đẹp của nàng Sita cũng tìm đến. Trên đường gặp hai anh em Parăm Mưdit, Parăm Mưlak đưa nàng Sita về thăm quê hương, thấy vẻ đẹp của nàng Rak Bil Thuôr biết ngay là nàng Sita nên hoá thân làm con nai vàng què chân chạy trước mặt, để dụ hai anh em Parăm Mưdit vào rừng sâu.
 
-Parăm Mudit bảo Parăm Mulak ở lại bảo vệ nàng Sita để mình rượt bắn con nai què kia, nai vàng kia khi ẩn khi hiện dụ được Parăm Mudit vào rừng sâu rồi biến mất, liền trở lại chỗ cũ giả tiếng Parăm Mudit kêu cầu cứu. Nàng Sita hối Parăm Mulak hãy mau đi cứu anh, Parăm Mulak vội vẽ vòng tròn trấn bùa để giữ nàng Sita rồi tức tốc chạy tới nơi có tiếng cầu cứu.
+Parăm Mưdit bảo Parăm Mưlak ở lại bảo vệ nàng Sita để mình rượt bắn con nai què kia, nai vàng kia khi ẩn khi hiện dụ được Parăm Mưdit vào rừng sâu rồi biến mất, liền trở lại chỗ cũ giả tiếng Parăm Mưdit kêu cầu cứu. Nàng Sita hối Parăm Mưlak hãy mau đi cứu anh, Parăm Mưlak vội vẽ vòng tròn trấn bùa để giữ nàng Sita rồi tức tốc chạy tới nơi có tiếng cầu cứu.
 
-Chờ Parăm Mulak đi rồi, Ra Bil Thuôr lại chỗ nàng Sita thấy hào quang sáng rực xung quanh nàng, Ra Bil Thuôr biết đó là bùa trấn của Parăm Mulak bèn giá kẻ ăn mày đói rách thất lạc giữa rừng xin nàng Sita cho nước uống, nàng Sita thương hại bèn mang nước ra cho ông già. Thừa cơ hội Rak Bil Thuôr bắt nàng Sita bay về xứ Dêwa.
+Chờ Parăm Mưlak đi rồi, Ra Bil Thuôr lại chỗ nàng Sita thấy hào quang sáng rực xung quanh nàng, Ra Bil Thuôr biết đó là bùa trấn của Parăm Mưlak bèn giá kẻ ăn mày đói rách thất lạc giữa rừng xin nàng Sita cho nước uống, nàng Sita thương hại bèn mang nước ra cho ông già. Thừa cơ hội Rak Bil Thuôr bắt nàng Sita bay về xứ Dêwa.
 
-Parăm Mulak gặp anh ở giữa rừng Parăm Mudit hỏi :
+Parăm Mưlak gặp anh ở giữa rừng Parăm Mưdit hỏi :
 
 \- Sao em không bảo vệ nàng Sita mà vào đây làm gì.
 
-Parăm Mulak bảo :
+Parăm Mưlak bảo :
 
 \- Anh đuổi con nai một hồi lâu, thì nghe tiếng anh kêu cứu nên chị thúc em vào đây cứu anh.
 
-Parăm Mudit biết mình đã lầm kế Rak Bil Thuôr nên cùng em trở về ngay chỗ cũ thì chẳng thấy nàng Sita đâu. Hai anh em chia nhau đi tìm, hẹn gặp nhau tại địa điểm đã định trước và phải đợi nhau tại nơi ấy.
+Parăm Mưdit biết mình đã lầm kế Rak Bil Thuôr nên cùng em trở về ngay chỗ cũ thì chẳng thấy nàng Sita đâu. Hai anh em chia nhau đi tìm, hẹn gặp nhau tại địa điểm đã định trước và phải đợi nhau tại nơi ấy.
 
-Parăm Mudit lên núi, Parăm Mulak xuống biển. Parăm Mudit lên núi chẳng may gặp đàn khỉ vây bắt đem về nạp cho khỉ chúa cái và bắt làm chồng, cho quân canh phòng rất cẩn mật không cách nào trốn thoát được, đành chấp nhận ở với khỉ chúa. Một thời gian khỉ chúa có thai, thừa lúc canh phòng của bầy khỉ chểnh mảng Parăm Mudit mới trốn được về đến địa điểm đã hẹn.
+Parăm Mưdit lên núi, Parăm Mưlak xuống biển. Parăm Mưdit lên núi chẳng may gặp đàn khỉ vây bắt đem về nạp cho khỉ chúa cái và bắt làm chồng, cho quân canh phòng rất cẩn mật không cách nào trốn thoát được, đành chấp nhận ở với khỉ chúa. Một thời gian khỉ chúa có thai, thừa lúc canh phòng của bầy khỉ chểnh mảng Parăm Mưdit mới trốn được về đến địa điểm đã hẹn.
 
-Còn Parăm Mulak sau khi đi tìm khắp hang cùng ngõ hẻm không thấy nàng Sita, trở lại địa điểm gặp anh. Ngày tháng trôi qua không dám rời điểm hẹn sợ anh lại không thấy rồi hai người sẽ thất lạc. Parăm Mưlak mỏi mòn chờ đợi đến nỗi áo quần rách tả tơi chỉ ăn lá cây sống qua ngày.
+Còn Parăm Mưlak sau khi đi tìm khắp hang cùng ngõ hẻm không thấy nàng Sita, trở lại địa điểm gặp anh. Ngày tháng trôi qua không dám rời điểm hẹn sợ anh lại không thấy rồi hai người sẽ thất lạc. Parăm Mưlak mỏi mòn chờ đợi đến nỗi áo quần rách tả tơi chỉ ăn lá cây sống qua ngày.
 
 Anh em gặp nhau ôm nhau khóc kể là bị bầy khỉ bắt giữ không thể trốn thoát được nên mới để em khổ sở đến nông nỗi này. Hai người tiếp tục đi tìm nàng Sita.
 
@@ -4597,38 +4505,35 @@ Khỉ chúa sau khi Parăm Mưdit trốn thoát buồn rầu, chẳng bao lâu s
 
 Nghe kể xong khỉ con Krale lạy từ biệt mẹ, xin phép mẹ cho con đi tìm gặp mới hả lòng. Khỉ con vượt rừng, vượt núi đi tìm cha ngày tháng trôi qua, quá mệt mỏi thì thấy cây cổ thụ bên mé sông trái chín triu cành liền leo lên hái ăn và nghỉ ngơi.
 
-Hai anh em Parăm Mudit, Parăm Mulak qua bao tháng đi tìm mệt mỏi cũng đến dưới gốc cây nằm nghỉ ngơi.
+Hai anh em Parăm Mưdit, Parăm Mưlak qua bao tháng đi tìm mệt mỏi cũng đến dưới gốc cây nằm nghỉ ngơi.
 
-Krale biết chắc trong hai người này, thế nào cũng có cha mình, nên khấn nguyện cùng trời đất nếu có thiêng thì ứng cho dòng máu của mình rơi xuống đúng vào cha mình. Khấn nguyện xong Krale cắn móng tay cho chảy máu, máu rơi xuống trúng vào mặt Parăm Mudit, Krale biết đích thực đó là cha mình.
+Krale biết chắc trong hai người này, thế nào cũng có cha mình, nên khấn nguyện cùng trời đất nếu có thiêng thì ứng cho dòng máu của mình rơi xuống đúng vào cha mình. Khấn nguyện xong Krale cắn móng tay cho chảy máu, máu rơi xuống trúng vào mặt Parăm Mưdit, Krale biết đích thực đó là cha mình.
 
-Parăm Mudit ngước lên thấy con khỉ nhỏ kia to gan nên lấy cung bắn lá cây mà không trúng con khỉ, Parăm Mudit mượn cung Parăm Mulak bắn tiếp, khỉ thưa :
+Parăm Mưdit ngước lên thấy con khỉ nhỏ kia to gan nên lấy cung bắn lá cây mà không trúng con khỉ, Parăm Mưdit mượn cung Parăm Mưlak bắn tiếp, khỉ thưa :
 
 \- Thưa cha, đừng bắn con nữa. Nếu cha có bắn cũng không trúng, hao tốn mũi tên.
 
-Khỉ nhỏ xuống lạy cha và kể hết lời mẹ cho cha nghe, vì vậy mà con quyết đi tìm cha hơn hai tháng nay. Thấy hai người đến nghỉ ngơi nơi gốc cây, con biết là có cha, nhưng không biết người nào nên con đã nguyện cùng trời đất, cắn móng tay cho máu nhỏ trúng vào người nào, người đó đích thực là cha, giọt máu đó là máu của con chứ không phải nước gì cha tưởng đâu, Parăm Mudit xúc động ôm khỉ con vào lòng và bảo cho nó biết Parăm Mulak là chú, bảo Krale biết hiện nay cha và chú đang đi tìm nàng Sita.
+Khỉ nhỏ xuống lạy cha và kể hết lời mẹ cho cha nghe, vì vậy mà con quyết đi tìm cha hơn hai tháng nay. Thấy hai người đến nghỉ ngơi nơi gốc cây, con biết là có cha, nhưng không biết người nào nên con đã nguyện cùng trời đất, cắn móng tay cho máu nhỏ trúng vào người nào, người đó đích thực là cha, giọt máu đó là máu của con chứ không phải nước gì cha tưởng đâu, Parăm Mưdit xúc động ôm khỉ con vào lòng và bảo cho nó biết Parăm Mưlak là chú, bảo Krale biết hiện nay cha và chú đang đi tìm nàng Sita.
 
 Krale thưa cha :
 
 \- Nếu cha và chú đi tìm dì Sita, nếu biết chỗ cha và chú đi cũng không được vì hiện nay, dì Sita bị Rak Bil Thuôr bắt giữ ở chốn Dêwa, một hòn đảo ở giữa lòng đại dương nhược bằng cha và chú trở lại nơi mẹ con vui sống cảnh núi rừng là hơn.
 
-Parăm Mulak nạt :
+Parăm Mưlak nạt :
 
 \- Đã nhận là con mà không biết sự khổ tâm của cha thì có bất hiếu không.
 
-Parăm Mudit can Parăm Mulak đừng giận, và bảo Krale con đã biết dì Sita hiện ở xứ Dêwa, vậy con có cách nào giúp cha tìm cách cứu nàng Sita không.
+Parăm Mưdit can Parăm Mưlak đừng giận, và bảo Krale con đã biết dì Sita hiện ở xứ Dêwa, vậy con có cách nào giúp cha tìm cách cứu nàng Sita không.
 
 Krale thưa :
 
-\- Được, con sẽ giúp cha, bây giờ cha hãy chặt cây kết bè rồi sẽ tính sau. Sau khi kết bè xong Krale bảo chú Parăm Mulak ở lại đất liền, và nhờ chú cho mượn cung tên. Krale và cha chèo bè ra biển, Krale niệm thần chú bè lướt sóng như bay. Chẳng mấy chốc họ đã đến đảo Dêwa. Krale bảo cha ở lại giữ bè con đi tìm khi thấy con sẽ dẫn dì Sita đến, cha hãy đón dì xuống bè, đưa về đất liền ngay để con ở lại cản đường Rak Bil Thuôr. Căn dặn xong Krale hoá thành thằn lằn đến nơi cung điện nàng Sita, thấy nàng Sita mặc tang phục đàn thanh với chồng là Parăm Mưdit rồi muốn tự sát, Krale hoá thành người. Nàng Sita tưởng lính Rak Bil Thuôr bèn la lên, Krale bảo tôi không phải lính Rak Bil Thuôr mà là con của Parăm Mưdit đến cứu dì. Hiện cha đang chờ ngoài kia, dì hãy mau theo con để được giải cứu.
+\- Được, con sẽ giúp cha, bây giờ cha hãy chặt cây kết bè rồi sẽ tính sau. Sau khi kết bè xong Krale bảo chú Parăm Mưlak ở lại đất liền, và nhờ chú cho mượn cung tên. Krale và cha chèo bè ra biển, Krale niệm thần chú bè lướt sóng như bay. Chẳng mấy chốc họ đã đến đảo Dêwa. Krale bảo cha ở lại giữ bè con đi tìm khi thấy con sẽ dẫn dì Sita đến, cha hãy đón dì xuống bè, đưa về đất liền ngay để con ở lại cản đường Rak Bil Thuôr. Căn dặn xong Krale hoá thành thằn lằn đến nơi cung điện nàng Sita, thấy nàng Sita mặc tang phục đàn thanh với chồng là Parăm Mưdit rồi muốn tự sát, Krale hoá thành người. Nàng Sita tưởng lính Rak Bil Thuôr bèn la lên, Krale bảo tôi không phải lính Rak Bil Thuôr mà là con của Parăm Mưdit đến cứu dì. Hiện cha đang chờ ngoài kia, dì hãy mau theo con để được giải cứu.
 
 Khi nghe tiếng la lính Rak Bil Thuôr bao vây khắp nẻo, Krale một mình đánh với lính Ra Bil Thuôr quyết liệt mới đưa được Sita xuống bè. Krale quay lại đánh với lính Rak Bil Thuôr, Rak Bil Thuôr thấy lính mình không lại Krale, liền nai nịt xuất trận, Krale một mình tả xung hữu đột, thừa cơ dùng cung bắn Rak Bil Thuôr chết ngay tức thời. Lính Rak chạy tán loạn Krale đốt phá lâu đài tan tành rồi mới quay về đất liền, thấy cha, chú và dì Sita vẫn còn chờ đợi, Krale đưa về xứ rồi lạy cha, chú, dì ba lạy xin từ biệt lui về với mẹ sống cùng loài khỉ vui cảnh núi rừng.
 
-* * *
+Sự tích này còn tồn tại mãi với người Chăm. Để nhớ sự tích ấy, trong các lễ cúng ông thầy thường nhắc : Kay Dai, Môrasih, Parăm Mưdit, Parăm Mưlak, Bilktarale, để biết ơn và noi gương nghĩa khí của anh em Parăm Mưdit, Parăm Mưlak, Bia Kata, và Krale dù là loài thú nhưng đã làm tròn bổn phận đối với cha.
 
-Sự tích này còn tồn tại mãi với người Chăm.  
-Để nhớ sự tích ấy, trong các lễ cúng ông thầy thường nhắc : Kay Dai, Môrasih, Parăm Mưdit, Parăm Mulak, Bilktarale, để biết ơn và noi gương nghĩa khí của anh em Parăm Mưdit, Parăm Mulak, Bia Kata, và Krale dù là loài thú nhưng đã làm tròn bổn phận đối với cha.
-
-## 51. Jà ri Băh
+## 50. Thằng Khổ (Jà ri Băh)
 
 <!-- pdf 465-471 · heading: THẰNG KHỔ (Jà ri Băh) -->
 
@@ -4646,7 +4551,7 @@ Jà ri Băh vì mình trần truồng, muốn lên nhưng thấy ngại ngùng e
 
 Cô gái thấy Jà ri Băh nói thực, cô đành phải lấy khăn bịt đầu của mình quăng xuống cho anh che thân.
 
-Ở nhà, chồng chờ mãi, chờ lâu không thấy vợ lấy nước về, phần thì con khóc, dỗ dành mọi điều con cũng không nín, anh phải bồng con ra mương tìm vợ. Đến nơi, anh thấy Jà ri Báh choàng khăn bịt đầu của vợ mình để che thân, đem lòng tức giận ghen tuông chửi mắng vợ :
+Ở nhà, chồng chờ mãi, chờ lâu không thấy vợ lấy nước về, phần thì con khóc, dỗ dành mọi điều con cũng không nín, anh phải bồng con ra mương tìm vợ. Đến nơi, anh thấy Jà ri Băh choàng khăn bịt đầu của vợ mình để che thân, đem lòng tức giận ghen tuông chửi mắng vợ :
 
 \- Tại sao bỏ con khóc ở nhà lại đây tâm sự với trai ?
 
@@ -4694,7 +4599,7 @@ Lính canh cho phép Jà ri Băh vào.
 
 Vua ra xem thấy đúng là hòn vàng thật, vua liền đổi cho Jà ri Băh một gùi bạc đem về. Đến nhà, hai vợ chồng mừng rỡ, mướn người phát rẫy thêm, sắm ruộng, trâu bò đủ đấy, làm ăn ngày càng phát đạt. Những người làm mướn cho hai vợ chồng Jà ri Băh đều cất nhà lập nghiệp tại đấy. Ngoài những người làm mướn, họ còn huy động thêm bà con khác đến ở lập thành một làng và tôn Jà ri Băh làm chủ cả một làng.
 
-## 52. Ja pa-ok (Cậu Xoài)
+## 51. Ja pa-ok (Cậu Xoài)
 
 <!-- pdf 472-483 · heading: JA PA-OK (Cậu Xoài) -->
 
@@ -4760,7 +4665,7 @@ Cậu Xoài bèn nói :
 
 \- Nước có chừng này tôi tát một thoáng là xong, người trai trẻ kia trả lời :
 
-\- Nếu thật như vậy, tôi xin kết nghĩa làm em út anh. Nói với nhau xong, cậu Xoài đến dùng hai bàn tay tát hai ba bụm tay thì cạn ngay, rồi cả bốn anh em cùng xuống bắt cá, bắt được ba con cá, cá thu ngừ to bằng bắp đùi, cậu Xoài chặt đầu cá vứt cho trôi đi, đầu cá trôi đi về nước Chăm - Cămpuchia, và Ấy Wọn. Mình cá bốn anh em luộc và nướng ăn cùng với nhau. Xong đâu đấy bốn anh em lại tiếp tục lên đường.
+\- Nếu thật như vậy, tôi xin kết nghĩa làm em út anh. Nói với nhau xong, cậu Xoài đến dùng hai bàn tay tát hai ba bụm tay thì cạn ngay, rồi cả bốn anh em cùng xuống bắt cá, bắt được ba con cá, cá thu ngừ to bằng bắp đùi, cậu Xoài chặt đầu cá vứt cho trôi đi, đầu cá trôi đi về nước Chăm - Cămpuchia, và Ăy Wọn. Mình cá bốn anh em luộc và nướng ăn cùng với nhau. Xong đâu đấy bốn anh em lại tiếp tục lên đường.
 
 Đi đến đất nước của vua Chiêm Thành, thấy đám đông dân chúng các binh lính và cả quân cận thần của triều đình đang vây xung quanh bờ sông và họ đang tìm cách đẩy cho cái đầu cá trồi đi vì mùi hôi thối làm cho cả nước ăn không ngon ngủ không yên. Nhưng cả trăm ngàn binh lính không làm cách nào mà vớt lên được. Bốn anh em cậu Xoài đi đến đứng nhìn mỉm cười bảo :
 
@@ -4796,7 +4701,7 @@ Một thời gian sau cả ba anh em kết nghĩa tìm gặp nhau. Cậu cả, c
 
 Vì vậy đồng bào Chăm hàng năm vẫn nhớ ngày lễ ấy, đầu năm đồng bào thường mang lễ vật đến cúng, lễ ấy gọi là lễ tạ Thuỷ (ngăk yang palao pasăh).
 
-## 53. Cọp và thỏ
+## 52. Cọp và thỏ
 
 <!-- pdf 484-488 · heading: CỌP VÀ THỎ -->
 
@@ -4818,7 +4723,7 @@ Vừa lúc ấy có một con thỏ đứng gần đó nghe thấy, thỏ liền
 
 \- Cậu đừng sợ để tôi đưa cậu đến gặp con cọp hỏi cớ sự làm sao mà nó đòi ăn thịt cậu.
 
-Nói xong thỏ cùng cậu học trò đi đến chỗ thấy cọp đang ngồi đợi liếm mép vẫy đuôi. Con thỏ bèn lên tiếng hởi :
+Nói xong thỏ cùng cậu học trò đi đến chỗ thấy cọp đang ngồi đợi liếm mép vẫy đuôi. Con thỏ bèn lên tiếng hỏi :
 
 \- Anh cọp ! Câu chuyện xảy ra như thế nào mà khiến anh giận dỗi đòi ăn thịt cậu học trò này vậy !
 
@@ -4834,7 +4739,9 @@ Con cọp đồng ý, con thỏ kéo bẫy lên để cho cọp chui vào bên t
 
 \- Anh cọp ơi ! Nếu anh thích ở trong cái bẫy đó thì cứ ở lại mạnh khoẻ nhé chúng tôi xin chào anh để về đây.
 
-Nói xong thỏ và cậu học trò quay về làng. Thỏ gọi :
+Nói xong thỏ và cậu học trò quay về làng.
+
+Thỏ gọi :
 
 \- Con cọp sập bẫy rồi, dân làng hãy cùng nhau đi giết cọp nhanh lên.
 
@@ -4878,7 +4785,7 @@ Voi mẹ nói :
 
 \- Nó đòi ăn tim mẹ, mẹ sợ quá nên vừa mới thả nó ra nó chạy lên rừng biến mất rồi.
 
-## 54. Hà Niên lấy người
+## 53. Hà Niên lấy người
 
 <!-- pdf 489-500 · heading: HÀ NIÊN LẤY NGƯỜI -->
 
@@ -4980,7 +4887,7 @@ Rất cảm động nhà vua cho gọi công chúa, và chàng trai đến. Vua 
 
 \- Nếu anh chàng này là chồng chính thức của con thì cứ sum họp như cũ, còn công chúa vua cho phép làm vợ bé, vua cho lập đền đài riêng, nếu sau này cha có băng hà thì con sẽ nối ngôi, vợ lớn vợ nhỏ đều làm hoàng hậu.
 
-## 55. Jà Pa Nrang bỏ xứ
+## 54. Jà Pa Nrang bỏ xứ
 
 <!-- pdf 501-516 · heading: JÀ PA NRANG BỎ XỨ -->
 
@@ -5072,7 +4979,7 @@ Thấy Jà Pa Nrang từ ruộng về, ông thầy theo năn nỉ xin bày toa t
 
 Việc cày bừa đã xong không còn gì để làm nữa, Jà Pa Nrang xin đề nghị với ông rằng :
 
-\- Cho con xin gạo thóc mắm muối rựa rìu lên núi làm cùn cây.
+\- Cho con xin gạo thóc mắm muối rựa rìu lên núi làm cũn cây.
 
 Ông chủ nhà đồng ý. Mới mấy hôm lên rừng mà Jà Pa Nrang làm xong nguyên bộ một cái nhà bằng gỗ Căm xe. Ngoài ra còn đóng xong ba cỗ xe trâu. Thấy lương thực đã cạn, Jà Pa Nrang về nhà thưa với ông :
 
@@ -5158,7 +5065,7 @@ Nghe ông phân bày tỉ mỉ bà mới hiểu rõ, từ đấy hai ông bà l�
 
 Sau ba ngày đêm thăm nhà, vợ chồng Jà Pa Nrang đưa nhau về Phan Rí, ông bà giao cho vợ chồng quản lý gia đình và sống với nhau đến trăm tuổi.
 
-## 56. Trai kén vợ, gái kén chồng
+## 55. Trai kén vợ, gái kén chồng (Likay Ruah Kamay, Kamy Ruah Li kay)
 
 <!-- pdf 517-525 · heading: TRAI KÉN VỢ, GÁI KÉN CHỒNG (Likay Ruah Kamay, Kamy Ruah Li kay) -->
 
@@ -5188,8 +5095,7 @@ Sau khi nấu xong, nàng dọn cơm ra, chàng thấy hạt cơm giống hệt 
 
 Nàng hiểu ý trả lời :
 
-\- Kèo ấy nhà em chọn ở cổ núi nghẹn đó.  
-Nghe nàng trả lời biết nàng hiểu ý mình, liền nực cười cơm nghẹn cũng tuột xuống. Chàng ăn hết cơm, liền gô mâm và bảo nàng :
+\- Kèo ấy nhà em chọn ở cổ núi nghẹn đó. Nghe nàng trả lời biết nàng hiểu ý mình, liền nực cười cơm nghẹn cũng tuột xuống. Chàng ăn hết cơm, liền gô mâm và bảo nàng :
 
 \- Cô ơi, cô mua chén này ở đâu vậy ?
 
@@ -5271,11 +5177,11 @@ Hai bên cam kết thoả thuận. Anh liền mở cổng cho ông phú hộ lù
 
 \- Trai kén vợ, gái kén chồng thật không uổng công.
 
-## 57. Jari bäh (Chàng nghèo)
+## 56. Jari Băh (Chàng nghèo)
 
-<!-- pdf 526-539 · heading: JARI BÃH (Chàng nghèo) -->
+<!-- pdf 526-539 · heading: JARI BĂH (Chàng nghèo) -->
 
-Thuở xưa có một cậu tên là Jari Bãh, mồ côi cả cha lẫn mẹ, không họ hàng, không nơi nương tựa. Ngày ngày cậu lên rừng tìm đốn củi gánh ra chợ bán để đắp đổi qua ngày, khi tối đến cậu xin ngủ nhờ một túp lều của một bác nông dân.
+Thuở xưa có một cậu tên là Jari Băh, mồ côi cả cha lẫn mẹ, không họ hàng, không nơi nương tựa. Ngày ngày cậu lên rừng tìm đốn củi gánh ra chợ bán để đắp đổi qua ngày, khi tối đến cậu xin ngủ nhờ một túp lều của một bác nông dân.
 
 Trong nước có một vị vua hiền đức, nhưng không có con. Ngài cầu xin van vái khắp nơi và ban bố cho những người nghèo khổ, lòng thành của ngài thấu đến tận trời cao nên trời đã ban cho ngài một đứa con gái.
 
@@ -5285,7 +5191,8 @@ Trong triều có hai vị quan lớn đó là quan văn và quan võ nắm gi�
 
 \- Trẫm không chê, khen hoặc làm khó dễ ai cả bởi vì công chúa còn nhỏ không thể kết hôn được. Chờ hai, ba năm nữa còn bây giờ trẫm không thể hứa hẹn gì cả. Quan văn năn nỉ thế nào cũng không xong, đành trở về nói lại cho quan võ nghe việc nhà vua từ chối. Quan võ lấy làm tức giận trong lòng nghĩ rằng nhà vua khinh khi mình liền tìm cách trả thù. Ông ta gọi con trai đến bàn bạc
 
-rồi cho vàng bạc để đi sang hai nước khác mời hai hoàng tử của hai nước sang cầu hôn công chúa của vua nước này. Hai hoàng tử nghe lời, sai người sang cầu hôn nhưng nhà vua cũng từ chối trả lời như trước. Khi biết tin nhà vua khước từ lời cầu hôn của hai hoàng tử, con trai quan võ liền hối hả sang bàn kế cùng hai hoàng tử kéo quân sang đánh và nói với họ rằng : "Đừng lo sợ gì cả vì đã có cha chàng ở bên trong tiếp ứng chống trả". Hai nhà vua nước nọ liền gửi thông điệp cho vua cha của công chúa báo tin ngày giờ đem quân sang đánh. Khi nhận được tin, nhà vua liền cho gọi quan võ vào triều và giao quyền cho ông ta sắp xếp chỉ huy trận đánh (vì nhà vua rất tin tưởng vào ông ta). Còn quan văn thì ở lại trong cung để điều hành công việc. Đêm hôm sau quan văn vào cung điện gặp nhà vua và tâu hết sự việc cho nhà vua nghe.  
+rồi cho vàng bạc để đi sang hai nước khác mời hai hoàng tử của hai nước sang cầu hôn công chúa của vua nước này. Hai hoàng tử nghe lời, sai người sang cầu hôn nhưng nhà vua cũng từ chối trả lời như trước. Khi biết tin nhà vua khước từ lời cầu hôn của hai hoàng tử, con trai quan võ liền hối hả sang bàn kế cùng hai hoàng tử kéo quân sang đánh và nói với họ rằng : "Đừng lo sợ gì cả vì đã có cha chàng ở bên trong tiếp ứng chống trả". Hai nhà vua nước nọ liền gửi thông điệp cho vua cha của công chúa báo tin ngày giờ đem quân sang đánh. Khi nhận được tin, nhà vua liền cho gọi quan võ vào triều và giao quyền cho ông ta sắp xếp chỉ huy trận đánh (vì nhà vua rất tin tưởng vào ông ta). Còn quan văn thì ở lại trong cung để điều hành công việc. Đêm hôm sau quan văn vào cung điện gặp nhà vua và tâu hết sự việc cho nhà vua nghe.
+
 Ngài tâu rằng :
 
 \- Xin bệ hạ chớ tin tưởng vào quan võ, vừa rồi ông ta có nhờ hạ thần làm mai đến cầu hôn con trai ông ta cùng công chúa, nhưng bệ hạ không đồng ý nên ông ta đã thông đồng với hai nhà vua nước nọ hiệp sức kéo quân sang đánh hòng cướp ngai vàng của bệ hạ để lên ngôi vua.
@@ -5296,7 +5203,9 @@ Nhà vua nghe quan văn tâu mới vỡ lẽ. Nghe vậy, nhà vua bèn nói :
 
 Quan văn bàn lại với nhà vua rằng :
 
-\- Xin bệ hạ ra lệnh cho người đến cung điện của công chúa báo cho công chúa biết tất cả hãy rời khỏi cung điện vào triều cùng với bệ hạ để cho hạ thần đưa đi nơi khác, chứ ở trong triều sợ không đảm bảo được. Đoạn nửa đêm quan văn đưa nhà vua, hoàng hậu, công chúa cùng tất cả người hầu rời khỏi kinh thành. Cha con quan võ biết được bèn cùng hai hoàng tử của hai vua nước nọ kéo binh chặn đánh ngay giữa núi rừng hoang vu. Tiếng la hét lẫn binh khí của các quân sĩ ra trận nghe đinh tai nhức óc. Cậu Jari Băh còn đang chặt củi ở trong rừng nghe tiếng la hét của nhiều người thì hoảng hốt vác rựa bỏ chạy ra khỏi khu rừng thì bắt gặp một người đang ngồi canh giữ y trang của nhà vua, cậu Jari Băh bèn đến hỏi duyên cớ vì sao mà có nhiều tiếng la hét như vậy, quan văn bèn trả lời :
+\- Xin bệ hạ ra lệnh cho người đến cung điện của công chúa báo cho công chúa biết tất cả hãy rời khỏi cung điện vào triều cùng với bệ hạ để cho hạ thần đưa đi nơi khác, chứ ở trong triều sợ không đảm bảo được.
+
+Đoạn nửa đêm quan văn đưa nhà vua, hoàng hậu, công chúa cùng tất cả người hầu rời khỏi kinh thành. Cha con quan võ biết được bèn cùng hai hoàng tử của hai vua nước nọ kéo binh chặn đánh ngay giữa núi rừng hoang vu. Tiếng la hét lẫn binh khí của các quân sĩ ra trận nghe đinh tai nhức óc. Cậu Jari Băh còn đang chặt củi ở trong rừng nghe tiếng la hét của nhiều người thì hoảng hốt vác rựa bỏ chạy ra khỏi khu rừng thì bắt gặp một người đang ngồi canh giữ y trang của nhà vua, cậu Jari Băh bèn đến hỏi duyên cớ vì sao mà có nhiều tiếng la hét như vậy, quan văn bèn trả lời :
 
 \- Quan võ của triều đình làm phản cấu kết cùng với hai nước khác đem binh chặn đánh để bắt nhà vua hòng cướp ngai vàng. Vì vậy ta đã đưa nhà vua, hoàng hậu, công chúa và người hầu cận chạy trốn vào rừng sâu này. Ông ta biết tin nên đã đem quân ra chặn đánh.
 
@@ -5374,7 +5283,7 @@ Còn về phần quan võ, một vị tướng quyền cao chức trọng nắm 
 
 Công việc triều đình đã trở lại bình thường. Như đã định, vào một ngày tốt lành, nhà vua cho loan báo khắp thần dân trong nước ngày hôn lễ của Jari Băh và công chúa. Cho phép dân chúng ăn chơi thoả thích, Jari Băh phò mã đương triều được lên kế vị ngôi vua và công chúa tôn lên làm hoàng hậu đem lại đất nước thái bình thịnh trị dân chúng ấm no hạnh phúc.
 
-## 58. Cóc khiêu chiến với Ngọc hoàng
+## 57. Cóc khiêu chiến với Ngọc hoàng
 
 <!-- pdf 540-544 · heading: CÓC KHIÊU CHIẾN VỚI NGỌC HOÀNG -->
 
@@ -5448,7 +5357,7 @@ Cóc tin vậy bèn bảo Cua thôi đừng kẹp tay nữa. Ngọc Hoàng vui m
 
 Vừa về đến hạ giới trời đã mưa ngập cả đồng ruộng, Cóc, Nhái reo mừng kêu inh ỏi và tôn con Cóc là cậu ông trời. Nên đến bây giờ mỗi khi trời nắng hạn thấy Cóc gãi đít thì có mưa xuống liền.
 
-## 59. Con Thỏ đi săn thịt cho Chăng Tinh ăn
+## 58. Con Thỏ đi săn thịt cho Chằng Tinh ăn
 
 <!-- pdf 545-552 · heading: CON THỎ ĐI SĂN THỊT CHO CHẰNG TINH ĂN -->
 

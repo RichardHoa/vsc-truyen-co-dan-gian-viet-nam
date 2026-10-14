@@ -8,11 +8,13 @@ Writes data-for-ai/<book>/ (at the repo root; re-running overwrites it):
                             comments), the sha1 of book.raw.md, image dpi
   book.raw.md               the pipeline output the pass is diffed against
   notes.json                the pipeline's notes (ids, pages, markers)
-  human_corrections.jsonl   the reviewer's Corrections, the ground truth for
-                            comparing runs
+  human_corrections.jsonl   the Final Book's Corrections (final/corrections.jsonl),
+                            if it has one: the ground truth for comparing runs
   spellings.yaml            the book's Spelling Rules, if it has any: the
                             pass applies them and lists their names in the
                             prompt
+  titles.yaml               the book's Story Titles, if it has any: the
+                            pass writes them as the headings, as set
   pages.jsonl               one line per page of the sections:
       page, printed_page_est
       lines     the OCR lines (merged/: Vision, with Tesseract's
@@ -118,8 +120,8 @@ def prepare(book: Book, dpi: int = 200) -> None:
         shutil.rmtree(out)
     out.mkdir(parents=True)
     shutil.copyfile(raw_path, out / "book.raw.md")
-    for src, dst in (("notes.json", "notes.json"), ("corrections.jsonl", "human_corrections.jsonl"),
-                     ("spellings.yaml", "spellings.yaml")):
+    for src, dst in (("notes.json", "notes.json"), ("final/corrections.jsonl", "human_corrections.jsonl"),
+                     ("spellings.yaml", "spellings.yaml"), ("titles.yaml", "titles.yaml")):
         if (book.dir / src).exists():
             shutil.copyfile(book.dir / src, out / dst)
         else:

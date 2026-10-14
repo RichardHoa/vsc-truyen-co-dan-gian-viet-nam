@@ -8,6 +8,19 @@
                           lines in `text` split it, empty `text` deletes it
   POST /api/merge         {version, index}: join block `index` and the next
 
+With `diacritic=True` (needs `ai=True`) the page is diacritic.html, the
+spelling review (diacritic.py), with:
+
+  GET  /api/pairs         the open pairs, the rules, and who was right
+  POST /api/rule          {version, kind: word|phrase, fold, spelling}: a new
+                          Spelling Rule, applied to book.ai.md
+  POST /api/rule/change   {version, kind, old, spelling}: respell a rule, or
+                          delete it when `spelling` is null
+  POST /api/depends       {version, fold, spellings, on}: mark a pair Depends
+  POST /api/word          {version, block, start, end, spelling, override}:
+                          respell one occurrence; `override` (a rule) also
+                          makes a story exception to that rule
+
 Every POST carries the version (a hash of book.md) it was made against; if
 book.md changed since (a save from another tab, a new `assemble`), it is
 refused and the page reloads.
@@ -16,7 +29,8 @@ With `ai=True` the same page reviews the AI Proofreading Pass's output instead,
 all inside data/books/<book>/ai/: book.ai.md is the text you edit,
 book.ai.raw.md keeps it untouched once, and your edits go to corrections.jsonl
 there (the model's own log, ai_corrections.jsonl, is left as it is). The book's
-book.md, corrections.jsonl and notes.json are not touched. A block's boxes come
+book.md, corrections.jsonl and notes.json are not touched. In both, editing a
+story's heading sets its Story Title in data/books/<book>/titles.yaml. A block's boxes come
 from the pass's boxes.jsonl while the block's text is still the one the pass
 wrote (its sha1 matches); a block edited since, or with no entry, is found on
 the scans as for book.md.
@@ -36,8 +50,11 @@ from pathlib import Path
 
 from ..common import Book
 from . import mdbook, notes
+from . import titles as st
 
 PAGE = Path(__file__).with_name("page.html")
+DIACRITIC_PAGE = Path(__file__).with_name("diacritic.html")
+SCANVIEW = Path(__file__).with_name("scanview.js")
 LOG = "corrections.jsonl"
 
 
@@ -126,31 +143,61 @@ class Review:
             a, b = self.blocks[index], self.blocks[index + 1]
         return self._change(version, index, 2, [_joined(a, b)], "merge")
 
+    def _current(self, version: str) -> None:
+        """Reload the book and refuse a write made against an older `version`. The caller holds the lock."""
+        self._load()
+        if version != self.version:
+            raise Conflict(f"{self.path.name} changed since this page loaded")
+
     def _change(self, version: str, index: int, count: int, new: list[str], action: str) -> dict:
         with self.lock:
-            self._load()
-            if version != self.version:
-                raise Conflict(f"{self.path.name} changed since this page loaded")
+            self._current(version)
             old = self.blocks[index:index + count]
             if old == new:
                 return dict(version=self.version, section=mdbook.section_of(self.secs, index))
-            if not self.raw_path.exists():
-                self.raw_path.write_text(self._text, encoding="utf-8")
             sec = self.secs[mdbook.section_of(self.secs, index)]
             pages = sorted({b["page"] for bx in self._boxes(index, old, sec["pdf"]) for b in bx})
-            blocks = self.blocks[:index] + new + self.blocks[index + count:]
-            text = mdbook.join(blocks)
-            tmp = self.path.with_suffix(".md.tmp")
-            tmp.write_text(text, encoding="utf-8")
-            tmp.replace(self.path)
-            with open(self.dir / LOG, "a", encoding="utf-8") as f:
-                f.write(json.dumps(dict(time=datetime.now().isoformat(timespec="seconds"), action=action,
-                                        section=sec["title"], pdf_pages=pages, before=old, after=new),
-                                   ensure_ascii=False) + "\n")
-            self._load()
-            notes.sync(self.dir / "notes.json",
-                       mdbook.split(self.raw_path.read_text(encoding="utf-8")), self.blocks)
+            self._write(self.blocks[:index] + new + self.blocks[index + count:],
+                        [dict(action=action, section=sec["title"], pdf_pages=pages, before=old, after=new)])
             return dict(version=self.version, section=mdbook.section_of(self.secs, min(index, len(self.blocks) - 1)))
+
+    def _replace(self, new: dict[int, str], action: str, extra: dict[int, dict]) -> None:
+        """Blocks replaced one for one ({index: text}), each logged as its own Correction with `extra` added.
+        The caller holds the lock and has checked the version."""
+        if not new:
+            return
+        entries = []
+        for i in sorted(new):
+            sec = self.secs[mdbook.section_of(self.secs, i)]
+            pages = sorted({b["page"] for bx in self._boxes(i, [self.blocks[i]], sec["pdf"]) for b in bx})
+            entries.append(dict(action=action, **extra.get(i, {}), section=sec["title"], pdf_pages=pages,
+                                before=[self.blocks[i]], after=[new[i]]))
+        self._write([new.get(i, b) for i, b in enumerate(self.blocks)], entries)
+
+    def _write(self, blocks: list[str], entries: list[dict]) -> None:
+        """
+        book.md (or book.ai.md) as `blocks`, its first version kept once, the Corrections logged, notes synced, and
+        a story whose heading a plain edit changed given it as its Story Title (titles.yaml): not a merge, and not
+        a Spelling Rule's respelling.
+        """
+        before = self.blocks
+        if not self.raw_path.exists():
+            self.raw_path.write_text(self._text, encoding="utf-8")
+        tmp = self.path.with_suffix(".md.tmp")
+        tmp.write_text(mdbook.join(blocks), encoding="utf-8")
+        tmp.replace(self.path)
+        time = datetime.now().isoformat(timespec="seconds")
+        with open(self.dir / LOG, "a", encoding="utf-8") as f:
+            for e in entries:
+                f.write(json.dumps(dict(time=time, **e), ensure_ascii=False) + "\n")
+        self._load()
+        notes.sync(self.dir / "notes.json", mdbook.split(self.raw_path.read_text(encoding="utf-8")), self.blocks)
+        raw = self.book.dir / "book.raw.md"
+        if raw.exists() and any(e["action"] == "edit" for e in entries):
+            path = self.book.dir / st.FILE
+            titles = st.changed(before, self.blocks, mdbook.split(raw.read_text(encoding="utf-8")), st.load(path))
+            if titles is not None:
+                st.save(path, titles)
 
 
 _flag_end = re.compile(r"\s*⚠$")
@@ -182,7 +229,9 @@ def _joined(a: str, b: str) -> str:
     return out + (" ⚠" if flagged else "")
 
 
-def _handler(review: Review):
+def _handler(review: Review, diacritic=None):
+    page = DIACRITIC_PAGE if diacritic else PAGE
+
     class Handler(BaseHTTPRequestHandler):
         def log_message(self, *args):
             pass
@@ -191,7 +240,7 @@ def _handler(review: Review):
             self.send_response(status)
             self.send_header("Content-Type", ctype)
             self.send_header("Content-Length", str(len(body)))
-            self.send_header("Cache-Control", "no-store" if "json" in ctype or "html" in ctype else "max-age=3600")
+            self.send_header("Cache-Control", "no-store" if "json" in ctype or "html" in ctype or "javascript" in ctype else "max-age=3600")
             self.end_headers()
             self.wfile.write(body)
 
@@ -202,7 +251,11 @@ def _handler(review: Review):
             path = self.path.split("?")[0]
             try:
                 if path == "/":
-                    self._send(HTTPStatus.OK, PAGE.read_bytes(), "text/html; charset=utf-8")
+                    self._send(HTTPStatus.OK, page.read_bytes(), "text/html; charset=utf-8")
+                elif path == "/scanview.js":
+                    self._send(HTTPStatus.OK, SCANVIEW.read_bytes(), "text/javascript; charset=utf-8")
+                elif path == "/api/pairs" and diacritic:
+                    self._json(diacritic.listing())
                 elif path == "/api/book":
                     self._json(review.overview())
                 elif m := re.fullmatch(r"/api/section/(\d+)", path):
@@ -221,6 +274,16 @@ def _handler(review: Review):
                     self._json(review.edit(body["version"], int(body["index"]), body["text"]))
                 elif self.path == "/api/merge":
                     self._json(review.merge(body["version"], int(body["index"])))
+                elif self.path == "/api/rule" and diacritic:
+                    self._json(diacritic.rule(body["version"], body["kind"], body["fold"], body["spelling"]))
+                elif self.path == "/api/rule/change" and diacritic:
+                    self._json(diacritic.change(body["version"], body["kind"], body["old"], body.get("spelling")))
+                elif self.path == "/api/depends" and diacritic:
+                    self._json(diacritic.depends(body["version"], body["fold"], body.get("spellings", []),
+                                                 bool(body["on"])))
+                elif self.path == "/api/word" and diacritic:
+                    self._json(diacritic.word(body["version"], int(body["block"]), int(body["start"]),
+                                              int(body["end"]), body["spelling"], body.get("override")))
                 else:
                     self._json(dict(error="not found"), HTTPStatus.NOT_FOUND)
             except Conflict as e:
@@ -231,11 +294,18 @@ def _handler(review: Review):
     return Handler
 
 
-def serve(book: Book, port: int = 8765, open_browser: bool = True, ai: bool = False) -> None:
+def serve(book: Book, port: int = 8765, open_browser: bool = True, ai: bool = False, diacritic: bool = False) -> None:
+    if diacritic and not ai:
+        raise SystemExit("--diacritic reviews the AI Proofreading Pass's spellings: use it with --ai")
     review = Review(book, ai=ai)
-    server = ThreadingHTTPServer(("127.0.0.1", port), _handler(review))
+    spelling = None
+    if diacritic:
+        from .diacritic import Diacritic
+        spelling = Diacritic(review)
+    server = ThreadingHTTPServer(("127.0.0.1", port), _handler(review, spelling))
     url = f"http://127.0.0.1:{port}/"
-    print(f"  reviewing {review.path}\n  open {url}  (Ctrl+C to stop)")
+    print(f"  reviewing {review.path}" + (f" (spellings: {spelling.path})" if spelling else "")
+          + f"\n  open {url}  (Ctrl+C to stop)")
     if open_browser:
         threading.Timer(0.5, webbrowser.open, [url]).start()
     try:
