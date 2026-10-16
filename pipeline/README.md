@@ -139,6 +139,25 @@ draft's `toc.json` (the scanned mục lục), matched by the pdf page a story
 starts on. So a new heading must start on a page where the mục lục has a
 story.
 
+## 5. Publish the Web Edition
+
+```sh
+python -m vsc_ocr export-web <book>
+```
+
+writes `data/books/<book>/web/<book>/`, the **Web Edition**: `loi_gioi_thieu.md`,
+one `story_NNN.md` per story and `table_of_contents.json`, in the format the
+website's Book Reader reads. Copy that folder into the website's
+`public/data/`. It is generated from `final/book-final.md` alone and never
+edited: fix the Final Book (stage 3–4) and run `export-web` again.
+
+It needs `printed_page_offset` in `structure.yaml` (printed page = pdf page −
+offset), and `web_title`, the book title the website shows. It writes nothing, and
+lists every problem, unless the headings are the Lời giới thiệu and stories 1
+to the number of `works`, each with its `<!-- pdf a-b -->`, every note is
+called once and has its `<!-- note pdf N -->`, and the text has only Markdown
+the website renders (paragraphs, `\-` dialogue, hard-break verse, `###`).
+
 ## Reference
 
 ### What's in `data/books/<book>/`
@@ -147,6 +166,7 @@ story.
 |---|---|---|
 | `structure.yaml` | which PDF pages are which part of the book | yes |
 | `final/` | the Final Book | yes |
+| `web/<book>/` | the Web Edition, from `export-web` | no |
 | `spellings.yaml` | Spelling Rules, applied by every AI pass | yes |
 | `titles.yaml` | Story Titles, written as set by every AI pass | yes |
 | `ai/` | your workspace: `book.ai.md` (text), `corrections.jsonl` (your edits), `book.ai.raw.md` (the pass as it came back), `ai_corrections.jsonl` (the model's log), `replayed.json` / `finalized.json` (bookkeeping) | no |

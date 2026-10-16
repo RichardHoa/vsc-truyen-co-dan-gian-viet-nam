@@ -5,6 +5,9 @@
 # ocr.include / ocr.exclude: page ranges to add to / remove from OCR.
 id: truyen-co-dan-gian-cham
 title: Truyện cổ Dân gian Chăm
+# the Web Edition (`python -m vsc_ocr export-web`): its book title, and printed page = pdf page - printed_page_offset
+web_title: Truyện cổ dân gian Chăm
+printed_page_offset: 1
 # metadata: from the title page (pdf 4) and the colophon (pdf 557), names as printed
 metadata:
   subtitle: null

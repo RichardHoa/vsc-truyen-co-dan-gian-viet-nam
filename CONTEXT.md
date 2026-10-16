@@ -8,6 +8,10 @@ Domain vocabulary for turning scanned folk-tale books into reviewed, structured 
 A book's official, reviewed text: an AI Proofreading Pass's output after a human has reviewed and corrected it against the scans. It is the one text published, and it is kept whole, so it never has to be rebuilt.
 _Avoid_: official book, AI book, book.md
 
+**Web Edition**:
+The Final Book split into one file per story (plus its introduction and a table of contents), in the shape the Digitizing Việt Nam website reads. It is generated from the Final Book and never edited by hand: a fix goes into the Final Book and the Web Edition is generated again.
+_Avoid_: split book, website copy
+
 **OCR Draft**:
 A book's text as the OCR pipeline assembles it from the scans, before any AI Proofreading Pass. It is what the pass starts from; it can be rebuilt from the scans at any time.
 _Avoid_: book (alone), raw book

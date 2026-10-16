@@ -66,6 +66,9 @@ def main(argv=None) -> None:
     s.add_argument("book", help="book id (or a unique part of it)")
     s.add_argument("--force", action="store_true", help="finalize a new pass even though apply-corrections hasn't run on it")
 
+    s = sub.add_parser("export-web", help="generate the Web Edition from the Final Book: writes web/<book>/ (Markdown per story, table_of_contents.json) to copy into the website")
+    s.add_argument("book", help="book id (or a unique part of it)")
+
     sub.add_parser("status", help="progress per book")
 
     s = sub.add_parser("samples", help="run the pipeline on the sample pages in config/samples.yaml")
@@ -95,6 +98,14 @@ def main(argv=None) -> None:
         if len(books) != 1:
             raise SystemExit(f"{a.cmd} one book at a time")
         (final.apply_corrections if a.cmd == "apply-corrections" else final.finalize)(books[0], force=a.force)
+        return
+    if a.cmd == "export-web":
+        from . import web
+        from .common import resolve_books
+        books = resolve_books(a.book)
+        if len(books) != 1:
+            raise SystemExit("export-web one book at a time")
+        web.write(books[0])
         return
     if a.cmd == "samples":
         _samples(a.engines)
